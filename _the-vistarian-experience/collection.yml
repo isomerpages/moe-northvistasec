@@ -2,6 +2,7 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - Academic/Creative Studies.md
       - Academic/Humanities.md
       - Academic/Science.md
       - Academic/Mother Tongue.md
