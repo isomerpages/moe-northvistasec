@@ -10,3 +10,8 @@ Strive <br>
 Contribute <br>
 For a Better Future</center></p>
 
+<p><center><u><b>MISSION</u></b><br>
+We are committed to providing Vistarians <br>
+with a holistic education that will equip them with <br>
+the necessary values, knowledge and skills to meet
+challenges of the future</center></p>
