@@ -26,3 +26,15 @@ In NV’s Geography lessons students have been given opportunities to dip their 
 
 <img src="/images/Hum2020-12.jpg" 
      style="width:70%">
+		 
+### History
+
+History lessons are inquiry based in nature. Lower Secondary students are given the tools and lenses they need to discover the world and its past. As part of the experiential based learning experience, our students will also get to visit the Asian Civilization Museum, Changi Chapel Museum and enjoys tours of our Heritage sites such as the Peranakan Museum and the charming streets of Katong.
+
+To enhance their learning experience, students enjoy live and interactive Historical Investigation lessons in the Lower Secondary via the Historical exploration WIX site created by their very own teachers as well as direct source exploration via the use of authentic historical sources.
+
+Upper Secondary History students continue to see History come alive in their classroom where they enjoy ICT based lessons and role plays on pivotal events in History including WW II and The Cold War. Students also enjoy further experiential learning by participating in the Istana Heritage Challenge and National history Challenge and War and Diplomacy which is a game based learning experience.
+
+![](/images/history1.png)
+<img src="/images/Hum2020-9.jpg" 
+     style="width:60%">
