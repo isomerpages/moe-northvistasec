@@ -15,3 +15,9 @@ We are committed to providing Vistarians <br>
 with a holistic education that will equip them with <br>
 the necessary values, knowledge and skills to meet
 challenges of the future</center></p>
+
+<p><center><u><b>VALUES</u></b></center></p>
+
+
+<img src="/images/Values%202020.png" 
+     style="width:80%">
