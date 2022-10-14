@@ -2,5 +2,6 @@ collections:
   school-info:
     output: true
     order:
+      - Our Crest & Anthem.md
       - Our Vision, Mission & Values.md
       - History.md
