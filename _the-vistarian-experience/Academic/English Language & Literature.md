@@ -43,20 +43,21 @@ The texts offered from Academic Year 2021 are as follows:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cdi7">Secondary 1<br><img src="https://northvistasec.moe.edu.sg/qql/slot/u172/files/Contents/Dept./EL/2021/EL-21iii.jpg" alt="EL-21iii.jpg" width="179" height="261"></td>
+    <td class="tg-cdi7">Secondary 1<br><img src="/images/EL-21iii.jpg" alt="EL-21iii.jpg" width="179" height="261"></td>
     <td class="tg-1g8u">The Boy in the Striped Pyjamas tells the story of nine-year-old Bruno, a German boy and his friendship with Shmuel, <br>a Jewish prisoner of his own age in the concentration camp at Auschwitz during World War II.</td>
   </tr>
   <tr>
-    <td class="tg-cdi7">Secondary 2<span style="background-color:initial"> </span><br><img src="https://northvistasec.moe.edu.sg/qql/slot/u172/files/Contents/Dept./EL/2021/EL-21iv2.jpg" alt="EL-21iv2.jpg" width="173" height="227"></td>
+    <td class="tg-cdi7">Secondary 2<span style="background-color:initial"> </span><br><img src="/images/EL-21iv2.jpg" alt="EL-21iv2.jpg" width="173" height="227"></td>
     <td class="tg-1g8u">Something Old, Something New, Something Borrowed… is an anthology that contains three Singaporean plays for Lower <span style="background-color:initial">Secondary students that revolve around the theme of family.</span></td>
   </tr>
   <tr>
-    <td class="tg-nbj5"><br>Upper Secondary Literature Drama Text[for Pure Literature]<br><br><img src="https://northvistasec.moe.edu.sg/qql/slot/u172/files/Contents/Dept./EL/2021/EL-21v.jpg" alt="EL-21v.jpg" width="179" height="274"></td>
+    <td class="tg-nbj5"><br>Upper Secondary Literature Drama Text[for Pure Literature]<br><br><img src="/images/EL-21v.jpg" alt="EL-21v.jpg" width="179" height="274"></td>
     <td class="tg-jxgv">Set in racially-segregated 1950s America, A Raisin in the Sun depicts the lives of the Youngers, <br>an impoverished African American family living in a cramped apartment in the South Side of Chicago.<br> </td>
   </tr>
   <tr>
-    <td class="tg-cdi7">Upper Secondary Prose Text<br>[for Pure, Elective and Normal (Academic) Literature]<br><img src="https://northvistasec.moe.edu.sg/qql/slot/u172/files/Contents/Dept./EL/2021/EL-21vi.jpg" alt="EL-21vi.jpg" width="192" height="293"></td>
+    <td class="tg-cdi7">Upper Secondary Prose Text<br>[for Pure, Elective and Normal (Academic) Literature]<br><img src="/images/EL-21vi.jpg" alt="EL-21vi.jpg" width="192" height="293"></td>
     <td class="tg-1g8u">Kindred is set in two places: modern twentieth-century America, where Dana, a black woman <span style="background-color:initial">is married to a white man, and 1815 Antebellum South, where Dana periodically time-travels to. </span><br><span style="background-color:initial">The text explores</span> <span style="background-color:initial">the plantations in 1815 and the lives of slaves and plantation owners through the author’s vivid descriptions of the environment and people living there.</span></td>
   </tr>
 </tbody>
 </table>
+
