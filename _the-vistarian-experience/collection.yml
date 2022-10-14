@@ -2,12 +2,12 @@ collections:
   the-vistarian-experience:
     output: true
     order:
-      - Academic/Education Technology.md
-      - Academic/Physical Education & Sports Science Department.md
-      - Academic/Creative Studies.md
-      - Academic/Humanities.md
-      - Academic/Science.md
-      - Academic/Mother Tongue.md
-      - Academic/Mathematics.md
-      - Academic/English Language & Literature.md
       - Academic/.keep
+      - Academic/English Language & Literature.md
+      - Academic/Mathematics.md
+      - Academic/Mother Tongue.md
+      - Academic/Science.md
+      - Academic/Humanities.md
+      - Academic/Creative Studies.md
+      - Academic/Physical Education & Sports Science Department.md
+      - Academic/Education Technology.md
