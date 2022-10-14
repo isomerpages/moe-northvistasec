@@ -2,6 +2,7 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - Academic/Education Technology.md
       - Academic/Physical Education & Sports Science Department.md
       - Academic/Creative Studies.md
       - Academic/Humanities.md
