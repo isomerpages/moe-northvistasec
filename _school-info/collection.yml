@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - School Advisory Committee.md
       - Organisation Chart.md
       - Our Crest & Anthem.md
       - Our Vision, Mission & Values.md
