@@ -51,13 +51,17 @@ The texts offered from Academic Year 2021 are as follows:
     <td class="tg-1g8u">Something Old, Something New, Something Borrowed… is an anthology that contains three Singaporean plays for Lower <span style="background-color:initial">Secondary students that revolve around the theme of family.</span></td>
   </tr>
   <tr>
-    <td class="tg-nbj5"><br>Upper Secondary Literature Drama Text[for Pure Literature]<br><br><img src="/images/EL-21v.jpg" alt="EL-21v.jpg" width="179" height="274"></td>
+    <td class="tg-nbj5"><br><span style="font-weight:bold;font-style:italic">Upper Secondary</span> <br><br>Literature Drama Text[for Pure Literature]<br><br><img src="/images/EL-21v.jpg" alt="EL-21v.jpg" width="179" height="274"></td>
     <td class="tg-jxgv">Set in racially-segregated 1950s America, A Raisin in the Sun depicts the lives of the Youngers, <br>an impoverished African American family living in a cramped apartment in the South Side of Chicago.<br> </td>
   </tr>
   <tr>
-    <td class="tg-cdi7">Upper Secondary Prose Text<br>[for Pure, Elective and Normal (Academic) Literature]<br><img src="/images/EL-21vi.jpg" alt="EL-21vi.jpg" width="192" height="293"></td>
+    <td class="tg-cdi7">Upper Secondary Prose Text<br><br>for Pure, Elective and Normal (Academic) Literature]<br><br><img src="/images/EL-21vi.jpg" alt="EL-21vi.jpg" width="192" height="293"></td>
     <td class="tg-1g8u">Kindred is set in two places: modern twentieth-century America, where Dana, a black woman <span style="background-color:initial">is married to a white man, and 1815 Antebellum South, where Dana periodically time-travels to. </span><br><span style="background-color:initial">The text explores</span> <span style="background-color:initial">the plantations in 1815 and the lives of slaves and plantation owners through the author’s vivid descriptions of the environment and people living there.</span></td>
   </tr>
 </tbody>
 </table>
+
+
+
+
 
