@@ -41,3 +41,13 @@ To nurture the joy of learning, the Secondary 2 Express and Normal (Academic) st
 
 ![](/images/maths5.png)
 ![](/images/maths6.png)
+
+**Singapore Mathematics Competition for Normal Course**
+
+This annual competition aims to stimulate greater interest and enrich students’ knowledge in Mathematics. It also provides an opportunity for Normal Course students to showcase their talent in mathematical knowledge and skills through solving challenging questions.
+
+![](/images/m2019-4.jpg)
+
+**Singapore Mathematical Olympiad Training & Competition**
+
+As  part of our Talent Development Programme, a 10-week Math Olympiad Training will be organized for a selected group of Secondary Two Express students. This training programme aims to develop in our students’ higher-order problem solving skills which include non-routine, open-ended and real-world problems.
