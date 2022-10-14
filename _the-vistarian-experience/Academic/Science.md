@@ -36,3 +36,9 @@ We involve students in workshops at the Science Centre and Science-based competi
 **Students at various Science Competitions**
 
 Students are provided with opportunities to pursue and deepen their interest in Science through competitions such as the Science Buskers' Festival and the National STEM Championship organised by the Science Center
+
+![](/images/sci8.png)
+![](/images/sci9.png)
+![](/images/sci10.png)
+![](/images/sci11.png)
+![](/images/sci-22-10.jpg)
