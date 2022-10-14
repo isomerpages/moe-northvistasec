@@ -38,3 +38,11 @@ Upper Secondary History students continue to see History come alive in their cla
 ![](/images/history1.png)
 <img src="/images/Hum2020-9.jpg" 
      style="width:60%">
+		 
+### Social Studies
+
+The Social Studies curriculum aspires toward the growth of our students as informed, concerned and participative citizens. At the heart of the Singapore Social Studies curriculum is the preparation of our students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human experience.
+
+Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. To help students attain relevant knowledge and understanding about these issues and to allow them to develop critical and reflective thinking skills. Students work on discovering needs and concerns within Singapore society and how they can help to make Singapore a better place for all. Through such inquiry and authentic learning experiences, students are able to appreciate multiple perspectives and be inspired to show concern for the society and the world they live. Upper Secondary students also get to engage in discussions on global issues and take on the role of key decision makers in the UN Model Cabinet as part of the Social Studies learning experience.
+
+![](/images/social%20studies1.png)
