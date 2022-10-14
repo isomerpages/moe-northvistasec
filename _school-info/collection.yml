@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - Organisational Chart.md
       - Our Crest & Anthem.md
       - Our Vision, Mission & Values.md
       - History.md
