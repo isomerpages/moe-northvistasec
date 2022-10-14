@@ -2,5 +2,6 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - Academic/Mathematics.md
       - Academic/English Language & Literature.md
       - Academic/.keep
