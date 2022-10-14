@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - School Calendar.md
       - School Leaders.md
       - School Advisory Committee.md
       - Organisation Chart.md
