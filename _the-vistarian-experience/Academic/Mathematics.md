@@ -20,3 +20,24 @@ Students will be guided to make detailed observations and analyse evidence by ex
 
 <img src="/images/Maths1.jpg" 
      style="width:60%">
+		 
+The Mathematics department aims to  
+
+1.  **engage** students through providing a differentiated academic curriculum and a learner-centred environment while harnessing the strengths of ICT and curriculum innovations,
+
+![](/images/maths2.png)
+
+2. **excite** students through the use of experiential learning and technological tools that allows them to see the relevance of Mathematics,
+
+![](/images/maths3.png)
+
+3. **enrich** students by creating learning opportunities for students to analyze, interpret, formulate, make connections and apply mathematical concepts to real world situations.
+
+![](/images/maths4.png)
+
+**Mathematics Trail**  
+
+To nurture the joy of learning, the Secondary 2 Express and Normal (Academic) students will take part in the annual Mathematics Trail, organized by our teachers where students use their creative thinking skills to solve real world problems at different stations. Through this activity, the students get to experience the relevance of Mathematics around them and work together as a team. This will complement classroom lessons to further enhance their learning.
+
+![](/images/maths5.png)
+![](/images/maths6.png)
