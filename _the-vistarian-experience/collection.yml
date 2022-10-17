@@ -2,6 +2,7 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - NV Goes Global Programme/NV Goes Global Programme.md
       - NV Goes Global Programme/.keep
       - Learning for Life Programme.md
       - Applied Learning Programme.md
