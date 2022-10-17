@@ -64,3 +64,5 @@ On 19 July 2017, the school hosted 6 teachers and 19 students from our partner s
 ![](/images/deyang.png)
 <img src="/images/Deyang1.jpg" 
      style="width:80%">
+		 
+On 31 October 2017, the school hosted 5 government officials from the district **Deyang** city in Sichuan province, China. The participants spent half-a-day in North Vista to learn about NV’s Curriculum. They were also given a tour of the school led by our teachers.
