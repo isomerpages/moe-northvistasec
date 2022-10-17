@@ -2,6 +2,8 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - Hosting Our Overseas Partners/Hosting Our Overseas Partners 2016
+        Archive.md
       - Hosting Our Overseas Partners/Hosting Our Overseas Partners 2015
         Archive.md
       - Hosting Our Overseas Partners/Hosting Our Overseas Partners.md
