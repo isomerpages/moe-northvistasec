@@ -2,6 +2,7 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - CCE/.keep
       - Academic/.keep
       - Academic/English Language & Literature.md
       - Academic/Mathematics.md
