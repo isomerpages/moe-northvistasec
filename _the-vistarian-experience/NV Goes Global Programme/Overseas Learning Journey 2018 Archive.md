@@ -12,4 +12,4 @@ third_nav_title: NV Goes Global Programme
 6. [Thailand Twinning Programme](https://nvathletics.tumblr.com/) - Track & Field (10 Nov - 14 Nov)  
 7. [Taiwan Cultural Immersion Trip](https://nvchinesedanceimmersionprogrammetotaiwan2018.wordpress.com/) - Chinese Dance (21 Nov - 25 Nov)  
 8. [Hong Kong Student Exchange Programme](https://nvsocceriteshkg2018.tumblr.com/) - Soccer (12 Nov - 16 Nov)  
-9. [Taiwan Student Exchange Programme](https://nvtaiwanbasketball2018.home.blog/) \- Basketball (13 Nov - 17 Nov)
+9. [Taiwan Student Exchange Programme](https://nvtaiwanbasketball2018.home.blog/) - Basketball (13 Nov - 17 Nov)
