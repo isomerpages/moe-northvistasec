@@ -65,3 +65,8 @@ The ALP Farm-to-Table Programme 2022 consists of 2 tiers:
 ![](/images/alp7.png)
 
 <strong><center>A whole-school approach… Teachers at work!</center></strong>
+
+![](/images/alp8.png)
+
+<img src="/images/alp9.png" 
+     style="width:75%">
