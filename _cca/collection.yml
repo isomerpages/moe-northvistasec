@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Symphonic Band.md
       - Performing Arts/.keep
       - Clubs & Society/.keep
       - Clubs & Society/Infocomm Club.md
