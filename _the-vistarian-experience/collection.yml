@@ -2,6 +2,7 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - Student Leadership.md
       - Student Development.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
