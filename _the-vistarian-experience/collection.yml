@@ -2,6 +2,8 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - Hosting Our Overseas Partners/Hosting Our Overseas Partners 2015
+        Archive.md
       - Hosting Our Overseas Partners/Hosting Our Overseas Partners.md
       - Hosting Our Overseas Partners/.keep
       - NV Goes Global Programme/.keep
