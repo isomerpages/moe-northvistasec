@@ -46,3 +46,30 @@ There are 3 groups of Student Leaders in North Vista – Prefectorial Board, CCA
 
 <img src="/images/Overall%20SLC.jpg" 
      style="width:75%">
+		 
+**Prefectorial Board**  
+
+As the apex of the Student Leadership body, the NV Prefectorial Board spearheads the following:
+
+*   Management of morning duties
+*   Enhancement of student welfare (gathering student feedback)
+*   Organisation and support for school-wide events (e.g. NV Open House, Sec 1 Orientation)
+*   Spearheading self-initiated activities (e.g. VIA projects)
+
+<img src="/images/sl1.png" 
+     style="width:85%">
+		 
+**CCA Leaders**  
+
+CCA leaders work closely with the teachers-in-charge and coaches to lead and motivate CCA members to work towards CCA goals.
+
+
+<img src="/images/sl2.png" 
+     style="width:85%">
+
+**Class Committee**
+
+Class Committee members support Form teachers and Subject teachers in ensuring that the class is well-maintained in terms of order and discipline. They are also involved in the planning of class-based activities and also events such as Youth Day and Teachers’ Day.
+
+<img src="/images/sl3.png" 
+     style="width:100%">
