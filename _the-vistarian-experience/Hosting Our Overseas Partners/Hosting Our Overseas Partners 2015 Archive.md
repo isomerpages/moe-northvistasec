@@ -30,3 +30,16 @@ On 9 March 2015, the school hosted twenty education officers from SKH Lui Ming C
 
 On 31 March 2015, the school hosted twenty-one administrators and educators from Lam Tai Fai College. A sharing on NV’s Distinctive Programme and the Singapore’s Education System was shared. A school tour was conducted by our student leaders for our guests.
 
+### 5. Te Puke High School
+
+![](/images/Te%20Puke%20High%20School.png)
+
+On 3 Jul 2015, the school hosted the Principal, three educators and thirty-one students from Te Puke High School. The programme was a day of school experience which ended with a cultural exchange in the afternoon. The students spent the afternoon at River Safari with their new found friends and had an al fresco dining experience at Makansutra Gluttons Bay.
+
+### 6. Confederation of Indian Industry
+
+![](/images/Confederation%20of%20Indian%20Industry.png)
+
+On 27 August 2015, the school hosted 19 participants from the Confederation of Indian Industry. They wanted to learn more about the school and its Distinctive Programme.  A school tour was conducted by our student leaders for our guests.
+
+
