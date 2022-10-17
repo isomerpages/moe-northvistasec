@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - NV Goes Global Programme/.keep
-      - NV Goes Global Programme.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Student Leadership.md
