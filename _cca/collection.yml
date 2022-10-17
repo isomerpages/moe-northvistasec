@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Performing Arts/.keep
+      - Performing Arts/Symphonic Band.md
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Choir.md
       - Performing Arts/Drama Club.md
       - Performing Arts/Modern Dance.md
-      - Performing Arts/Symphonic Band.md
       - Performing Arts/String Ensemble.md
       - Clubs & Society/.keep
       - Clubs & Society/Infocomm Club.md
