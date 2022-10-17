@@ -4,3 +4,101 @@ permalink: /cca/clubs-n-society/service-learning-club/
 description: ""
 third_nav_title: Clubs & Society
 ---
+The Service Learning Club is club set up in aid of the less fortunate within our community. The club comprises of students who are keen to serve the community and help make the lives of both people and animals in need better. The students also aid in environmental projects. 
+
+The club activities include direct service through kindness projects, expressing the values of kindness through poetry writing as well as running fund raisers to support causes we believe in. Club members also engage in direct service to beneficiaries such as the elderly in homes, rescue animals in shelters and aiding in keeping the environment clean and green.
+
+The Service Learning Club hopes to continue spreading love and kindness not just within North Vista Secondary but to various communities in need via their various Welfare Projects. We hope to develop Vistarians of Character who have the commitment and passion to make the world a better place!
+
+**Teachers-In-Charge:**  
+
+Mrs Christine Tan  <br>
+Ms Nurzuhailah  <br>
+Mr Mohamad Hafeez
+
+  
+
+### Training Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Day</th>
+    <th class="tg-amwm">Time</th>
+    <th class="tg-amwm">Venue</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">Tuesdays</td>
+    <td class="tg-baqh">3:30 pm – 5.30 pm</td>
+    <td class="tg-baqh">AVA Room<br></td>
+  </tr>
+</tbody>
+</table>
+
+### Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Year</th>
+    <th class="tg-9hzb"> Competition</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig" rowspan="3">2021</td>
+    <td class="tg-ktyi">Friends of Singa </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Singapore Kindness Movement Poetry Writing Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">SKM-LTA Colouring Competition </td>
+  </tr>
+  <tr>
+    <td class="tg-7yig" rowspan="3">2020</td>
+    <td class="tg-ktyi">Friends of Singa, Most Heartfelt Appreciation Initiative</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Singapore Kindness Movement Poetry Writing Competition (Certificate of Participation) </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Citi Bank YMCA Youth for Causes Project </td>
+  </tr>
+  <tr>
+    <td class="tg-7yig" rowspan="2">2019</td>
+    <td class="tg-ktyi">Friends of Singa, Most innovative project</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Singapore Kindness Movement Poetry Writing Competition (2nd Runner Up)</td>
+  </tr>
+</tbody>
+</table>
+
+
+<img src="/images/sl-21iii.jpg" 
+     style="width:75%">
+![](/images/slc.png)
+![](/images/slc2.png)
+![](/images/SKM%20poem-1.jpg)
