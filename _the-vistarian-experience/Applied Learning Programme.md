@@ -48,3 +48,19 @@ The ALP Farm-to-Table Programme 2022 consists of 2 tiers:
   </tr>
 </tbody>
 </table>
+
+<strong><center>Secondary 1 – From Farm-To-Table Programme (Using traditional farming methods - soil)</center></strong>
+
+![](/images/alp1.png)
+![](/images/alp2.png)
+
+<strong><center>Secondary 2 – From Farm-To-Table Programme (Using High Tech Farming Methods - Hydroponics)</center></strong>
+
+![](/images/alp4.png)
+![](/images/alp5.png)
+
+<img src="/images/alp6.png" 
+     style="width:60%">
+		 
+![](/images/alp7.png)
+
