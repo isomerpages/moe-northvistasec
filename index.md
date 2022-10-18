@@ -38,6 +38,6 @@ sections:
   - infopic:
       title: Blended Learning @ NV
       button: Click here
-      url: https://sites.google.com/moe.edu.sg/blendedlearning-nv/
+      url: sites.google.com/moe.edu.sg/blendedlearning-nv/
       image: /images/blendedlearningicon.png
 ---
