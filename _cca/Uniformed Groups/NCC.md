@@ -117,3 +117,5 @@ Mrs Lee Lu Xian
 
 -   NCC Day Parade  
 -   NDP Parade
+
+![](/images/ncc.png)
