@@ -4,9 +4,8 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <img src="/images/npcclogo.jpg" 
-     style="width:50%">
+     style="width:30%">
 		 
 In our NPCC journey, the host of activities provides us with the opportunity to push our boundaries. These include camps, camp craft competitions, enrichment programs such as one-star kayaking and shooting. Through these activities, we become confident persons who can communicate and collaborate meaningfully with our squad mates, the community and even the country. As the only uniformed youth organization that is affiliated to the Singapore Police Force, it allows us unique opportunities to attend courses and visit neighborhood police centres (NPC) to gain exposure and understanding to crime prevention in Singapore. We also have an extensive and structured training program that goes beyond just drills training.
 
