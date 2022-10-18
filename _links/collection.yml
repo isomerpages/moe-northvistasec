@@ -2,5 +2,6 @@ collections:
   links:
     output: true
     order:
+      - For Parents/Group Personal Accident Insurance.md
       - For Parents/DSA.md
       - For Parents/.keep
