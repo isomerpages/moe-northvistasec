@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - NV 66th Speech and Prize Presentation 2022.md
