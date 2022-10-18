@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - National School Games 2022 – Fixtures & Results.md
-      - National School Games – Basketball.md
-      - Singapore Amazing Flying Machine Competition.md
       - NV 66th Speech and Prize Presentation 2022.md
+      - Singapore Amazing Flying Machine Competition.md
+      - National School Games – Basketball.md
+      - National School Games 2022 – Fixtures & Results.md
