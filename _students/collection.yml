@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - School Library Catalogue.md
-      - Books & Stationery List.md
-      - ECG.md
-      - eHandbook.md
-      - End of Year Examination.md
       - Timetable.md
+      - End of Year Examination.md
+      - eHandbook.md
+      - ECG.md
+      - Books & Stationery List.md
+      - School Library Catalogue.md
