@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - eHandbook.md
       - End of Year Examination.md
       - Timetable.md
