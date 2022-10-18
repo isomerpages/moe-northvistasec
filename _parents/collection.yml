@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - SEN.md
+      - Special Education Needs.md
       - Parents Gateway.md
       - Financial Assistance.md
       - NVPP.md
