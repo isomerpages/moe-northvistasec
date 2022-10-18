@@ -132,3 +132,21 @@ The requirements for the talent areas are as follow:
 </table>
 
 **Please note that students who are unable to attend the trial/audition for valid reasons can make alternative arrangements subject to the availability of school staff. The request for alternative arrangements can be made via phone or email to the school.**
+
+### Selection Outcome
+
+All shortlisted applicants will be notified of the selection outcome via post by Monday, 12 September 2022 (or earlier).  
+
+Confirmed and waitlisted students will receive a School Preference Form from their primary school in late October.
+
+### Further Information
+
+For further information or clarification, please contact our school’s DSA coordinator via phone or email.
+
+*   Mr Javier Yon (HOD PE/CCA)
+
+Telephone: 6879 3930      
+
+Email: [northvistass@moe.edu.sg](mailto:northvistass@moe.edu.sg) **(Subject: DSA Enquiries)**
+
+Please refer to MOE Website at [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec) for further information on the guidelines and timeline for DSA-Sec.
