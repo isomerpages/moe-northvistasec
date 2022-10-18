@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Students/.keep
       - For Parents/.keep
       - For Parents/Links.md
       - For Parents/DSA.md
