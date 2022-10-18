@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - School Library Catalogue.md
       - Books & Stationery List.md
       - ECG.md
       - eHandbook.md
