@@ -29,7 +29,9 @@ The Arts Enrichment programme in North Vista Secondary engages each student by t
 
 ![](/images/creative%20studies%201.png)
 ![](/images/creative%20studies2.png)
-![](/images/creative%20studies3.png)
+<img src="/images/creative%20studies3.png" 
+     style="width:75%">
+
 
 ### The NV Design & Technology Experience
 
