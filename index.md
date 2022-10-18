@@ -25,9 +25,8 @@ sections:
           description: ""
           url: https://nsg.moe.edu.sg/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Announcements
+      description: Read more about announcements
+      button: Click here
+      url: /announcements/nv-66th-speech-and-prize-presentation-2022/
 ---
