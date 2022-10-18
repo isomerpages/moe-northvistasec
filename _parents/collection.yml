@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents Gateway.md
       - NVPP.md
       - Parent Teacher Meetings 2022.md
       - SEN.md
