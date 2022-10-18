@@ -1,6 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: School Info
+    collection: school-info
+  - title: The Vistarian Experience
+    collection: the-vistarian-experience
+  - title: CCA
+    collection: cca
+  - title: Parents
+    collection: parents
+  - title: Students
+    collection: students
+  - title: Links
+    collection: links
