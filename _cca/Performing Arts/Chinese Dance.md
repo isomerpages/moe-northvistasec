@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <img src="/images/chinesedance.jpg" 
-     style="width:40%">
+     style="width:30%">
 		 
 The Chinese Dance Club has been very active since its inception in Thomson Secondary School.  It continues to prosper when the school moved to Sengkang.  The Chinese dancers practice hard throughout the year, even during holidays, so that they can put up their best performance whenever they are on stage.
 
