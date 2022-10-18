@@ -32,4 +32,3 @@ NVPP complements the school by aligning with the school’s objectives, supporti
 NVPP listens to parents’ feedback on school operations, practices and programmes and provides feedback to the school.
 
 Join us today to support NVPP with your time, talent and thoughts. Together as a team, we enrich our children’s school life!
-
