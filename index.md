@@ -7,21 +7,23 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: North Vista Secondary School
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: NV PDLP
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/nvpdlp/
+        - title: Sexuality Education
+          description: ""
+          url: /the-vistarian-experience/character-n-citizenship-education/sexuality-education/
+        - title: Direct School Admissions
+          description: ""
+          url: /links/parents/dsa/
+        - title: National School Games
+          description: ""
+          url: https://nsg.moe.edu.sg/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,5 +31,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
