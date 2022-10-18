@@ -130,3 +130,5 @@ The requirements for the talent areas are as follow:
   </tr>
 </tbody>
 </table>
+
+**Please note that students who are unable to attend the trial/audition for valid reasons can make alternative arrangements subject to the availability of school staff. The request for alternative arrangements can be made via phone or email to the school.**
