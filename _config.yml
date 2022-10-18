@@ -2,8 +2,8 @@ title: North Vista Secondary School
 url: https://northvistasec.moe.edu.sg
 favicon: /images/NorthVis.png
 colors:
-  primary-color: "#ffffff"
-  secondary-color: "#02225c"
+  primary-color: "#02225c"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
