@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - "NV E–Annual : The Covid Edition.md"
       - National School Games 2022 – Fixtures & Results.md
       - National School Games – Basketball.md
       - Singapore Amazing Flying Machine Competition.md
