@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - Financial Assistance.md
+      - SEN.md
       - Parents Gateway.md
+      - Financial Assistance.md
       - NVPP.md
       - Parent Teacher Meetings 2022.md
-      - SEN.md
