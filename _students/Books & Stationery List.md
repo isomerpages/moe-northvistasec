@@ -18,3 +18,7 @@ description: ""
 - [Sec 4 Normal (Academic)](/files/s4NA-booklist_NV2022.pdf)
 - [Sec 4 Normal (Technical)](/files/s4NT-booklist_NV2022.pdf)
 - [Sec 5 Normal (Academic)](/files/s5NA-booklist_NV2022.pdf)
+
+You are able to purchase your books online at the following website:  
+
+[https://www.pacificbookstores.com](https://www.pacificbookstores.com/)
