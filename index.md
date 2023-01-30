@@ -26,7 +26,7 @@ sections:
           url: https://nsg.moe.edu.sg/
   - infobar:
       title: Announcements
-      description: Read more about the announcements
+      description: Read more about the latest announcements
       button: CLICK HERE
       url: /announcements/2023secondaryonematters/
   - infopic:
