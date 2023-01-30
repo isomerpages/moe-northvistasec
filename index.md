@@ -44,5 +44,5 @@ sections:
       title: News
       description: Catch the latest news
       button: Click here
-      url: /announcements/nv-66th-speech-and-prize-presentation-2022/
+      url: /news/national-school-games-2022-fixture-n-results/
 ---
