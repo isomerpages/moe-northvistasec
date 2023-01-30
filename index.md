@@ -28,7 +28,7 @@ sections:
       title: Announcements
       description: Read more about the announcements
       button: CLICK HERE
-      url: /announcements/nv-66th-speech-and-prize-presentation-2022/
+      url: /announcements/2023secondaryonematters/
   - infopic:
       title: NV PDLP
       button: Click Here
