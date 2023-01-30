@@ -25,8 +25,8 @@ sections:
           description: ""
           url: https://nsg.moe.edu.sg/
   - infobar:
-      title: Announcements
-      description: Read more about announcements
+      title: News
+      description: Read more about the latest news
       button: Click here
       url: /announcements/nv-66th-speech-and-prize-presentation-2022/
   - infopic:
