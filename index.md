@@ -25,9 +25,9 @@ sections:
           description: ""
           url: https://nsg.moe.edu.sg/
   - infobar:
-      title: News
-      description: Read more about the latest news
-      button: Click here
+      title: Announcements
+      description: Read more about the announcements
+      button: CLICK HERE
       url: /announcements/nv-66th-speech-and-prize-presentation-2022/
   - infopic:
       title: NV PDLP
@@ -40,4 +40,9 @@ sections:
       button: Click here
       url: sites.google.com/moe.edu.sg/blendedlearning-nv/
       image: /images/blendedlearningicon.png
+  - infobar:
+      title: News
+      description: Catch the latest news
+      button: Click here
+      url: /announcements/nv-66th-speech-and-prize-presentation-2022/
 ---
