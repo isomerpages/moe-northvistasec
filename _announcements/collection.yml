@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - CCA Training Schedule 2023.md
       - O Level Result Release 2023 (Briefing for Students).md
       - 2023 Secondary One Matters.md
       - "For Parents: GCE N & O Level Info Sheet.md"
+      - CCA Training Schedule 2023.md
