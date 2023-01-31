@@ -26,7 +26,7 @@ sections:
           url: https://nsg.moe.edu.sg/
   - infobar:
       title: Announcements
-      description: Read more about the latest announcements
+      description: Read more about our latest announcements
       button: CLICK HERE
       url: /announcements/2023secondaryonematters/
   - infopic:
@@ -45,7 +45,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: News
-      description: Catch the latest news
+      description: Catch our latest news!
       button: Click here
       url: /news/national-school-games-2022-fixture-n-results/
 ---
