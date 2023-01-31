@@ -40,7 +40,7 @@ sections:
       title: Blended Learning @ NV
       button: Click here
       url: https://sites.google.com/moe.edu.sg/blendedlearning-nv/home?authuser=0
-      image: /images/moe parent.png
+      image: /images/Blended.jpg
       description: Home-Based Learning & Student-Initiated Learning
   - infobar:
       title: News
