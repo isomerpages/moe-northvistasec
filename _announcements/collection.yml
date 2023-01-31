@@ -2,5 +2,5 @@ collections:
   announcements:
     output: true
     order:
-      - O Level Result Release 2023 (Briefing for Students).md
       - 2023 Secondary One Matters.md
+      - O Level Result Release 2023 (Briefing for Students).md
