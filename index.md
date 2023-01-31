@@ -42,6 +42,7 @@ sections:
       url: https://sites.google.com/moe.edu.sg/blendedlearning-nv/home?authuser=0
       image: /images/Blended.jpg
       description: Home-Based Learning & Student-Initiated Learning
+      alt: Image alt text
   - infobar:
       title: News
       description: Catch the latest news
