@@ -33,13 +33,15 @@ sections:
       title: NV PDLP
       button: Click Here
       url: https://sites.google.com/moe.edu.sg/nvpdlp/
-      image: /images/PDLP.png
+      image: /images/PDLP.jpg
       alt: Image alt text
+      description: Resource Site - http://go.gov.sg/nvpdlp
   - infopic:
       title: Blended Learning @ NV
       button: Click here
       url: sites.google.com/moe.edu.sg/blendedlearning-nv/
-      image: /images/blendedlearningicon.png
+      image: /images/moe parent.png
+      description: Home-Based Learning & Student-Initiated Learning
   - infobar:
       title: News
       description: Catch the latest news
