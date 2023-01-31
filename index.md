@@ -28,7 +28,7 @@ sections:
       title: Announcements
       description: Read more about our latest announcements
       button: CLICK HERE
-      url: /announcements
+      url: /announcements/2023secondaryonematters/
   - infopic:
       title: NV PDLP
       button: Click Here
