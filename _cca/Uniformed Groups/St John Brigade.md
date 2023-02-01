@@ -11,8 +11,8 @@ NVSJB is a vibrant and dynamic CCA. Wound bandaging and life-saving skills aside
 
 **Teachers-in-Charge:**
 
-Ms Sam Li Ying <br>
-Mr Tan Jia Rong
+Mr Keith Zhang Boliang <br>
+
 
   
 
@@ -79,4 +79,3 @@ Mr Tan Jia Rong
 
 ![](/images/st%20john%201.png)
 ![](/images/st%20john%202.png)
-
