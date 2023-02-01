@@ -13,7 +13,7 @@ The band holds to its motto **‘One Band, One Sound’**, as we believe that m
 Ms Lim Jia Hui <br>
 Mrs Tan Hui Yu <br>
 Mrs Jamna Anba <br>
-Mrs Lily Theodore
+
 
   
 
