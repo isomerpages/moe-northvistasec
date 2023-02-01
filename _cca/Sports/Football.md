@@ -14,7 +14,6 @@ NV Football CCA also focuses on inculcating values such as discipline, responsib
 
 Mr Rick Ho <br>
 Mr Abdul Hakim <br>
-Mdm Nur Shereen<br>
 Mdm Nur Fadhilah
 
 **Coaching Team:**
