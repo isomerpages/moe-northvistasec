@@ -26,16 +26,6 @@ sections:
           url: https://nsg.moe.edu.sg/
   - resources:
       title: Announcements & News
-  - infobar:
-      title: Announcements
-      description: Read more about our latest announcements
-      button: CLICK HERE
-      url: /announcements/2023secondaryonematters/
-  - infobar:
-      title: News
-      description: Catch our latest news!
-      button: Click here
-      url: /news/national-school-games-2022-fixture-n-results/
   - infopic:
       title: NV PDLP
       button: Click Here
