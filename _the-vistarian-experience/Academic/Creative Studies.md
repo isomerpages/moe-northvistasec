@@ -35,6 +35,8 @@ The Arts Enrichment programme in North Vista Secondary engages each student by t
 
 ### The NV Design & Technology Experience
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkY9N-ggskY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Design and technology is the study of the production of man-made objects to solve real human needs. The production of these objects is carried out through the creative disciplined strategy called the design thinking process that focuses on user empathy and stretches the student imagination to the fullest. D&T provides an exciting platform for student to define the scope of their project based on a given theme. They are then guided to ideate, develop and finally construct a prototype.
 
   
