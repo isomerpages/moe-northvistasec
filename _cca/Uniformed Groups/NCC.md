@@ -24,9 +24,8 @@ Our unit has performed well at inter-unit competitions organised by NCC HQ. Sinc
 **Teachers–in–Charge:**
 
 Mr Lim Shian Ruenn <br>
-Mr Zulkifli Khalil <br>
 Mr Ong Ben Ping <br>
-Mrs Lee Lu Xian
+Ms Dino Loo
 
   
 
