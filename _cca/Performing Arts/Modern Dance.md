@@ -12,7 +12,7 @@ Under the leadership of their instructor, Mr Ronnie Chen, the dancers have soare
 Mdm Nur Atiqah  <br>
 Mrs Tang - Mak Hui Yi  <br>
 Ms Kalyani  <br>
-Ms Liyana Sulaiman  
+Ms Anna Mathew  
   
 
 ### Training Schedule
