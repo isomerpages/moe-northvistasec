@@ -8,3 +8,5 @@ third_nav_title: For Parents
 * [Returning Singaporeans](https://www.moe.gov.sg/returning-singaporeans)
 * [International Students](https://www.moe.gov.sg/international-students)
 * [Post Secondary](https://www.moe.gov.sg/post-secondary)
+* [MOE Sexuality Education](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
+* [MOE Sexuality Education (Scope)](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)
