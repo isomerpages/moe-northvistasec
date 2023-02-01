@@ -13,8 +13,8 @@ The Service Learning Club hopes to continue spreading love and kindness not jus
 **Teachers-In-Charge:**  
 
 Mrs Christine Tan  <br>
-Ms Nurzuhailah  <br>
-Mr Mohamad Hafeez
+Mr Mohamad Hafeez  <br>
+Mr Soong Beng Sion
 
   
 
