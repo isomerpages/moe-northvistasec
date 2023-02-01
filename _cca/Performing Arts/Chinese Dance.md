@@ -20,7 +20,6 @@ The Chinese Dancers will continue to work hard for better achievements in future
 **Teachers-In-Charge:**
 
 Ms Lee Bee Yen  <br>
-Mrs Lim - Chan Hui Ling <br>
 Mdm Tang Nyuk Fong   <br>
 Mdm Song Xuejing
 
