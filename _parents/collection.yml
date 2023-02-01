@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Sexuality Education.md
       - Special Education Needs.md
       - Parents Gateway.md
       - Financial Assistance.md
