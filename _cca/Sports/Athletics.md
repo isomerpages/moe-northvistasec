@@ -18,7 +18,8 @@ We are certain that with our school behind us, nothing can stand in our way. Viv
 
 **Teachers-In-Charge:**
 
-Miss Trishta Kaur
+Mr Melvin Seow <br>
+Ms Tita Hariana
 
   
 
