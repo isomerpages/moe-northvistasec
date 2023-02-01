@@ -13,7 +13,8 @@ At each level, club members pick up skills through school training and certifica
 
 Mr Ong Yong Hui <br>
 Mr Ho Yenn Wah <br>
-Ms Ng Li Wei
+Ms Ng Li Wei <br>
+Mr Zhou Yang
 
   
 
