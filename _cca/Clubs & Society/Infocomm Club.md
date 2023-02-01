@@ -19,9 +19,9 @@ Do check out pictures taken by our club at: <br>
 
 **Teachers-In-Charge:**
 
-Ms Dino Loo   <br>
-Mr Victor Lam <br>
-Mr Tay Chee Thong
+Mr Victor Lam   <br>
+Mr Tay Chee Thong <br>
+Mr Tan Jia Rong
 
 ### Training Schedule
 
