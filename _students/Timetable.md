@@ -3,45 +3,52 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
-- [By Class](/files/2022%20Sem%202%20Timetable_CLASS_12%20Jul.pdf)
 
-### Odd Weeks for Semester 2, 2022
+- [By Class]() (Updated 13 Jan 2023)
 
-T3W1: 27 Jun – 1 Jul
+### Odd Weeks for Semester 1, 2023
 
-T3W3: 11 – 15 Jul
+T1W1: 3 – 6 Jan
 
-T3W5: 25 – 29 Jul
+T1W3: 16 – 20 Jan
 
-T3W7: 8 – 12 Aug
+T1W5: 30 Jan – 3 Feb
 
-T3W9: 22 – 26 Aug
+T1W7: 13 – 17 Feb
 
-T4W1: 12 – 16 Sep
+T1W9: 27 Feb – 3 Mar
 
-T4W3: 26 – 30 Sep
+T2W1: 20 – 24 Mar
 
-T4W5: 10 – 14 Oct
+T2W3: 3 – 7 Apr
 
-T4W7: 24 – 28 Oct
+T2W5: 17 – 21 Apr
 
-### Even Weeks for Semester 2, 2022
+T2W7: 1 – 5 May
 
-T3W2: 4 – 8 Jul
+T2W9: 15 – 19 May
 
-T3W4: 18 – 22 Jul
+### Even Weeks for Semester 1, 2023
 
-T3W6: 1 – 5 Aug
+T1W2: 9 – 13 Jan
 
-T3W8: 15 – 19 Aug
+T1W4: 23 – 27 Jan
 
-T3W10: 29 Aug – 2 Sep
+T1W6: 6 – 10 Feb
 
-T4W2: 19 – 23 Sep
+T1W8: 20 – 24 Feb
 
-T4W4: 3 – 7 Oct
+T1W10: 6 – 10 Mar
 
-T4W6: 17 – 21 Oct
+T2W2: 27 – 31 Mar
+
+T2W4: 10 – 14 Apr
+
+T2W6: 24 – 28 Apr
+
+T2W8: 8 – 12 May
+
+T2W10: 22 – 26 May
 
 ### Subject Acronyms 
 
