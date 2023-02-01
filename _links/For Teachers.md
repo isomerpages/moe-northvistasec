@@ -3,7 +3,7 @@ title: For Teachers
 permalink: /links/for-teachers/
 description: ""
 ---
-* [iCOn](https://workspace.google.com/dashboard)
+* [iCON](https://workspace.google.com/dashboard)
 * [MOE Intranet (VPN)](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [School Cockpit (VPN)](https://schoolcockpit.moe.gov.sg/)
 * [SLS](https://vle.learning.moe.edu.sg/login)
