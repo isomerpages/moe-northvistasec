@@ -29,6 +29,11 @@ sections:
       description: Read more about our latest announcements
       button: CLICK HERE
       url: /announcements/2023secondaryonematters/
+  - infobar:
+      title: News
+      description: Catch our latest news!
+      button: Click here
+      url: /news/national-school-games-2022-fixture-n-results/
   - infopic:
       title: NV PDLP
       button: Click Here
@@ -43,9 +48,6 @@ sections:
       image: /images/Blended.jpg
       description: Home-Based Learning & Student-Initiated Learning
       alt: Image alt text
-  - infobar:
-      title: News
-      description: Catch our latest news!
-      button: Click here
-      url: /news/national-school-games-2022-fixture-n-results/
+  - resources:
+      title: Resources Section Title
 ---
