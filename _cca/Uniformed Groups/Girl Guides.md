@@ -22,9 +22,9 @@ We empower our Guides through fun and challenging programmes, unique experiences
 
 **Teachers-in-Charge:**  
 
-Mrs Melinda Lee <br>
-Ms Tita Hariana <br>
-Ms Gien Si Yun
+Ms Gien Si Yun <br>
+Ms Tan Suat Ping <br>
+Ms Nur Zuhailah
 
 ### Training Schedule
 
