@@ -49,5 +49,5 @@ sections:
       description: Home-Based Learning & Student-Initiated Learning
       alt: Image alt text
   - resources:
-      title: Announcements
+      title: Announcements & News
 ---
