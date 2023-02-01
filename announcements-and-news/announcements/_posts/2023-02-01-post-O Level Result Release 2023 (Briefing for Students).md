@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-Click [here](/files/O-Level%20Result%20Release%202023%20-%20Briefing%20for%20Students.pdf) to know more about O Level Result 2023 - Briefing for Students
+<iframe src="https://docs.google.com/gview?url=https://staging.d1y2kgkshfhsca.amplifyapp.com/files/Singapore%20Amazing%20Flying%20Machine%20Competition%20news%20NV%20website%20vetted.pdf&embedded=true" style="width:950px; height:600px;" frameborder="0"></iframe> 
