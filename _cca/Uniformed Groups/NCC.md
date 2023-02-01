@@ -4,7 +4,8 @@ permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/NCC_Badge.png)
+<img src="/images/NCC_Badge.png" 
+     style="width:40%">
 
 NV NCC aims to provide all cadets a dynamic, exciting and memorable CCA experience. Cadets can participate in a variety of activities such as foot drill, arms drill, shooting, kayaking, camp craft, precision drills, paintball and many other team bonding activities. The unit believes in developing leaders and provides many opportunities for the cadets to lead and serve. Top performing cadets are given the opportunities to participate in overseas excursions organised by NCC HQ.
 
