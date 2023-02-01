@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: North Vista Secondary School
-      background: /images/IMG_1897.jpg
+      background: /images/School_Students.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
