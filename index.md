@@ -24,6 +24,8 @@ sections:
         - title: National School Games
           description: ""
           url: https://nsg.moe.edu.sg/
+  - resources:
+      title: Announcements & News
   - infobar:
       title: Announcements
       description: Read more about our latest announcements
@@ -48,6 +50,4 @@ sections:
       image: /images/Blended.jpg
       description: Home-Based Learning & Student-Initiated Learning
       alt: Image alt text
-  - resources:
-      title: Announcements & News
 ---
