@@ -16,7 +16,6 @@ We aim to inculcate in our cadets values such as discipline, tenacity and resour
 **Teachers-in-Charge:**
 
 Ms Nadia Bte Mohd Ali <br>
-Ms Lai Hui Min   <br>
 Ms Chua Yin Jia
 
   
