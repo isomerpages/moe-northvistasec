@@ -11,19 +11,6 @@ sections:
       background: /images/School_Students.jpg
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
   - resources:
       title: Announcements & News
   - infopic:
