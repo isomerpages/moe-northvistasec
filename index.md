@@ -12,18 +12,18 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Student Learning Space
+        - title: ""
           description: ""
-          url: https://vle.learning.moe.edu.sg/login
-        - title: Sexuality Education
+          url: ""
+        - title: ""
           description: ""
-          url: /the-vistarian-experience/character-n-citizenship-education/sexuality-education/
-        - title: Direct School Admissions
+          url: ""
+        - title: ""
           description: ""
-          url: /links/parents/dsa/
-        - title: National School Games
+          url: ""
+        - title: ""
           description: ""
-          url: https://nsg.moe.edu.sg/
+          url: ""
   - resources:
       title: Announcements & News
   - infopic:
