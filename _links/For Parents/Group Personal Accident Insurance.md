@@ -12,4 +12,4 @@ In the event of a claim you may submit via the NTUC Income Insurance Website lin
 
 [Group Personal Accident Insurance for Students](https://studentgpa.incomegroupins.com.sg/#/dashboard)
 
-[Product Fact Sheet](/files/Insurance%20Product%20Fact%20Sheet%202022%20Sep%20Update.pdf)
+[Product Fact Sheet (2023)]()
