@@ -9,9 +9,9 @@ description: ""
 <img src="/images/logoNVPP.jpg" 
      style="width:75%">
 		 
-<center><b>Vision</center></b>
+<center><b>Vision</b>
 
-<center>A valued partner in the holistic development of Vistarians</center>
+<center>A valued partner in the holistic development of Vistarians
 
   
 
