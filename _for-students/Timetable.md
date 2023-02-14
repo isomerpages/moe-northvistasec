@@ -3,8 +3,7 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
-
-- [By Class]() (Updated 13 Jan 2023)
+- [Timetable by Class]() (Updated 13 Jan 2023)
 
 ### Odd Weeks for Semester 1, 2023
 
