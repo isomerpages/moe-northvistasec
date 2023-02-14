@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - Group Personal Accident Insurance.md
-      - DSA.md
       - Special Education Needs.md
       - Sexuality Education.md
       - Parents Gateway.md
       - Financial Assistance.md
       - NVPP.md
       - Parent Teacher Meetings.md
+      - DSA.md
+      - Group Personal Accident Insurance.md
