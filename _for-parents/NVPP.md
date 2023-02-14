@@ -15,7 +15,7 @@ description: ""
 
   
 
-<center><b>Mission</center></b>
+<center><b>Mission</b>
 
 <center>To partner the school in nurturing Vistarians of Character</center>
 
