@@ -17,7 +17,7 @@ sections:
       title: NV PDLP
       button: Click Here
       url: https://sites.google.com/moe.edu.sg/nvpdlp/
-      image: /images/PDLP_Students2.png
+      image: /images/Homepage/PDLP_Students_No Background.png
       alt: Image alt text
       description: Resource Site - http://go.gov.sg/nvpdlp
   - infopic:
