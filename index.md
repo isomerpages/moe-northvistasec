@@ -9,8 +9,6 @@ sections:
   - hero:
       title: North Vista Secondary School
       background: /images/School_Students.jpg
-      button: Contact Us
-      url: /contact-us/
   - resources:
       title: Announcements & News
   - infopic:
