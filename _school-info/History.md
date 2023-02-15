@@ -49,6 +49,10 @@ The Student council was established in 1972. The Student Council was initiated b
     <figcaption><strong>Featured here are the members of the first Student Council in 1972.</strong></figcaption>
 </figure>
 
+1977 marked an interesting year for students. The School initiated ‘Use Your Hands’ day where students were actively involved in cleaning the school compound as part of an annual clean-up day program.
 
-
+<figure>
+    <img src="/images/School%20Info/p5.jpg" style="width:50%"/>
+    <figcaption><strong>Featured here are the members of the first Student Council in 1972.</strong></figcaption>
+</figure>
 
