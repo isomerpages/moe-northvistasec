@@ -53,6 +53,6 @@ The Student council was established in 1972. The Student Council was initiated b
 
 <figure>
     <img src="/images/School%20Info/p5.jpg" style="width:50%"/>
-    <figcaption><strong>Featured here are the members of the first Student Council in 1972.</strong></figcaption>
+    <figcaption><strong>In 1977, students in Thomson Secondary took to cleaning the school grounds as part of ‘Use your Hands Day’.</strong></figcaption>
 </figure>
 
