@@ -23,7 +23,7 @@ As a strong believer in holistic learning experience for all his students, Thoms
 
 <figure>
     <img src="/images/School%20Info/p1.jpg" 
-     style="width:50%" align="center" />
+     style="width:60%" align="center" />
     <figcaption><strong>Mr Chen See How, was the Principal of Thomson Secondary from 1963-1972</strong></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ The Student council was established in 1972. The Student Council was initiated b
 1977 marked an interesting year for students. The School initiated ‘Use Your Hands’ day where students were actively involved in cleaning the school compound as part of an annual clean-up day program.
 
 <figure>
-    <img src="/images/School%20Info/p5.jpg" style="width:50%"/>
+    <img src="/images/School%20Info/p5.jpg" style="width:60%"/>
     <figcaption><strong>In 1977, students in Thomson Secondary took to cleaning the school grounds as part of ‘Use your Hands Day’.</strong></figcaption>
 </figure>
 
@@ -62,3 +62,11 @@ In the 1978 basketball tournaments, the upper secondary boys were Champions in t
     <img src="/images/School%20Info/p6.jpg" style="width:80%"/>
     <figcaption><strong>The upper secondary boys emerged as champions in the 1978 basketball tournament. </strong></figcaption>
 </figure>
+
+1987 was a noteworthy year for Thomson Secondary School as it marked the composing of the school song by Mrs Violet Kwan and Mrs Khoo Eu Kiong, two of Thomson Secondary School’s teachers. 
+
+<figure>
+    <img src="/images/School%20Info/p7.jpg" style="width:60%"/>
+    <figcaption><strong>The upper secondary boys emerged as champions in the 1978 basketball tournament. </strong></figcaption>
+</figure>
+
