@@ -84,4 +84,3 @@ When Thomson Secondary School was relocated to Sengkang Town on 15 December 2000
     <img src="/images/School%20Info/p9.png" style="width:60%"/>
     <figcaption><strong>On July 8th 2003, Minister for Education and Second Minister for Defence, Teo Chee Hean attended the official opening of North Vista Secondary School. </strong></figcaption>
 </figure>
-
