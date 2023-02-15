@@ -11,7 +11,7 @@ Eventually, after much construction, in 1959,Thomson Secondary moved to its firs
 
 ![](/images/School%20Info/p0.jpg)
 
-<figcaption>  <strong> <center>This was the old school building which Thomson Secondary shared with Gan Eng Seng Government Chinese Middle school  </strong> </figcaption>
+<figcaption>  <strong> <center>This was the old school building which Thomson Secondary shared with Gan Eng Seng Government Chinese Middle school   </center> </strong> </figcaption>
 
 </figure>
 
@@ -38,5 +38,3 @@ In 1970, a year after the transformation of Thomson Vocational School into Thoms
 <figcaption>  <strong> <center>The school’s softball club started in 1971. </strong> </figcaption>
 
 </figure>
-
-
