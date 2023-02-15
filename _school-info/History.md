@@ -56,3 +56,9 @@ The Student council was established in 1972. The Student Council was initiated b
     <figcaption><strong>In 1977, students in Thomson Secondary took to cleaning the school grounds as part of ‘Use your Hands Day’.</strong></figcaption>
 </figure>
 
+In the 1978 basketball tournaments, the upper secondary boys were Champions in their division while the lower secondary girls and boys were both champions in their division.
+
+<figure>
+    <img src="/images/School%20Info/p6.jpg" style="width:80%"/>
+    <figcaption><strong>The upper secondary boys emerged as champions in the 1978 basketball tournament. </strong></figcaption>
+</figure>
