@@ -67,6 +67,15 @@ In the 1978 basketball tournaments, the upper secondary boys were Champions in t
 
 <figure>
     <img src="/images/School%20Info/p7.jpg" style="width:60%"/>
-    <figcaption><strong>The upper secondary boys emerged as champions in the 1978 basketball tournament. </strong></figcaption>
+    <figcaption><strong>Musical scores for the school song.</strong></figcaption>
 </figure>
+
+Multiple milestones were witnessed in 1991. Thomson Secondary School was officially converted to a single session school. It also marked one of the first Youth Day Celebrations in Thomson Secondary School. 
+The inauguration of Thomson Secondary’s House system occurred in 1997. This was to encourage greater integration and interaction among school mates. The students attended Sports Day at Toa Payoh Stadium and for the first time, represented their houses in the inter house competitions. The students are divided into 4 houses according to colours- Red, Green, Blue and Yellow. 
+
+<figure>
+    <img src="/images/School%20Info/p8.jpg" style="width:80%"/>
+    <figcaption><strong>Red House Cheer Leading Squad in 1997.</strong></figcaption>
+</figure>
+
 
