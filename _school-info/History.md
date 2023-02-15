@@ -38,3 +38,5 @@ In 1970, a year after the transformation of Thomson Vocational School into Thoms
 <figcaption>  <strong> <center>The school’s softball club started in 1971. </strong> </figcaption>
 
 </figure>
+
+
