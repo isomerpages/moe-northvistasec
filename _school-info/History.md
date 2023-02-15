@@ -34,10 +34,10 @@ In 1970, a year after the transformation of Thomson Vocational School into Thoms
 
 
 <figure>
-    <img src="/images/School%20Info/p2.jpg" />
+    <img src="/images/School%20Info/p2.jpg" style="width:80%"/>
     <figcaption><strong>The school’s softball club started in 1971.</strong></figcaption>
 </figure>
 <figure>
-    <img src="/images/School%20Info/p3.jpg" />
+    <img src="/images/School%20Info/p3.jpg" style="width:80%" />
     <figcaption><strong>Featured here are the members of the St John’s Ambulance Brigade doing a foot drill in 1974.</strong></figcaption>
 </figure>
