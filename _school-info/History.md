@@ -78,4 +78,10 @@ The inauguration of Thomson Secondary’s House system occurred in 1997. This wa
     <figcaption><strong>Red House Cheer Leading Squad in 1997.</strong></figcaption>
 </figure>
 
+When Thomson Secondary School was relocated to Sengkang Town on 15 December 2000, its name was changed to North Vista Secondary School. The Chinese name of Thomson Secondary School (德 新 中 学) was maintained to preserve its historical links with the new school. Mr Lim Lai Chuan was appointed as the first Principal of North Vista Secondary School.
+
+<figure>
+    <img src="/images/School%20Info/p9.png" style="width:60%"/>
+    <figcaption><strong>On July 8th 2003, Minister for Education and Second Minister for Defence, Teo Chee Hean attended the official opening of North Vista Secondary School. </strong></figcaption>
+</figure>
 
