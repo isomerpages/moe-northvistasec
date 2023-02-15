@@ -41,3 +41,14 @@ In 1970, a year after the transformation of Thomson Vocational School into Thoms
     <img src="/images/School%20Info/p3.jpg" style="width:80%" />
     <figcaption><strong>Featured here are the members of the St John’s Ambulance Brigade doing a foot drill in 1974.</strong></figcaption>
 </figure>
+
+The Student council was established in 1972. The Student Council was initiated by the school principal, Mr Puah Se Yong and teachers. The Student Council was responsible for student welfare, beautifying the school environment and also ensuring a suitable environment for students to study in. 
+
+<figure>
+    <img src="/images/School%20Info/p4.jpg" style="width:80%"/>
+    <figcaption><strong>Featured here are the members of the first Student Council in 1972.</strong></figcaption>
+</figure>
+
+
+
+
