@@ -10,14 +10,10 @@ The aims of Life Long Learning Programme is to provide students with authentic a
   
 Through the platforms of photography and videography, students will appreciate different perspectives, learn communication skills, and empathise with others through creative and inventive thinking. We strive to provide opportunities to help students deepen their skills in photography and videography, thereafter contribute in the production of Storyboard/Videos/Short-films that will help to promote school values.
 
-<center>
 	
 ![](/images/The%20Vistarian%20Experience/LLP/NV%20LLP%202022_Page_4.png)
 	
-</center>
 
-<center>
 	
 ![](/images/The%20Vistarian%20Experience/LLP/NV%20LLP%202022_Page_5.png)
 	
-</center>
