@@ -63,3 +63,44 @@ Yeo Jun Yu Ayden , 1E1
      style="width:80%" align="center" />
     <figcaption><strong>Designed and photos taken by Thao My, Hui Ying, Dominic, Lukas, Dillon (1E3) Poem: The Ripple Effect of Kindness</strong></figcaption>
 </figure>
+
+**Poem : The Ripple Effect of Kindness**
+
+A lonely boy walked alone<br>
+He was known to few<br>
+Walking along the corridor<br>
+All he did was count the doors<br>
+He was like a small helpless mouse<br>
+How he wished he wasn’t in a mess right now
+
+It was a sunny day<br>
+Until the bully came<br>
+Hurtful words were thrown at the boy<br>
+Leaving him in tears and fear<br>
+Tears rolled down his face<br>
+Like water droplets on a rainy day<br>
+It felt like even the doors were mocking him<br>
+The boy felt helpless with nobody to turn to<br>
+
+Suddenly a hand reached out<br>
+Comforting words were spoken<br>
+The voice was calm and the words were kind<br>
+The boy grew more resilient<br>
+The grey clouds above him disappeared
+
+He ignored the bullies and stood up for himself<br>
+It was a girl<br>
+Her smile was warm as the sun<br>
+She was a dream<br>
+A true blessing<br>
+She gave him hope in dark times<br>
+He picked himself up again
+
+Caring does not cost a penny<br>
+A tiny act of kindness<br>
+Could pick someone up from their darkest moments<br>
+And brighten their day
+
+**Written by**: Yuxin, 1N1
+
+**Value**: Care + Resilience
