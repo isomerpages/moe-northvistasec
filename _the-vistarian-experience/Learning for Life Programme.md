@@ -104,3 +104,10 @@ And brighten their day
 **Written by**: Yuxin, 1N1
 
 **Value**: Care + Resilience
+
+<center>
+	
+**Artworks by Students**
+</center>
+
+**Secondary 2 Mobile Videograhy** - Collaboration Art Unit and LLP :‘Values in Action’. Students created short film base on School Values (Care, Respect, Responsibility, Resillience) using their Mobile and Personal Learning Device. 
