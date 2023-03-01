@@ -52,9 +52,7 @@ To save the artic animals<br>
 Let’s all respect Mother Earth!<br>
 
 **Written by**:
-Yeo Jun Yu Ayden , 1E1
-
-**Value**: Respect+Responsibility
+Yeo Jun Yu Ayden , 1E1  **Value**: Respect+Responsibility
 
 
 
@@ -101,9 +99,7 @@ A tiny act of kindness<br>
 Could pick someone up from their darkest moments<br>
 And brighten their day
 
-**Written by**: Yuxin, 1N1
-
-**Value**: Care + Resilience
+**Written by**: Yuxin, 1N1 **Value**: Care + Resilience
 
 
 **Artworks by Students**
