@@ -4,7 +4,10 @@ permalink: /the-vistarian-experience/learning-for-life-programme/
 description: ""
 ---
 # Life Long Learning Programme  
+<center>
+
 **“Nurturing Caring Vistarians through Arts and Design"**
+	</center>
 
 The aims of Life Long Learning Programme is to provide students with authentic and meaningful experiences to develop values and 21 CC. The Life Long Learning Programme in NV is designed in alignment to our School Vision - Vistarians of Character who learn, strive and contribute for a better future.  
   
@@ -16,4 +19,8 @@ Through the platforms of photography and videography, students will appreciate d
 
 	
 ![](/images/The%20Vistarian%20Experience/LLP/NV%20LLP%202022_Page_5.png)
+
+<center>
 	
+**Artworks by Students**
+</center>
