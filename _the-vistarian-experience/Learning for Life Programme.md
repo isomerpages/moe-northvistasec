@@ -107,6 +107,8 @@ And brighten their day
 
 **Secondary 2 Mobile Videograhy** - Collaboration Art Unit and LLP :‘Values in Action’. Students created short film base on School Values (Care, Respect, Responsibility, Resillience) using their Mobile and Personal Learning Device.
 
+![](/images/The%20Vistarian%20Experience/LLP/Photos-%20%20Life%20Long%20Learning%20Programme%20Write%20Up%20-%20Website%202023.png)
+
 
 # Sec 2 Videography Project 'Values in Action'
 
