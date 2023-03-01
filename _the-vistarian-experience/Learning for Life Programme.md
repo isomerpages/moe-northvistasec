@@ -38,3 +38,5 @@ Through the platforms of photography and videography, students will appreciate d
      style="width:80%" align="center" />
     <figcaption><strong>Designed and photos taken by Thao My, Hui Ying, Dominic, Lukas, Dillon (1E3) Poem: The Ripple Effect of Kindness</strong></figcaption>
 </figure>
+
+
