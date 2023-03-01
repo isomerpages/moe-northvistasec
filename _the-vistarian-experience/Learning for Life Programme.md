@@ -24,3 +24,6 @@ Through the platforms of photography and videography, students will appreciate d
 	
 **Artworks by Students**
 </center>
+
+**Secondary 1 Visual Poetry** - Collaboration Literature Unit and LLP : ‘Telling Stories through Photo Narratives’. Students create photo narratives from chosen Poem. The Poem written by students, evoked sentiments of school values.
+
