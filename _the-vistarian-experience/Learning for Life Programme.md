@@ -51,12 +51,10 @@ Let’s slow down global warming<br>
 To save the artic animals<br>
 Let’s all respect Mother Earth!<br>
 
-Written by:
+**Written by**:
 Yeo Jun Yu Ayden , 1E1
 
-Value: Respect+Responsibility
-
-
+**Value**: Respect+Responsibility
 
 
 
