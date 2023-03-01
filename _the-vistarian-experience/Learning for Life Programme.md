@@ -33,10 +33,39 @@ Through the platforms of photography and videography, students will appreciate d
     <figcaption><strong>Designed and photos taken by Andrea, Darwisy, Jennifer, Lukas (1E1) Poem: Let's Respect Our Mother Earth Together</strong></figcaption>
 </figure>
 
+**Poem : Let's Respect Mother Earth together**
+
+Let us all do our part to save the Earth <br>
+Together we shall help each other! <br>
+When we see litter<br>
+Let’s pick it up and let the floor shine like glitter<br>
+Come on everyone,<br>
+Let’s do our part to show some respect for Mother Earth!<br>
+Clean up after yourself, be responsible<br>
+If you don’t, the mess will be as smelly as a skunk<br>
+Let us all show respect to the cleaners<br>
+As they do their best to make the world a better place<br>
+We only have Mother Earth to call our own<br>
+Let’s be responsible!<br>
+Let’s slow down global warming<br>
+To save the artic animals<br>
+Let’s all respect Mother Earth!<br>
+
+Written by:
+Yeo Jun Yu Ayden , 1E1
+
+Value: Respect+Responsibility
+
+
+
+
+
 <figure>
     <img src="/images/The%20Vistarian%20Experience/LLP/mother%20earth.jpg" 
      style="width:80%" align="center" />
     <figcaption><strong>Designed and photos taken by Thao My, Hui Ying, Dominic, Lukas, Dillon (1E3) Poem: The Ripple Effect of Kindness</strong></figcaption>
 </figure>
+
+
 
 
