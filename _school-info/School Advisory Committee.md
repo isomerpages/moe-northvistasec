@@ -3,7 +3,12 @@ title: School Advisory Committee
 permalink: /school-info/school-advisory-committee/
 description: ""
 ---
-<img src="/images/Dr%20Leong%20Choon%20Kit%20-%20NV%20SAC.jpg" 
-     style="width:45%">
-		 
-![](/images/SAC%20members.png)
+<figure>
+    <img src="/images/School%20Info/SAC/Dr%20Leong%20Choon%20Kit.jpg" 
+     style="width:45%" align="left" />
+	<img src="/images/School%20Info/SAC/Mr%20Yap%20Thiam%20Chuan.jpg" 
+     style="width:45%" align="right" />
+</figure>
+
+
+
