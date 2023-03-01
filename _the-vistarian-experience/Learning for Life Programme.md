@@ -32,3 +32,9 @@ Through the platforms of photography and videography, students will appreciate d
      style="width:100%" align="center" />
     <figcaption><strong>Designed and photos taken by Andrea, Darwisy, Jennifer, Lukas (1E1) Poem: Let's Respect Our Mother Earth Together</strong></figcaption>
 </figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/LLP/mother%20earth.jpg" 
+     style="width:80%" align="center" />
+    <figcaption><strong>Designed and photos taken by Thao My, Hui Ying, Dominic, Lukas, Dillon (1E3) Poem: The Ripple Effect of Kindness</strong></figcaption>
+</figure>
