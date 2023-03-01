@@ -27,3 +27,8 @@ Through the platforms of photography and videography, students will appreciate d
 
 **Secondary 1 Visual Poetry** - Collaboration Literature Unit and LLP : ‘Telling Stories through Photo Narratives’. Students create photo narratives from chosen Poem. The Poem written by students, evoked sentiments of school values.
 
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/LLP/A99588A9-B3B7-4029-8782-3D5B75D2A0CD.png" 
+     style="width:100%" align="center" />
+    <figcaption><strong>Designed and photos taken by Andrea, Darwisy, Jennifer, Lukas (1E1) Poem: Let's Respect Our Mother Earth Together</strong></figcaption>
+</figure>
