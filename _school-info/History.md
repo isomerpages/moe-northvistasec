@@ -10,7 +10,7 @@ It started as Gan Eng Seng Government Chinese Middle school in 1957. It was one 
 Eventually, after much construction, in 1959,Thomson Secondary moved to its first school building at 5000 Thomson Road. The school grounds was much larger and allowed for a single session. The new compound was also equipped with basic cookery facilities, special room facilities and more.
 
 <figure>
-    <img src="/images/School%20Info/p0.jpg"/>
+    <img src="/images/School%20Info/History/p0.jpg"/>
     <figcaption><strong>This was the old school building which Thomson Secondary shared with Gan Eng Seng Government Chinese Middle school </strong></figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ Mr Chen See How returned as the Principal of Thomson Secondary School (德新中
 As a strong believer in holistic learning experience for all his students, Thomson Secondary School students saw its first Science Laboratory constructed in Thomson Secondary. Students were now given a first-hand experience of scientific experiments. 
 
 <figure>
-    <img src="/images/School%20Info/p1.jpg" 
+    <img src="/images/School%20Info/History/p1.jpg" 
      style="width:60%" align="center" />
     <figcaption><strong>Mr Chen See How, was the Principal of Thomson Secondary from 1963-1972</strong></figcaption>
 </figure>
@@ -34,25 +34,25 @@ In 1970, a year after the transformation of Thomson Vocational School into Thoms
 
 
 <figure>
-    <img src="/images/School%20Info/p2.jpg" style="width:80%"/>
+    <img src="/images/School%20Info/History/p2.jpg" style="width:80%"/>
     <figcaption><strong>The school’s softball club started in 1971.</strong></figcaption>
 </figure>
 <figure>
-    <img src="/images/School%20Info/p3.jpg" style="width:80%" />
+    <img src="/images/School%20Info/History/p3.jpg" style="width:80%" />
     <figcaption><strong>Featured here are the members of the St John’s Ambulance Brigade doing a foot drill in 1974.</strong></figcaption>
 </figure>
 
 The Student council was established in 1972. The Student Council was initiated by the school principal, Mr Puah Se Yong and teachers. The Student Council was responsible for student welfare, beautifying the school environment and also ensuring a suitable environment for students to study in. 
 
 <figure>
-    <img src="/images/School%20Info/p4.jpg" style="width:80%"/>
+    <img src="/images/School%20Info/History/p4.jpg" style="width:80%"/>
     <figcaption><strong>Featured here are the members of the first Student Council in 1972.</strong></figcaption>
 </figure>
 
 1977 marked an interesting year for students. The School initiated ‘Use Your Hands’ day where students were actively involved in cleaning the school compound as part of an annual clean-up day program.
 
 <figure>
-    <img src="/images/School%20Info/p5.jpg" style="width:60%"/>
+    <img src="/images/School%20Info/History/p5.jpg" style="width:60%"/>
     <figcaption><strong>In 1977, students in Thomson Secondary took to cleaning the school grounds as part of ‘Use your Hands Day’.</strong></figcaption>
 </figure>
 
