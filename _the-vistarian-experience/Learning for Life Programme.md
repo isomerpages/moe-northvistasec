@@ -3,9 +3,6 @@ title: Learning for Life Programme
 permalink: /the-vistarian-experience/learning-for-life-programme/
 description: ""
 ---
-# Life Long Learning Programme  
-
-
 **Nurturing Caring Vistarians through Arts and Design**	
 
 
