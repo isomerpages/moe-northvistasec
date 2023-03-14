@@ -1,0 +1,8 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/Links.md
+      - For Students.md
+      - For Teachers.md

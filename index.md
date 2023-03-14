@@ -1,32 +1,28 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: North Vista Secondary School
+description: An Isomer site of the Singapore Government
+image: /images/NorthVis.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: North Vista Secondary School
+      background: /images/School_Students.jpg
+  - resources:
+      title: Announcements & News
+  - infopic:
+      title: NV PDLP
+      button: Click Here
+      url: https://sites.google.com/moe.edu.sg/nvpdlp/
+      image: /images/Homepage/PDLP_Students_No Background.png
+      alt: Image alt text
+      description: Resource Site - http://go.gov.sg/nvpdlp
+  - infopic:
+      title: Blended Learning @ NV
+      button: Click here
+      url: https://sites.google.com/moe.edu.sg/blendedlearning-nv/home?authuser=0
+      image: /images/Homepage/Blended_Students_No Background.png
+      description: Home-Based Learning & Student-Initiated Learning
+      alt: Image alt text
 ---
-

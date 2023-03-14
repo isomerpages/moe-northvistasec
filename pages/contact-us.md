@@ -2,31 +2,21 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: North Vista Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "11 "
+      - "Rivervale Link, "
+      - Singapore (545081)
+    operating_hours: []
+    maps_link: ""
+    title: General Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6879 3930
+      - email: northvistass@moe.edu.sg
+      - other: <p>Nearest MRT Station <br>Sengkang Station (NE 16), LRT (Ranggung,
+          SE5)</p>   <p>Bus Services<br> 80, 80A , 82 , 88 , 88A , 87 , 89 , 119
+          , NR6</p>
+    title: General Enquiries & Feedback
 ---
