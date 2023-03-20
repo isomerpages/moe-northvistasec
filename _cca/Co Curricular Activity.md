@@ -7,9 +7,7 @@ The CCA programmes at North Vista Secondary are platforms for Vistarians talente
 
 Vistarians are given opportunities to develop leadership qualities through their involvement in CCAs. Uniformed groups like the National Police Cadet Corps, National Cadet Corps, St John Ambulance Brigade and Girl Guides provide Vistarians with ample opportunities to lead and to learn through comprehensive CCA programmes customized by the school.
 
-* [Sec 1 CCA Briefing 2022](/files/Sec%201%20CCA%20Briefing%202022.pdf)
-* [Sec 1 CCA Selection 2022](/files/CCA%20Selection%20for%20Sec%201%202022%20v2.pdf)
-* [CCA Training Schedule 2022](/files/CCA%20Training%20Schedule%202022.pdf)
+
 * [LEAPS 2.0 (for Parents)](/files/LEAPS%202(for%20Parents).pdf)
 * [LEAPS 2.0 (Public Version)](/files/LEAPS%202%20(Public%20Version).pdf)
 
