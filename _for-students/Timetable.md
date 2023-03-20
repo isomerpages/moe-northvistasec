@@ -3,7 +3,7 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
-- [Timetable by Class]() (Updated 13 Jan 2023)
+- [Timetable by Class](/files/2023%20Sem%201%20Timetable_CLASS_13%20Jan.pdf) (Updated 13 Jan 2023)
 
 ### Semester 1, 2023
 
@@ -58,4 +58,4 @@ description: ""
 |  SC-CH    | Science (Chemistry)    | 
 |   SC-PH   | Science (Physics)     | 
 |   SS   | Social Studies      | 
-|  US    | Upper Secondary     | 
+|  US    | Upper Secondary     |
