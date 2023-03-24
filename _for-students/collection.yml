@@ -2,10 +2,10 @@ collections:
   for-students:
     output: true
     order:
-      - Locker Lease.md
       - School Rules & Regulations.md
       - Home–based Learning.md
       - Timetable.md
       - ECG.md
       - Books & Stationery List.md
       - School Library Catalogue.md
+      - Locker Lease.md
