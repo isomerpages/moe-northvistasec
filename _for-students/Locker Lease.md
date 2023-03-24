@@ -3,6 +3,6 @@ title: Locker Lease
 permalink: /for-students/lockerlease/
 description: ""
 ---
-Scan or click on the QR Code for school locker lease matters.
+Scan  the QR Code for school locker lease matters.
 
-
+<img src="/images/Students/Locker%20Lease.png" style="width:40%">
