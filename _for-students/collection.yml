@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - School Traffic Management Plan (STMP).md
       - School Rules & Regulations.md
       - Home–based Learning.md
       - Timetable.md
