@@ -16,7 +16,7 @@ sections:
           description: Information on HBL and SIL
           url: http://go.gov.sg/nvbl
   - infopic:
-      title: Latest Happenings
+      title: NV Highlights
       button: Click here
       url: /happenings/
       image: /images/bannervrr.JPG
