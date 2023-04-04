@@ -15,6 +15,9 @@ sections:
         - title: Blended Learning @ NV
           description: Information on HBL and SIL
           url: http://go.gov.sg/nvbl
+        - title: NV Cares
+          description: VIA Highlights
+          url: https://sites.google.com/view/nvcares
   - infopic:
       title: NV Highlights
       button: Click here
