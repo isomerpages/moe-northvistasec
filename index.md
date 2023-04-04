@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: NV Highlights
       button: Click here
-      url: /happenings/
+      url: /highlights/
       image: /images/bannervrr.JPG
       description: Check out our students' latest news and updates!
       alt: Image alt text
