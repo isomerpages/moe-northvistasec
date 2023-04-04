@@ -9,20 +9,20 @@ sections:
   - hero:
       title: North Vista Secondary School
       background: /images/School_Students.jpg
-  - resources:
-      title: Announcements & News
+      key_highlights:
+        - title: PDLP Resource Site
+          description: Resources and tutorials
+          url: http://go.gov.sg/nvpdlp
+        - title: Blended Learning @ NV
+          description: Information on HBL and SIL
+          url: http://go.gov.sg/nvbl
   - infopic:
-      title: NV PDLP
-      button: Click Here
-      url: https://sites.google.com/moe.edu.sg/nvpdlp/
-      image: /images/Homepage/PDLP_Students_No Background.png
-      alt: Image alt text
-      description: Resource Site - http://go.gov.sg/nvpdlp
-  - infopic:
-      title: Blended Learning @ NV
+      title: Latest Happenings
       button: Click here
       url: https://sites.google.com/moe.edu.sg/blendedlearning-nv/home?authuser=0
       image: /images/Homepage/Blended_Students_No Background.png
-      description: Home-Based Learning & Student-Initiated Learning
+      description: Check out our latest news!
       alt: Image alt text
+  - resources:
+      title: Announcements & News
 ---
