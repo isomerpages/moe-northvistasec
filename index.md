@@ -20,7 +20,7 @@ sections:
       button: Click here
       url: /happenings/
       image: /images/bannervrr.JPG
-      description: "Check out our latest students updates and happenings! "
+      description: Check out our students' latest news and updates!
       alt: Image alt text
   - resources:
       title: Announcements & News
