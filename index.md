@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: North Vista Secondary School
-      background: /images/School_Students.jpg
+      background: /images/banner5secs.gif
       key_highlights:
         - title: PDLP Resource Site
           description: Resources and tutorials
