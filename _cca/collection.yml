@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Co Curricular Activity.md
+      - Co–Curricular Activity.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/NCC.md
       - Uniformed Groups/NPCC.md
