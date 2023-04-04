@@ -18,9 +18,9 @@ sections:
   - infopic:
       title: Latest Happenings
       button: Click here
-      url: https://sites.google.com/moe.edu.sg/blendedlearning-nv/home?authuser=0
-      image: /images/Homepage/Blended_Students_No Background.png
-      description: Check out our latest news!
+      url: /happenings/
+      image: /images/bannervrr.JPG
+      description: "Check out our latest students updates and happenings! "
       alt: Image alt text
   - resources:
       title: Announcements & News
