@@ -2,5 +2,5 @@ collections:
   highlights:
     output: true
     order:
-      - SAFMC 2023.md
       - NV Highlights.md
+      - SAFMC 2023.md
