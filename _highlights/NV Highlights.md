@@ -3,9 +3,11 @@ title: NV Highlights
 permalink: /highlights/
 description: ""
 ---
-# Singapore Amazing Flying Machine Competition 2023
-Our D&T students participated in the Singapore Amazing Flying Machine Competition organised by DSO National Laboratories and Science Centre Singapore. The competition challenges participants to transform their creative ideas into real flying machines.
+**Competitions**
+* [Singapore Amazing Flying Machine Competition 2023](safmc2023)
 
-![](/images/safmcbesttheory.jpeg)
+ **Singapore Youth Festival 2023**
+* [String Ensemble](syf2023strings)
 
-We are delighted to announce that one of the teams won the **Best Theory of Flight award** in their category. Congratulations!
+**National School Games 2023**
+* [Cross Country Championships](crosscountry)
