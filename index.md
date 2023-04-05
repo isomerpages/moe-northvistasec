@@ -20,7 +20,7 @@ sections:
           url: https://sites.google.com/view/nvcares
   - infopic:
       title: NV Highlights
-      button: Click here
+      button: Find out more!
       url: /highlights/
       image: /images/bannervrr.JPG
       description: Check out our students' latest news and updates!
