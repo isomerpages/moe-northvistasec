@@ -3,6 +3,8 @@ title: NV Highlights
 permalink: /highlights/
 description: ""
 ---
+![](/images/highlightscollage.JPG)
+
 **Competitions**
 * [Singapore Amazing Flying Machine Competition 2023](safmc2023)
 
