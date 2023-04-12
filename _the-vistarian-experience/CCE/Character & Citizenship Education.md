@@ -95,5 +95,24 @@ nation, and have confidence in our nation's future.
 belonging, reality, and hope which motivates our students to play a contributory role in their immediate
 communities and in the nation while they seek to achieve their personal life goals.
 
+**Total Defence Day**
 
+The school commemorated Total Defence Day on 17 February 2023. The theme for this year’s Total Defence campaign is ‘Together We Keep Singapore Strong’, focusing on food security in Singapore.
 
+**International Friendship Day**
+
+‘Singapore in Asia’ was the theme for International Friendship Day 2023. This year, the school commemorated IFD on14 April 2023.
+
+Students participated in a KAHOOT Quiz on ASEAN and worked on understanding the aims of ASEAN as well as the role of ASEAN in a globalizing world.
+
+In line with IFD, students think of ways on how they, as a teenager, are able to contribute to the development of Southeast Asia, given some of the local examples provided in the ST IN issue.
+
+**VIA**
+
+Values in Action (VIA) is a Key Student Development Experience (SDE) that aims to nurture socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and
+skills. VIA is designed to engender student ownership and initiative.
+
+Level VIA
+
+Our Secondary 1 students crafted poems as part of an interdisciplinary project with the Literature Department to exemplify the school values. In their poems, students detailed their life experiences where they demonstrated the
+school values of care and respect. Through this project, our students also developed an appreciation for the arts, and the power of poetry to inspire. 
