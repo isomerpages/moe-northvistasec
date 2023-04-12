@@ -142,3 +142,12 @@ Our upper secondary students worked on individual class projects to cater to the
 
 **Schoolwide VIA**
 
+On 20 January 2023, North Vista had our annual Vistarian Road Run! The run was done in conjunction with FairPrice Walk for Rice+ @ South East, an initiative which aims to motivate more people to walk or run for a good cause. We are pleased to announce that as a school, we covered a total distance of 2760 km. This works out to be 9200 bowls of white rice, brown rice and oatmeal which will be donated to underprivileged families in South East District! 
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/CCE/vrr%20image%201.jpg" style="width:80%" align="center">
+</figure> 
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/CCE/vrr%20image%202.jpg" style="width:80%" align="center">
+</figure>
