@@ -123,9 +123,13 @@ drive for migrant workers and collected items that would address migrant workers
 
 <figure>
     <img src="/images/The%20Vistarian%20Experience/CCE/via%20sec%202%20raining%20raincoats%201.jpg" style="width:50%" align="center">
-    <figcaption><strong></strong></figcaption>
-</figure>
-<figure>
+    <figcaption><strong></strong>Secondary 2 VIA</figcaption>
+</figure> <figure>
     <img src="/images/The%20Vistarian%20Experience/CCE/via%20sec%202%20raining%20raincoats%202.jpg" style="width:70%" align="center">
-    <figcaption><strong></strong></figcaption>
+    <figcaption><strong></strong>Secondary 2 VIA</figcaption>
 </figure>
+
+
+Our upper secondary students worked on individual class projects to cater to the needs of diverse organization. They worked on providing a direct/indirect service to environment, animal welfare and underprivileged within our society.
+
+
