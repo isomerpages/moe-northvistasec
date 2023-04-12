@@ -132,3 +132,13 @@ drive for migrant workers and collected items that would address migrant workers
 
 Our upper secondary students worked on individual class projects to cater to the needs of diverse organization. They worked on providing a direct/indirect service to environment, animal welfare and underprivileged within our society.
 
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/CCE/sec%204%20via%20image%202.jpg" style="width:50%" align="center">
+    <figcaption><strong></strong>Secondary 4 VIA</figcaption>
+</figure> <figure>
+    <img src="/images/The%20Vistarian%20Experience/CCE/sec%204%20via%20image%201.jpg" style="width:70%" align="center">
+    <figcaption><strong></strong>Secondary 4 VIA</figcaption>
+</figure>
+
+**Schoolwide VIA**
+
