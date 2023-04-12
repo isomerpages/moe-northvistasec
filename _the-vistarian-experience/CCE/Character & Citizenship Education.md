@@ -42,4 +42,7 @@ Career Seminar seeks to provide participants with insights into the world of wor
 different professions and industries. Through this, graduating students gain insights from professionals from different industries and learn more about the tertiary education courses of their choice. We also invited speakers from various
 diverse fields including Deejay’s from 987 FM to inspire students on possible career opportunities.
 
-<img src="/images/The%20Vistarian%20Experience/CCE/career%20sem%20and%20career%20talk.png" style="width:100%">
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/CCE/career%20sem%20and%20career%20talk.png" style="width:100%" align="center">
+    <figcaption><strong>Career Seminar and Career Talk by Deejays from 98.7FM</strong></figcaption>
+</figure>
