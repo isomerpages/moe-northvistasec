@@ -80,5 +80,4 @@ The guiding principles in the curriculum design are:
 
 **Sexuality Education (SEd)**
 
-Do refer to https://www.northvistasec.moe.edu.sg/the‐vistarian‐experience/character‐n‐citizenshipeducation/sexuality‐education/
-
+Do refer to https://www.northvistasec.moe.edu.sg/the-vistarian-experience/character-n-citizenship-education/sexuality-education/
