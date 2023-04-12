@@ -132,4 +132,3 @@ drive for migrant workers and collected items that would address migrant workers
 
 Our upper secondary students worked on individual class projects to cater to the needs of diverse organization. They worked on providing a direct/indirect service to environment, animal welfare and underprivileged within our society.
 
-
