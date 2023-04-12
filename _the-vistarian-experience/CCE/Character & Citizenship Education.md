@@ -42,10 +42,7 @@ Career Seminar seeks to provide participants with insights into the world of wor
 different professions and industries. Through this, graduating students gain insights from professionals from different industries and learn more about the tertiary education courses of their choice. We also invited speakers from various
 diverse fields including Deejay’s from 987 FM to inspire students on possible career opportunities.
 
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/CCE/career%20sem%20and%20career%20talk.png" style="width:100%" align="center">
-    <figcaption><strong>Career Seminar and Career Talk by Deejays from 98.7FM</strong></figcaption>
-</figure>
+![](/images/The%20Vistarian%20Experience/CCE/career%20sem%20and%20career%20talk.png)
 
 
 **Elective Modules**
@@ -54,3 +51,34 @@ The main focus of elective modules is to give students valuable exposure and inf
 students develop a realistic outlook in terms of career prospects which enables them to choose education pathway wisely. Thee Applied Learning Modules (ApLM) with Sec 3 NA &amp; NT students involved a 3‐day workshop in ITE and
 Temasek Polytechnic. Our students learnt valuable skills in IT, Engineering and Business domains. In addition to this, we organized Category B Modules for our Sec 2 NT &amp; NT students to learn lifelong skills through the Barista, Aeronautical
 and Deejay Programmes.
+
+![](/images/The%20Vistarian%20Experience/CCE/cat%20b%20images.png)
+
+
+**ECG Counselling**
+
+Our ECG Counsellor, Miss Pan Miaohua, supports students (individually or in small groups) with the necessary knowledge and skills to make informed decisions for a smoother transition to further education or work. She worked extensively with our students for Direct‐School Admission for JC and Early Admission Exercise for both Polytechnic and ITE education.
+
+**Cyber Wellness at NV**
+
+Social networking sites, online games, video‐sharing sites and devices such as mobile phones and tablets are now common fixtures in our students’ lives. In Singapore, by the age of fifteen, most youths are connected online via their
+smart phones.
+
+The digital lifestyle and the evolving nature of social media have also given rise to a set of emerging and complex issues
+that can have an adverse impact on our students’ well‐being.
+
+Outcomes
+
+Cyber Wellness programme at NV aims to nurture our students to develop a strong, resilient and positive identity in the online world that is reflective of their real life persona. This is achieved through building healthy relationships, both in
+the real and virtual world, and by making correct choices in their online interactions and decision making.
+
+The guiding principles in the curriculum design are:
+
+1. Keep students updated on the latest news and developments relating to Cyber Wellness issues
+2. Encourages students to make informed choices
+3. Cultivate healthy and positive habits that enrich their online experiences.
+
+**Sexuality Education (SEd)**
+
+Do refer to https://www.northvistasec.moe.edu.sg/the‐vistarian‐experience/character‐n‐citizenshipeducation/sexuality‐education/
+
