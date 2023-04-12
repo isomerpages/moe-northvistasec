@@ -119,5 +119,13 @@ school values of care and respect. Through this project, our students also devel
 [Secondary 1 VIA](/files/Vistarian%20Experience/CCE/sec%201%20via.pdf)
 
 Striving to improve the lives of migrant workers in Singapore, our Secondary 2 students worked in partnership with It's Raining Raincoats, an initiative that offers aid to Singapore's migrant worker community. They ran a school collection
-drive for migrant workers and collected items that would address migrant workers' needs. These were later distributed to migrant workers residing at Sungei Tengah Lodge. This was accompanied by thank you notes in which our students expressed appreciation for our migrant brothers’ contributions towards Singapore. Through this project, our students were able to witness the direct impact of their efforts on the lives of migrant workers, and were inspired to do more for the community moving forward. 
+drive for migrant workers and collected items that would address migrant workers' needs. These were later distributed to migrant workers residing at Sungei Tengah Lodge. This was accompanied by thank you notes in which our students expressed appreciation for our migrant brothers’ contributions towards Singapore. Through this project, our students were able to witness the direct impact of their efforts on the lives of migrant workers, and were inspired to do more for the community moving forward.
 
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/CCE/via%20sec%202%20raining%20raincoats%201.jpg" style="width:50%" align="center">
+    <figcaption><strong></strong></figcaption>
+</figure>
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/CCE/via%20sec%202%20raining%20raincoats%202.jpg" style="width:70%" align="center">
+    <figcaption><strong></strong></figcaption>
+</figure>
