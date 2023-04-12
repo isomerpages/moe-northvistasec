@@ -46,3 +46,11 @@ diverse fields including Deejay’s from 987 FM to inspire students on possible 
     <img src="/images/The%20Vistarian%20Experience/CCE/career%20sem%20and%20career%20talk.png" style="width:100%" align="center">
     <figcaption><strong>Career Seminar and Career Talk by Deejays from 98.7FM</strong></figcaption>
 </figure>
+
+
+**Elective Modules**
+
+The main focus of elective modules is to give students valuable exposure and information on their choice of industry. The modules aim to affirm their interest or broaden their career choices and opportunities. At the end of the workshop,
+students develop a realistic outlook in terms of career prospects which enables them to choose education pathway wisely. Thee Applied Learning Modules (ApLM) with Sec 3 NA &amp; NT students involved a 3‐day workshop in ITE and
+Temasek Polytechnic. Our students learnt valuable skills in IT, Engineering and Business domains. In addition to this, we organized Category B Modules for our Sec 2 NT &amp; NT students to learn lifelong skills through the Barista, Aeronautical
+and Deejay Programmes.
