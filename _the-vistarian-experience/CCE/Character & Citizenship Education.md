@@ -115,4 +115,9 @@ skills. VIA is designed to engender student ownership and initiative.
 Level VIA
 
 Our Secondary 1 students crafted poems as part of an interdisciplinary project with the Literature Department to exemplify the school values. In their poems, students detailed their life experiences where they demonstrated the
-school values of care and respect. Through this project, our students also developed an appreciation for the arts, and the power of poetry to inspire. 
+school values of care and respect. Through this project, our students also developed an appreciation for the arts, and the power of poetry to inspire.
+[Secondary 1 VIA](/files/Vistarian%20Experience/CCE/sec%201%20via.pdf)
+
+Striving to improve the lives of migrant workers in Singapore, our Secondary 2 students worked in partnership with It's Raining Raincoats, an initiative that offers aid to Singapore's migrant worker community. They ran a school collection
+drive for migrant workers and collected items that would address migrant workers' needs. These were later distributed to migrant workers residing at Sungei Tengah Lodge. This was accompanied by thank you notes in which our students expressed appreciation for our migrant brothers’ contributions towards Singapore. Through this project, our students were able to witness the direct impact of their efforts on the lives of migrant workers, and were inspired to do more for the community moving forward. 
+
