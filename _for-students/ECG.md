@@ -7,11 +7,11 @@ description: ""
 
 Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st Century.
 
-![](/images/NV%20ECG%20Poster%202022.jpg)
+![](/images/Students/ecg%20poster%202023.jpeg)
 
 **Would you like to speak with the ECG Counsellor, Ms Pan, to explore education and career pathways? Book an appointment today!**
 
-Book an appointment at [https://moeecg.appointeze.com/onlinelink/PanMiaohua](https://moeecg.appointeze.com/onlinelink/PanMiaohua) for a discussion today!
+Book an appointment at [https://go.gov.sg/nvecg](https://go.gov.sg/nvecg) for a discussion today!
 
 You may also email her at [pan_miaohua@schools.gov.sg](mailto:pan_miaohua@schools.gov.sg) to make an appointment or ask questions concerning ECG.
 
