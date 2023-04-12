@@ -29,10 +29,10 @@ Outcomes
 The ECG curriculum at NV aims to achieve the following learning outcomes:
 
 1. Understand the importance of achievements, participation and non‐academic involvement in school.
-2. Nurture one’s self‐awareness, self‐directedness and life skills to set wise goals.
-3. Explore career interest and match it to prospective jobs. Plan the education pathway to attain the choice of career.
-4. Inculcate an appreciation for the value of all occupations and how they contribute to the well‐functioning of society.
-5. Equip the students to make responsible decisions regarding post‐secondary education and engage career stakeholders.
+3. Nurture one’s self‐awareness, self‐directedness and life skills to set wise goals.
+4. Explore career interest and match it to prospective jobs. Plan the education pathway to attain the choice of career.
+5. Inculcate an appreciation for the value of all occupations and how they contribute to the well‐functioning of society.
+6. Equip the students to make responsible decisions regarding post‐secondary education and engage career stakeholders.
 
 To support Vistarians in making responsible decisions to achieving their goals and aspirations, the school provides various platforms to enrich and empower them.
 
