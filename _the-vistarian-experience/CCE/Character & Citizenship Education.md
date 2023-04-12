@@ -41,3 +41,5 @@ To support Vistarians in making responsible decisions to achieving their goals a
 Career Seminar seeks to provide participants with insights into the world of work, create opportunities for them to engage with professionals from various industries and fields, in a bid to increase their awareness of the tenets of
 different professions and industries. Through this, graduating students gain insights from professionals from different industries and learn more about the tertiary education courses of their choice. We also invited speakers from various
 diverse fields including Deejay’s from 987 FM to inspire students on possible career opportunities.
+
+<img src="/images/The%20Vistarian%20Experience/CCE/career%20sem%20and%20career%20talk.png" style="width:100%">
