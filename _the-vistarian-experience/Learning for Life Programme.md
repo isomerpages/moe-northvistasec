@@ -6,7 +6,7 @@ description: ""
 **Nurturing Caring Vistarians through Arts and Design**	
 
 
-The aims of Life Long Learning Programme is to provide students with authentic and meaningful experiences to develop values and 21 CC. The Life Long Learning Programme in NV is designed in alignment to our School Vision - Vistarians of Character who learn, strive and contribute for a better future.  
+The aims of Learning for Life Programme is to provide students with authentic and meaningful experiences to develop values and 21 CC. The Life Long Learning Programme in NV is designed in alignment to our School Vision - Vistarians of Character who learn, strive and contribute for a better future.  
   
 Through the platforms of photography and videography, students will appreciate different perspectives, learn communication skills, and empathise with others through creative and inventive thinking. We strive to provide opportunities to help students deepen their skills in photography and videography, thereafter contribute in the production of Storyboard/Videos/Short-films that will help to promote school values.
 
@@ -25,8 +25,7 @@ Through the platforms of photography and videography, students will appreciate d
 **Secondary 1 Visual Poetry** - Collaboration Literature Unit and LLP : ‘Telling Stories through Photo Narratives’. Students create photo narratives from chosen Poem. The Poem written by students, evoked sentiments of school values.
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/LLP/A99588A9-B3B7-4029-8782-3D5B75D2A0CD.png" 
-     style="width:100%" align="center" />
+    <img src="/images/The%20Vistarian%20Experience/LLP/A99588A9-B3B7-4029-8782-3D5B75D2A0CD.png" style="width:100%" align="center">
     <figcaption><strong>Designed and photos taken by Andrea, Darwisy, Jennifer, Lukas (1E1) Poem: Let's Respect Our Mother Earth Together</strong></figcaption>
 </figure>
 
@@ -54,8 +53,7 @@ Yeo Jun Yu Ayden , 1E1  **Value**: Respect+Responsibility
 
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/LLP/mother%20earth.jpg" 
-     style="width:80%" align="center" />
+    <img src="/images/The%20Vistarian%20Experience/LLP/mother%20earth.jpg" style="width:80%" align="center">
     <figcaption><strong>Designed and photos taken by Thao My, Hui Ying, Dominic, Lukas, Dillon (1E3) Poem: The Ripple Effect of Kindness</strong></figcaption>
 </figure>
 
@@ -113,16 +111,16 @@ And brighten their day
 	
 **Title: CARE**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DqFDOB0KslQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DqFDOB0KslQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <br>
 	
 **Title: PRANK**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DdeSN2okRn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DdeSN2okRn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <br>
 	
 **Title: WITCH RACE**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2j0uYJxgxO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2j0uYJxgxO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
