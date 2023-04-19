@@ -13,6 +13,8 @@ The NSG Golf Championship was held on 10 and 11 April 2023 at Laguna National Go
 
 Our golfers performed well over the two days of competition, playing a total of 36 holes. 
 
-We would like to congratulate Ashley for achieving 3rd placing in the individual event; and Aaron and Wilbur for achieving 3rd position in the team event. 
+We would like to congratulate Ashley for achieving 3rd placing in the individual event; and Aaron and Wilbur for achieving 3rd position in the team event.
 
-
+![](/images/NV%20Highlights/golf%201.jpeg)
+![](/images/NV%20Highlights/golf%202.jpeg)![](/images/NV%20Highlights/golf%203.jpeg)
+![](/images/NV%20Highlights/golf%204.jpeg)
