@@ -16,3 +16,4 @@ description: ""
 **National School Games 2023**
 * [Cross Country Championships](crosscountry)
 * [Basketball](nsgbasketball)
+* [Golf](nsggolf2023)
