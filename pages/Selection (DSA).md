@@ -22,7 +22,7 @@ The requirements for the talent areas are as follow:
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="144" valign="top" style="width:100pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   15.0pt"><b><span lang="EN-SG" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">DSA Talent Area</span></b></p></td><td width="457" valign="top" style="width:343.05pt;border:solid windowtext 1.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">DSA Talent Area</span></b></p></td><td width="457" valign="top" style="width:500pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   15.0pt"><b><span lang="EN-SG" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -257,7 +257,7 @@ The requirements for the talent areas are as follow:
   text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
   line-height:normal;mso-list:l11 level1 lfo11;background:white"><span lang="EN-SG" style="font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:#2E2E2E;mso-bidi-language:TA;
-  mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
+  mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:4pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#2E2E2E;mso-bidi-language:TA">perform 2 contrasting pieces or movements (not more than 1 min each, can be fast and slow, different periods or different styles)<b><u></u></b></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;mso-add-space:auto;
@@ -278,7 +278,7 @@ The requirements for the talent areas are as follow:
   text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
   line-height:normal;mso-list:l11 level1 lfo11;background:white"><span lang="EN-SG" style="font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:#2E2E2E;mso-bidi-language:TA;
-  mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
+  mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:1pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#2E2E2E;mso-bidi-language:TA">Shortlisted applicants will be given 2 to 3 minutes to practice the piece at the audition before performing for the panel<b><u></u></b></span></p><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
   justify;text-justify:inter-ideograph;line-height:normal;background:white"><span lang="EN-SG" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -288,13 +288,13 @@ The requirements for the talent areas are as follow:
   margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
   line-height:normal;mso-list:l7 level1 lfo12;background:white"><span lang="EN-SG" style="font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
-  Symbol;mso-bidi-font-family:Symbol;color:#2E2E2E;mso-bidi-language:TA"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
+  Symbol;mso-bidi-font-family:Symbol;color:#2E2E2E;mso-bidi-language:TA"><span style="mso-list:Ignore">·<span style="font:3pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#2E2E2E;mso-bidi-language:TA">perform 2 contrasting pieces or movements (not more than 1 min each, can be fast and slow, different periods or different styles)</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;mso-add-space:auto;
   text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
   line-height:normal;mso-list:l7 level1 lfo12;background:white"><span lang="EN-SG" style="font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
-  Symbol;mso-bidi-font-family:Symbol;color:#2E2E2E;mso-bidi-language:TA"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
+  Symbol;mso-bidi-font-family:Symbol;color:#2E2E2E;mso-bidi-language:TA"><span style="mso-list:Ignore">·<span style="font:1pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#2E2E2E;mso-bidi-language:TA">play concert Bb major scales (both legato and staccato, with the exception of French Horn, Concert F major)</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;mso-add-space:auto;
@@ -316,7 +316,7 @@ The requirements for the talent areas are as follow:
   text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
   line-height:normal;mso-list:l4 level1 lfo13;background:white"><span lang="EN-SG" style="font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:#2E2E2E;mso-bidi-language:TA;
-  mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
+  mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:4pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#2E2E2E;mso-bidi-language:TA">perform a short excerpt on a snare drum (untuned percussion) and a mallet (tuned percussion) piece or movements (not more than 1 min)<b><u></u></b></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;mso-add-space:auto;
