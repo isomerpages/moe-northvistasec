@@ -339,4 +339,6 @@ The requirements for the talent areas are as follow:
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#2E2E2E;mso-bidi-language:TA">Shortlisted applicants will be given 2 to 3 minutes to practice the piece at the audition before performing for the panel<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
   justify;text-justify:inter-ideograph;line-height:normal;background:white"><span lang="EN-SG" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#2E2E2E;mso-bidi-language:TA">Shortlisted applicants are to bring their own instrument (except for percussion) and choice pieces of music for the audition.</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;;color:#2E2E2E;mso-bidi-language:TA">Shortlisted applicants are to bring their own instrument (except for percussion) and choice pieces of music for the audition.</span></p><p></p></td></tr></tbody></table>
+	
+Please note that students who are unable to attend the trial/audition for valid reasons can make alternative arrangements subject to the availability of school staff. The request for alternative arrangements can be made via phone or email to the school. 
