@@ -26,7 +26,7 @@ The requirements for the talent areas are as follow:
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   15.0pt"><b><span lang="EN-SG" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Trial/Audition requirements <span style="mso-spacerun:yes">&nbsp;</span></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:61.6pt"><td width="144" valign="top" style="width:107.75pt;border:solid windowtext 1.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Trial/Audition requirements <span style="mso-spacerun:yes">&nbsp;</span></span></b></p><p></p></td></tr><tr style="mso-yfti-irow:1;height:61.6pt"><td width="144" valign="top" style="width:107.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:61.6pt"><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   15.0pt"><span lang="EN-SG" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -341,4 +341,4 @@ The requirements for the talent areas are as follow:
   justify;text-justify:inter-ideograph;line-height:normal;background:white"><span lang="EN-SG" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#2E2E2E;mso-bidi-language:TA">Shortlisted applicants are to bring their own instrument (except for percussion) and choice pieces of music for the audition.</span></p><p></p></td></tr></tbody></table>
 	
-Please note that students who are unable to attend the trial/audition for valid reasons can make alternative arrangements subject to the availability of school staff. The request for alternative arrangements can be made via phone or email to the school. 
+Please note that students who are unable to attend the trial/audition for valid reasons can make alternative arrangements subject to the availability of school staff. The request for alternative arrangements can be made via phone or email to the school.
