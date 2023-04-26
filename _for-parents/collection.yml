@@ -2,11 +2,12 @@ collections:
   for-parents:
     output: true
     order:
+      - Direct School Admission (DSA)/Introduction.md
+      - Direct School Admission (DSA)/.keep
       - Special Education Needs.md
       - Sexuality Education.md
       - Parents Gateway.md
       - Financial Assistance.md
       - NVPP.md
       - Parent Teacher Meetings.md
-      - Direct School Admission (DSA).md
       - Group Personal Accident Insurance.md
