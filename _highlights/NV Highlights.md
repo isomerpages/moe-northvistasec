@@ -14,10 +14,11 @@ description: ""
 * [String Ensemble](syf2023strings)
 * [Modern Dance](moderndancesyf2023)
 * [Chinese Dance](chinesedancesyf2023)
+* [Symphonic Band](syf2023symphonicband)
 
 **National School Games 2023** 
 	
 [NSG Fixtures and Results 2023](https://www.northvistasec.moe.edu.sg/announcement/news/nationalschoolgames2023/)
 * [Cross Country Championships](crosscountry)
 * [Basketball](nsgbasketball)
-* [Golf](nsggolf2023) 
+* [Golf](nsggolf2023)
