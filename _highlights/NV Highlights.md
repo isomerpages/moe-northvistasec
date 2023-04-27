@@ -15,7 +15,7 @@ description: ""
 * [Modern Dance](moderndancesyf2023)
 * [Chinese Dance](chinesedancesyf2023)
 * [Symphonic Band](syf2023symphonicband)
-* 
+* [Choir](syf2023choir)
 
 **National School Games 2023** 
 	
