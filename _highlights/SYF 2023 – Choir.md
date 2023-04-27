@@ -5,7 +5,7 @@ description: ""
 ---
 ## **SYF 2023 Arts Presentation for Choir**
 
-
+![](/images/NV%20Highlights/choir%201.jpg)
 
 Our Choir members participated in the SYF Arts Presentation on Thursday, 13 April, at School of the Arts Singapore (SOTA). Our girls performed the following pieces:
 
