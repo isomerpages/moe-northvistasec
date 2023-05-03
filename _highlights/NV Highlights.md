@@ -16,6 +16,7 @@ description: ""
 * [Chinese Dance](chinesedancesyf2023)
 * [Symphonic Band](syf2023symphonicband)
 * [Choir](syf2023choir)
+* [Drama](syf2023drama)
 
 **National School Games 2023** 
 	

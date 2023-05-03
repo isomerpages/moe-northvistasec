@@ -1,7 +1,8 @@
 ---
-title: Selection (DSA)
-permalink: /permalink/selection/
+title: Selection
+permalink: /selection/
 description: ""
+third_nav_title: Direct School Admission (DSA)
 ---
 ### **Selection (Trial/Audition requirements)**
 

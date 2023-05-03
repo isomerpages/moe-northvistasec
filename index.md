@@ -4,7 +4,8 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Students and parents may submit applications for DSA-Sec from 4
+  May 2023, 11am to 31 May 2023, 3pm.
 sections:
   - hero:
       background: /images/banner5secs.gif
@@ -18,6 +19,9 @@ sections:
         - title: NV Cares
           description: VIA Highlights
           url: https://sites.google.com/view/nvcares
+        - title: DSA-Sec 2023
+          description: How to apply
+          url: https://northvistasec.moe.edu.sg/howtoapply/
   - infopic:
       title: NV Highlights
       button: Find out more!

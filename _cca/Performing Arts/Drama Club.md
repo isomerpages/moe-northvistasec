@@ -13,7 +13,7 @@ Through the process of devising, members will explore the multiple facets of soc
 **Teachers-in-Charge:**
 
 Ms Natasha Kirenjit Singh <br>
-Ms Ruth Hageni <br>
+Ms Ruth Hagen <br>
 Ms Nurdianah Zohairi
 
   

@@ -1,7 +1,7 @@
 ---
 title: National School Games 2023 – Fixtures & Results
 permalink: /announcement/news/nationalschoolgames2023/
-date: 2023-04-27
+date: 2023-05-03
 layout: post
 description: ""
 image: ""
