@@ -47,7 +47,7 @@ Mdm Dorothy Tan <br>
   </tr>
   <tr>
     <td class="tg-baqh">Fridays</td>
-    <td class="tg-baqh"> 3.30 pm – 6.00 pm</td>
+    <td class="tg-baqh"> 1 pm – 3.30 pm</td>
   </tr>
 </tbody>
 </table>
@@ -90,10 +90,8 @@ Mdm Dorothy Tan <br>
 </tbody>
 </table>
 
-<img src="/images/string-21i.jpg" 
-     style="width:80%">
+<img src="/images/string-21i.jpg" style="width:80%">
 		 
 ![](/images/string.png)
 
-<img src="/images/string-21vi.jpg" 
-     style="width:80%">
+<img src="/images/string-21vi.jpg" style="width:80%">

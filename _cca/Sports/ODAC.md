@@ -14,9 +14,8 @@ At each level, club members pick up skills through school training and certifica
 Mr Ong Yong Hui <br>
 Mr Ho Yenn Wah <br>
 Ms Ng Li Wei <br>
-Mr Zhou Yang
 
-  
+&nbsp;&nbsp;
 
 ### Training Schedule
 
@@ -39,14 +38,11 @@ Mr Zhou Yang
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi">Tuesdays (Lower Sec)</td>
-    <td class="tg-ktyi">3.00 p.m. – 4.00 p.m.</td>
+    <td class="tg-ktyi">Tuesdays </td>
+    <td class="tg-ktyi">3.30 p.m. – 4.30 p.m.</td>
     <td class="tg-ktyi" rowspan="4">School / External Venues</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Tuesdays (Upper Sec)</td>
-    <td class="tg-ktyi">4.00 p.m. – 5.00 p.m.</td>
-  </tr>
+  
   <tr>
     <td class="tg-ktyi">Fridays</td>
     <td class="tg-ktyi">2.00 p.m. – 5.00 p.m.</td>
