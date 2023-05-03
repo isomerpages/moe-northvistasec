@@ -46,7 +46,7 @@ The details are as follow:
   padding:0in 1pt 0in 5.4pt;height:45.85pt"><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
-  color:black;mso-ansi-language:EN-US;mso-bidi-language:TA">• Students can indicate up to three choices (maximum of two choices for <br>the same school under two different talent areas)</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:104.2pt"><td width="91" nowrap="" valign="top" style="width:68.35pt;border:solid windowtext 1.0pt;
+  color:black;mso-ansi-language:EN-US;mso-bidi-language:TA">• Students can indicate up to three choices (maximum of two <br> choices for the same school under two different talent areas)</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:104.2pt"><td width="91" nowrap="" valign="top" style="width:68.35pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
   0in 5.4pt 0in 5.4pt;height:104.2pt"><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
