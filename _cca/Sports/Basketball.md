@@ -126,4 +126,3 @@ Venues – Indoor Sports Hall, Outdoor Basketball Court
 [www.redsports.sg/2017/03/06/north-zone-b-div-bball-north-vista-scgs/](https://www.redsports.sg/2017/03/06/north-zone-b-div-bball-north-vista-scgs/)
 ### **National B Div Bball: North Vista claim title with victory over Dunman**
 [www.redsports.sg/2016/04/17/b-div-bball-north-vista-dunman/](https://www.redsports.sg/2016/04/17/b-div-bball-north-vista-dunman/)
-<p></p>
