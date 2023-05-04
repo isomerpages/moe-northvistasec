@@ -20,7 +20,7 @@ sections:
           description: VIA Highlights
           url: https://sites.google.com/view/nvcares
         - title: DSA-Sec 2023
-          description: Introduction and Application
+          description: Direct School Admission Exercise
           url: https://northvistasec.moe.edu.sg/links/parents/dsa/introduction/
   - infopic:
       title: NV Highlights
