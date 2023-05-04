@@ -20,7 +20,7 @@ sections:
           description: VIA Highlights
           url: https://sites.google.com/view/nvcares
         - title: DSA-Sec 2023
-          description: How to apply
+          description: Introduction and Application
           url: https://northvistasec.moe.edu.sg/links/parents/dsa/introduction/
   - infopic:
       title: NV Highlights
