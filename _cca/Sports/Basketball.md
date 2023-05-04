@@ -86,14 +86,11 @@ Venues – Indoor Sports Hall, Outdoor Basketball Court
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">‘C’ Girls</p></td><td width="408" valign="top" style="width:305.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">North Zone 1<sup>st</sup> Runner Up</p></td></tr></tbody></table></p>
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">North Zone 1<sup>st</sup> Runner Up</p></td></tr></tbody></table>
 	
-<figure>
-    <img src="/images/CCA/Sports/b%20boys%20nsg.jpg">
-    <figcaption><strong>B Boys NSG </strong></figcaption>
-</figure>
+![](/images/CCA/Sports/b%20boys%20nsg.jpg)
 
-<figure>
+</p><figure>
     <img src="/images/CCA/Sports/b%20boys.JPG">
     <figcaption><strong>B Boys </strong></figcaption>
 </figure>
