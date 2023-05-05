@@ -4,7 +4,8 @@ permalink: /cca/sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-Basketball is a highly competitive and dynamic sport. In North Vista, our Basketball Team is driven by the motto: “Train like Champions. Play like Champions. Win like Champions.” We train to be physically fit as well as mentally strong to overcome any challenges. <p>
+Basketball is a highly competitive and dynamic sport. In North Vista, our Basketball Team is driven by the motto: “Train like Champions. Play like Champions. Win like Champions.” We train to be physically fit as well as mentally strong to overcome any challenges. 
+
 The Girls Team train on Mondays and Wednesdays and the Boys Team train on Tuesdays and Fridays during the school term and with added intensity during school holidays and competition periods. This ensures that the team are well-prepared for any upcoming friendlies and competitions. 
 The team will continue to strive for excellence and uphold the good name of the school. The journey together is amplified by the team’s belief: “Offence wins Games. Defence wins Championships.”
 
@@ -87,12 +88,12 @@ Venues – Indoor Sports Hall, Outdoor Basketball Court
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">North Zone 1<sup>st</sup> Runner Up</p></td></tr></tbody></table>
-
-</p><figure>
+	
+<figure>
     <img src="/images/CCA/Sports/b%20boys%20nsg.jpg">
-    <figcaption><strong>B Boys NSG </strong></figcaption>
-</figure>
-
+    <figcaption><strong>NSG B Boys </strong></figcaption>
+</figure>	
+	
 <figure>
     <img src="/images/CCA/Sports/b%20boys.JPG">
     <figcaption><strong>B Boys </strong></figcaption>
@@ -126,4 +127,3 @@ Venues – Indoor Sports Hall, Outdoor Basketball Court
 [www.redsports.sg/2017/03/06/north-zone-b-div-bball-north-vista-scgs/](https://www.redsports.sg/2017/03/06/north-zone-b-div-bball-north-vista-scgs/)
 ### **National B Div Bball: North Vista claim title with victory over Dunman**
 [www.redsports.sg/2016/04/17/b-div-bball-north-vista-dunman/](https://www.redsports.sg/2016/04/17/b-div-bball-north-vista-dunman/)
-<p></p>
