@@ -12,9 +12,9 @@ The team will continue to strive for excellence and uphold the good name of the 
 **Teachers-in-charge** <br>
 Mr Hee Yuen Bao <br>
 Mr Liew Boon Kui <br>
-Mr Soong Beng Sion<br>
-Ms Shirley Lim <br>
-Ms Ng Li Hui
+Ms Alvina Koh<br>
+Ms Trishta Kaur
+
 
 **Training Day/Time/Venue**
 
@@ -55,7 +55,7 @@ Venues – Indoor Sports Hall, Outdoor Basketball Court
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">‘C’ Girls</p></td><td width="408" valign="top" style="width:305.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">North Zone 2<sup>nd</sup> Runner Up</p></td></tr><tr style="mso-yfti-irow:4"><td width="72" valign="top" style="width:53.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">North Zone 1<sup>st</sup> Runner Up</p></td></tr><tr style="mso-yfti-irow:4"><td width="72" valign="top" style="width:53.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="144" valign="top" style="width:1.5in;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
