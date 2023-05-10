@@ -52,3 +52,10 @@ The following students represented the school in the NSG Taekwondo Championships
 	
 We are proud to announce that Charisse and Cadence achieved 1st and 2nd placing in their respective categories
 
+![](/images/NV%20Highlights/taekwondo%201.jpeg)
+
+![](/images/NV%20Highlights/taekwondo%202.jpeg)
+
+![](/images/NV%20Highlights/taekwondo%203.jpeg)
+
+![](/images/NV%20Highlights/taekwondo%204.jpeg)
