@@ -3,7 +3,7 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
-- [Timetable by Class](/files/2023%20Sem%201%20Timetable_CLASS_13%20Jan.pdf) (Updated 13 Jan 2023)
+[Timetable by Class](/files/For%20Students/2023%20sem%202%20timetable_class.pdf) (Updated 23 June 2023)
 
 ### Semester 1, 2023
 
