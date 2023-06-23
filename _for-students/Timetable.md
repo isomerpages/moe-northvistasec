@@ -5,7 +5,7 @@ description: ""
 ---
 [Timetable by Class](/files/For%20Students/2023%20sem%202%20timetable_class.pdf) (Updated 23 June 2023)
 
-### Semester 1, 2023
+### Semester 2, 2023
 
 
 
