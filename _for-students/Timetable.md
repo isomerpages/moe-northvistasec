@@ -11,16 +11,16 @@ description: ""
 
 | Odd Weeks  | Even Weeks | 
 | -------- | -------- | 
-| T1W1: 3 - 6 Jan    | T1W2: 9 – 13 Jan    | 
-| T1W3: 16 - 20 Jan    | T1W4: 23 – 27 Jan     | 
-| T1W5: 30 Jan - 3 Feb   | T1W6: 6 – 10 Feb    | 
-| T1W7: 13 - 17 Feb    | T1W8: 20 – 24 Feb     | 
-| T1W9: 27 - 3 Mar   | T1W10: 6 – 10 Mar     | 
-| T2W1: 20 - 24 Mar    | T2W2: 27 – 31 Mar    | 
-| T2W3: 3 - 7 Apr    | T2W4: 10 – 14 Apr     | 
-| T2W5: 17 - 21 Apr    | T2W6: 24 – 28 Apr    | 
-| T2W7: 1 - 5 May   | T2W8: 8 – 12 May    | 
-| T2W9: 15 - 19 May    | T2W10: 22 – 26 May     | 
+| T3W1: 26 – 30 Jun    | T3W2: 3 – 7 Jul    | 
+| T3W3: 10 – 14 Jul    | T3W4: 17 – 21 Jul     | 
+| T3W5: 24 – 28 Jul | T3W6: 31 Jul – 4 Aug    | 
+| T3W7: 7 – 11 Aug   |T3W8: 14 –18 Aug    | 
+| T3W9: 21 – 25 Aug  | T3W10: 28 – 31 Aug    | 
+| T4W1: 11 – 15 Sep   | T4W2: 18 – 22 Sep | 
+| T4W3: 25 – 29 Sep   | T4W4: 2 – 6 Oct     | 
+| T4W5: 9 – 13 Oct   | T4W6: 16 – 20 Oct    | 
+| T4W7: 23 – 27 Oct   |   | 
+|    |     | 
 
 
 ### Subject Acronyms 
