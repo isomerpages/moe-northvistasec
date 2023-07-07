@@ -2,10 +2,10 @@ collections:
   for-students:
     output: true
     order:
-      - Exam Matters.md
       - School Rules & Regulations.md
       - Home–based Learning.md
       - Timetable.md
+      - Exam Matters.md
       - ECG.md
       - Books & Stationery List.md
       - School Library Catalogue.md
