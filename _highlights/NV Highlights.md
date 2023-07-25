@@ -7,6 +7,7 @@ description: ""
 
 **Competitions**
 * [Singapore Amazing Flying Machine Competition 2023](safmc2023)
+* [NV Band - Tampines Central Passion Arts Festival](tcpaf)
 
  **Singapore Youth Festival 2023** 
  
