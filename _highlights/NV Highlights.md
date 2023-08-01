@@ -28,3 +28,4 @@ description: ""
 * [Golf](nsggolf2023)
 * [Taekwondo](nsg2023taekwondo)
 * [Sailing, Swimming and Shooting](nsgsailingswimmingshooting)
+* [Netball](nsg2023netball)
