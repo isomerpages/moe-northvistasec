@@ -9,7 +9,7 @@ description: ""
 * [Singapore Amazing Flying Machine Competition 2023](safmc2023)
 * [NV Band - Tampines Central Passion Arts Festival](tcpaf)
 * [NSG Media Feature - Ashley Wee](nsgmediafeature)
-* 
+* [NPCC – Adventure Training Camp (ATC)  ](npccatc)
 
  **Singapore Youth Festival 2023** 
  
