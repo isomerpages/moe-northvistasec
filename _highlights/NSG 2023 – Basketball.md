@@ -15,7 +15,7 @@ Our girls played against Yishun Town Secondary School (YTSS) in the 3rd/4th play
 
 It was an intense game between the two schools. YTSS started well and our girls trailed for most of the game. Our girls started to reduce the deficit in the 3rd period and caught up at the 4th period. At full time, the game was tied at 40 - 40. In overtime, our girls won the game 44 – 40. 
 
-Congratulations to our girls for achieving 3rd placing at the NSG North Zone Basketball Championship. We would also like to thank the supporters, from 2E2, 2N2, 2T1 and Basketball CCA Girls who were 
+Congratulations to our girls for achieving 3rd placing at the NSG North Zone Basketball Championship. We would also like to thank the supporters, from 2E2, 2N2, 2T1 and Basketball CCA Girls who were cheering for the team.
 
 ##### **B Division Basketball Championship (Girls)**
 
