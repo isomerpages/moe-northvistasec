@@ -21,7 +21,10 @@ description: ""
 
 **National School Games 2023** 
 	
-[NSG Fixtures and Results 2023](https://www.northvistasec.moe.edu.sg/announcement/news/nationalschoolgames2023/)
+[NSG Media Feature - Ashley Wee](https://northvistasec.moe.edu.sg/highlights/nsgmediafeature/)
+
+[NSG Fixtures and Results 2023](https://www.northvistasec.moe.edu.sg/announcement/news/nationalschoolgames2023/) 
+
 * [Cross Country Championships](crosscountry)
 * [Basketball (Girls)](nsgbasketballgirls)
 * [Basketball (Boys)](nsgbasketballboys)
