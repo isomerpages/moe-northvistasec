@@ -5,7 +5,7 @@ description: ""
 ---
 ### **C Division Netball Championship**
 
-
+![](/images/NV%20Highlights/nsg%20c%20netball%201.JPG)
 
 **NSG North Zone C Division Netball Championship** 
 
@@ -13,4 +13,7 @@ Our girls faced Singapore Sports School (SSP) in the 3rd/4th placing match at th
 
 Our girls played very well that day. They defended well and forced SSP into making a number of turnovers. They were also able to convert most of their shots. Our girls won the game 21 – 10. 
 
-Congratulations to our girls for achieving 3rd placing at North Zone Netball Championship. We also thanked for the supporters from 2E3, 2N1 and Netball CCA members for cheering on the girls at the game. 
+Congratulations to our girls for achieving 3rd placing at North Zone Netball Championship. We also thanked for the supporters from 2E3, 2N1 and Netball CCA members for cheering on the girls at the game.
+
+
+![](/images/NV%20Highlights/nsg%20c%20netball%202.JPG)![](/images/NV%20Highlights/nsg%20c%20netball%203.JPG)
