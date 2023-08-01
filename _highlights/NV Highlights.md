@@ -5,9 +5,11 @@ description: ""
 ---
 ![](/images/highlightscollage.JPG)
 
-**Competitions**
+**Highlights**
 * [Singapore Amazing Flying Machine Competition 2023](safmc2023)
 * [NV Band - Tampines Central Passion Arts Festival](tcpaf)
+* [NSG Media Feature - Ashley Wee](nsgmediafeature)
+* 
 
  **Singapore Youth Festival 2023** 
  
@@ -20,8 +22,6 @@ description: ""
 * [Drama](syf2023drama)
 
 **National School Games 2023** 
-	
-[NSG Media Feature - Ashley Wee](https://northvistasec.moe.edu.sg/highlights/nsgmediafeature/)
 
 [NSG Fixtures and Results 2023](https://www.northvistasec.moe.edu.sg/announcement/news/nationalschoolgames2023/) 
 
