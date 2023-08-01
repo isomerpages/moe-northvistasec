@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - NSG 2023 – Netball.md
       - NV Highlights.md
       - SAFMC 2023.md
       - Tampines Central Passion Arts Festival.md
@@ -18,3 +17,4 @@ collections:
       - NSG 2023 – Taekwondo.md
       - NSG 2023 – Sailing, Swimming and Shooting.md
       - NSG 2023 – Basketball (Boys).md
+      - NSG 2023 – Netball.md
