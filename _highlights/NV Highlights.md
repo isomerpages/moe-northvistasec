@@ -10,6 +10,7 @@ description: ""
 * [NV Band - Tampines Central Passion Arts Festival](tcpaf)
 * [NSG Media Feature - Ashley Wee](nsgmediafeature)
 * [NPCC – Adventure Training Camp (ATC)  ](npccatc)
+* [St John Brigade (SJB) – District First Aid Competition ](sjbfirstaid2023)
 
  **Singapore Youth Festival 2023** 
  
