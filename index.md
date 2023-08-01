@@ -26,7 +26,7 @@ sections:
       button: Find out more!
       url: /highlights/
       image: /images/bannervrr.JPG
-      description: Check out our students' latest news and updates!
+      description: Check out our students' latest news, updates! (Competitions, SYF & NSG)
       alt: Image alt text
   - resources:
       title: Announcements & News
