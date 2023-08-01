@@ -3,7 +3,21 @@ title: NSG 2023 – Basketball
 permalink: /highlights/nsgbasketball/
 description: ""
 ---
-### **NSG Basketball Championship(Girls)**
+### NSG Basketball Championship(Girls)
+
+##### **C Division Basketball Championship (Girls)**
+
+![](/images/NV%20Highlights/nsg%20north%20zone%20c%20girls.JPG)
+
+**NSG North Zone C Division Basketball Championship (Girls** 
+
+Our girls played against Yishun Town Secondary School (YTSS) in the 3rd/4th playoffs at the NSG North Zone Basketball Championship. The game took place on Wednesday, 26 July, 11.00am, at Singapore Basketball Centre.
+
+It was an intense game between the two schools. YTSS started well and our girls trailed for most of the game. Our girls started to reduce the deficit in the 3rd period and caught up at the 4th period. At full time, the game was tied at 40 - 40. In overtime, our girls won the game 44 – 40. 
+
+Congratulations to our girls for achieving 3rd placing at the NSG North Zone Basketball Championship. We would also like to thank the supporters, from 2E2, 2N2, 2T1 and Basketball CCA Girls who were 
+
+##### **B Division Basketball Championship (Girls)**
 
 ![](/images/NV%20Highlights/basketball%20girls.jpeg)
 
