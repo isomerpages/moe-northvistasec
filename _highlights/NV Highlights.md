@@ -23,7 +23,7 @@ description: ""
 	
 [NSG Fixtures and Results 2023](https://www.northvistasec.moe.edu.sg/announcement/news/nationalschoolgames2023/)
 * [Cross Country Championships](crosscountry)
-* [Basketball](nsgbasketball)
+* [Basketball (Girls)](nsgbasketballgirls)
 * [Golf](nsggolf2023)
 * [Taekwondo](nsg2023taekwondo)
 * [Sailing, Swimming and Shooting](nsgsailingswimmingshooting)
