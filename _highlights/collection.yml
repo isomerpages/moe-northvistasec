@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - NV Highlights.md
-      - NSG Media Feature.md
       - SAFMC 2023.md
       - Tampines Central Passion Arts Festival.md
       - SYF 2023 – String Ensemble.md
@@ -12,6 +11,7 @@ collections:
       - SYF 2023 – Symphonic Band.md
       - SYF 2023 – Choir.md
       - SYF 2023 – Drama.md
+      - NSG Media Feature.md
       - NSG 2023 – Cross Country Championships.md
       - NSG 2023 – Basketball (Girls).md
       - NSG 2023 – Golf.md
