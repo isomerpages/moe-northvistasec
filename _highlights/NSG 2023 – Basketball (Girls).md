@@ -3,7 +3,7 @@ title: NSG 2023 – Basketball (Girls)
 permalink: /highlights/nsgbasketballgirls/
 description: ""
 ---
-### NSG Basketball (Girls)
+### NSG Basketball Championship (Girls)
 
 ##### **C Division Basketball Championship (Girls)**
 
