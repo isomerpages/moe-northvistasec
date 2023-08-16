@@ -11,6 +11,7 @@ description: ""
 * [NSG Media Feature - Ashley Wee](nsgmediafeature)
 * [NPCC – Adventure Training Camp (ATC)  ](npccatc)
 * [St John Brigade (SJB) – District First Aid Competition ](sjbfirstaid2023)
+* [Modern Dance - Super 24 Dance Competition](super24dancecomp)
 
  **Singapore Youth Festival 2023** 
  
