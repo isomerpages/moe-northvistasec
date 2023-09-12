@@ -7,13 +7,13 @@ description: ""
 
 Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st Century.
 
-![](/images/Students/ecg%20poster%202023.jpeg)
+![](/images/Students/ecg%202023.jpeg)
 
-**Would you like to speak with the ECG Counsellor, Ms Pan, to explore education and career pathways? Book an appointment today!**
+**Would you like to speak with the ECG Counsellor, Ms Jaslyn, to explore education and career pathways? Book an appointment today!**
 
-Book an appointment at&nbsp;[https://go.gov.sg/nvecg](https://go.gov.sg/nvecg)&nbsp;for a discussion today!
+Book an appointment at https://go.gov.sg/nvss for a discussion today!
 
-You may also email her at&nbsp;[pan_miaohua@schools.gov.sg](mailto:pan_miaohua@schools.gov.sg)&nbsp;to make an appointment or ask questions concerning ECG.
+You may also email her at&nbsp;[jaslyn_shalini_a_r@schools.gov.sg](mailto:jaslyn_shalini_a_r@schools.gov.sg)&nbsp;to make an appointment or ask questions concerning ECG.
 
 Check out&nbsp;[Calendar of Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html)&nbsp;page where you can find activities relevant to ECG and attend them to learn more as well as to build up your portfolio!
 
