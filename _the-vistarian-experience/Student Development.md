@@ -3,15 +3,17 @@ title: Student Development
 permalink: /the-vistarian-experience/student-development/
 description: ""
 ---
-<img src="/images/SDT2021.jpg" 
-     style="width:70%">
-<center>The Student Development Team supports the holistic development of our students. The key objective of the Student Development Team is to provide a Positive, Meaningful and Empowering Learning Experience through PERMA.</center>
+<img src="/images/SDT2021.jpg" style="width:70%">
+<center>The Student Development Team supports the holistic development of our students. The key objective of the Student Development Team is to provide a&nbsp;Positive, Meaningful and Empowering Learning Experience through PERMA.</center>
 
 **Programmes to cater to different needs of the cohort**
 
-![](/images/sd1.png)
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Student%20Development/gear%20up.jpg">
+    <figcaption><strong>GEAR-UP programme in support for students' social emotional well-being </strong></figcaption>
+</figure>
 
-**Creating EPIC Moments through Level Camps**
+**Creating EPIC Moments through&nbsp;Level Camps**
 
 ![](/images/sd2.png)
 
