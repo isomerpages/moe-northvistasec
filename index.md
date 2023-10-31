@@ -4,10 +4,11 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Join us for NV's Open House  on 18 November 2023 (8am to 1pm)!
+  Scroll down for more details.
 sections:
   - hero:
-      background: /images/banner5secs.gif
+      background: /images/Homepage/banner5secs.gif
       key_highlights:
         - title: PDLP Resource Site
           description: Resources and tutorials
