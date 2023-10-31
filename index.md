@@ -8,7 +8,7 @@ notification: Join us for NV's Open House  on 18 November 2023 (8am to 1pm)!
   Scroll down for more details.
 sections:
   - hero:
-      background: /images/Homepage/nv open house 2023 banner_to print.png
+      background: /images/Homepage/banner5secs.gif
       key_highlights:
         - title: PDLP Resource Site
           description: Resources and tutorials
