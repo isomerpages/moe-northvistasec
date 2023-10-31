@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner5secs.gif
+      background: /images/Homepage/nv open house 2023 banner_to print.png
       key_highlights:
         - title: PDLP Resource Site
           description: Resources and tutorials
