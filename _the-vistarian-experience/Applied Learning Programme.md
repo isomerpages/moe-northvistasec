@@ -54,47 +54,47 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 <strong><center>Secondary 1 – From Farm-To-Table Programme (Using traditional farming methods - soil)</center></strong>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP1.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP1.jpg" style="width:80%">
     <figcaption><strong>Preparation of plot for seed sowing </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP2.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP2.jpg" style="width:80%">
     <figcaption><strong>Pest prevention and control </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP3.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP3.jpg" style="width:80%">
     <figcaption><strong>Farm-To-Table workshop for Secondary 1 students conducted by our NV Staff </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP4.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP4.jpg" style="width:80%">
     <figcaption><strong></strong></figcaption>Weeding – a test of resilience
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP5.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP5.jpg" style="width:80%">
     <figcaption><strong>Learning about nutrient conservation during preparation and cooking of vegetables </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP6.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP6.jpg" style="width:80%">
     <figcaption><strong>Harvesting in Progress </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP7.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP7.jpg" style="width:80%">
     <figcaption><strong>Harvesting completed</strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP8.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP8.jpg" style="width:80%">
     <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP9.jpg">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP9.jpg" style="width:80%">
     <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
 </figure>
 
@@ -102,4 +102,3 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 
 
 <strong><center>Secondary 2 – From Farm-To-Table Programme (Using High Tech Farming Methods - Hydroponics)</center></strong>
-
