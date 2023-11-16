@@ -124,7 +124,7 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP5.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP5.jpg" style="width:50%">
     <figcaption><strong>Preparing for the donation of vegetables to the community</strong></figcaption>
 </figure>
 
@@ -143,17 +143,17 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 <strong><center>Secondary 3 (Tier 2 Programme)</center></strong>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP1.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP1.jpg" style="width:50%">
     <figcaption><strong>Plots on Bloom Programme - Working hard to prepare soil beds. Getting it ready before transplanting takes place</strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP2.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP2.jpg" style="width:60%">
     <figcaption><strong>Transplanting young plants</strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP3.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP3.jpg" style="width:60%">
     <figcaption><strong>Displaying the school value of Care by performing weekly maintenance for the plants till they are ready for harvest</strong></figcaption>
 </figure>
 
