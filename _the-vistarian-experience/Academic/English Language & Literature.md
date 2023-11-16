@@ -77,3 +77,5 @@ The texts offered in the Academic Year 2024 are as follows:
   </tr>
 </tbody>
 </table>
+
+Beyond the classroom, learning journeys are organised for lower secondary students to view theatre performances based on Literature texts. Students with an aptitude and passion for Literature are also selected to participate in competitions such as the National Schools Literature Festival and Unity Writer’s Festival, to further enrich their learning of the subject.
