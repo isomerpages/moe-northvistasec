@@ -102,3 +102,8 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 
 
 <strong><center>Secondary 2 – From Farm-To-Table Programme (Using High Tech Farming Methods - Hydroponics)</center></strong>
+
+<figure>
+    <img src="" style="width:80%">
+    <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
+</figure>
