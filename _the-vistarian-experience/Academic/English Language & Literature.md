@@ -37,9 +37,9 @@ Through external partnerships and nationwide competitions (e.g. Live On Festival
 
 ### Literature in English &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-In the Literature classroom, opportunities are provided for students to read and respond to a variety of literary texts (prose, poetry and drama), as well as to explore different perspectives and give personal responses to different themes.
+In the Literature classroom, opportunities are provided for students to read and respond to a variety of literary texts (prose, poetry and drama), as well as to engage with diverse themes on a more personal level. During lessons, students are conditioned to engage in an intellectual discourse on their analysis of their texts. 
 
-The texts offered from Academic Year 2021 are as follows:
+The texts offered in the Academic Year 2024 are as follows:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
