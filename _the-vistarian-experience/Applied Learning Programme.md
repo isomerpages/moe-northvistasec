@@ -41,12 +41,12 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
   <tr>
     <td class="tg-dgl5">1</td>
     <td class="tg-ktyi"><span style="font-weight:400">Lower Secondary</span></td>
-    <td class="tg-yst8">Knowledge Creation<br><br>- Secondary 1: Growing edibles using traditional methods<br>- Secondary 2: Growing edibles using high tech farming methods (hydroponics)<br></td>
+    <td class="tg-yst8">- Secondary 1: Growing edibles using traditional methods<br>- Secondary 2: Growing edibles using high tech farming methods (hydroponics)<br></td>
   </tr>
   <tr>
     <td class="tg-9hzb">2</td>
-    <td class="tg-ktyi">Lower Secondary<br>Upper Secondary</td>
-    <td class="tg-yst8">Knowledge Creation<br><br>- Growing perennials using traditional methods in Semester 2<br>- Experimentation in growing edibles using high tech farming methods (hydroponics / aeroponics)<br>- Participation in talks relating to food sustainability<br>- Competitions organised by STEM Inc. and Science Centre</td>
+    <td class="tg-ktyi">Upper Secondary</td>
+    <td class="tg-yst8">- Plots on Bloom Programme for Biology students and Nutrition and Food Science Students</td>
   </tr>
 </tbody>
 </table>
