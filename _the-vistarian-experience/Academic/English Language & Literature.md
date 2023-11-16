@@ -26,8 +26,14 @@ Our curriculum comprises thematic and skills-based units, using multi-modal text
 
 Through external partnerships and nationwide competitions (e.g. Live On Festival and Plain English Speaking Awards), we actively create opportunities for Vistarians to develop their competency collaboratively through authentic experiences. In 2023, Hillary Wee and Chang Ivory, both from 3E3, were awarded the High Distinction award in the Senior Essay Writing Category of the Live On Festival. 
 
-![](/images/The%20Vistarian%20Experience/Academic/english3.jpg)
-![](/images/The%20Vistarian%20Experience/Academic/english4.jpg)
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/english3.jpg">
+</figure>
+
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/english4.jpg">
+</figure>
+
 
 ### Literature in English &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
