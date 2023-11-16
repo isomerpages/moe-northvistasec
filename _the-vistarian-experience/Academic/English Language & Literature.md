@@ -3,12 +3,13 @@ title: English Language & Literature
 permalink: /the-vistarian-experience/academic/english-language-n-literature/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-The English Language and Literature Department aims to equip our students with 21st century critical thinking and effective communication skills, so as to prepare them for challenges of the future.
+The English Language and Literature Department aims to equip our students with 21st century critical thinking and effective communication skills, to prepare them for an unprecedented future. Specifically, we envision Vistarians as self-directed learners, empathetic communicators and discerning readers. 
 
 <figure>
 <img src="/images/English%20Language%20%20Literature%20Department.jpg">
-<figcaption> <strong>English Language & Literature Department </strong> </figcaption>
+<figcaption> <strong>English Language &amp; Literature Department </strong> </figcaption>
 </figure>
 
 ### English Language
@@ -17,7 +18,7 @@ The school-based curriculum is designed to include both thematic and skills-base
 
 ![](/images/EL-21ii.jpg)
 
-### Literature in English                    
+### Literature in English &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 In the Literature classroom, opportunities are provided for students to read and respond to a variety of literary texts (prose, poetry and drama), as well as to explore different perspectives and give personal responses to different themes.
 
@@ -60,8 +61,3 @@ The texts offered from Academic Year 2021 are as follows:
   </tr>
 </tbody>
 </table>
-
-
-
-
-
