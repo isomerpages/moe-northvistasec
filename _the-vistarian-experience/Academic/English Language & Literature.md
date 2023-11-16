@@ -12,12 +12,22 @@ variant: markdown
 
 The English Language and Literature Department aims to equip our students with 21st century critical thinking and effective communication skills, to prepare them for an unprecedented future. Specifically, we envision Vistarians as self-directed learners, empathetic communicators and discerning readers. 
 
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/English1.jpg">
+<figcaption> <strong>Students being given opportunities to hone their presentation skills in class. </strong> </figcaption>
+</figure>
+
 
 ### English Language
 
-The school-based curriculum is designed to include both thematic and skills-based units, enabling students to deepen their content understanding and hone their linguistic skills. Through this and other school-based programmes, we create opportunities for Vistarians to develop competence in thinking and reading critically, as well as communicating confidently and empathetically in the English Language.
+Our curriculum comprises thematic and skills-based units, using multi-modal texts that enable students to deepen their content understanding and hone their linguistic skills. We aim to cultivate the joy of reading through diverse materials that appeal to the varying abilities of our learners. The EL Department also adopts MOE’s CLEARR pedagogical framework in our lesson design. 
 
-![](/images/EL-21ii.jpg)
+![](/images/The%20Vistarian%20Experience/Academic/english2.jpg)
+
+Through external partnerships and nationwide competitions (e.g. Live On Festival and Plain English Speaking Awards), we actively create opportunities for Vistarians to develop their competency collaboratively through authentic experiences. In 2023, Hillary Wee and Chang Ivory, both from 3E3, were awarded the High Distinction award in the Senior Essay Writing Category of the Live On Festival. 
+
+![](/images/The%20Vistarian%20Experience/Academic/english3.jpg)
+![](/images/The%20Vistarian%20Experience/Academic/english4.jpg)
 
 ### Literature in English &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
