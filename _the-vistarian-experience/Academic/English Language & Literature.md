@@ -5,12 +5,13 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-The English Language and Literature Department aims to equip our students with 21st century critical thinking and effective communication skills, to prepare them for an unprecedented future. Specifically, we envision Vistarians as self-directed learners, empathetic communicators and discerning readers. 
-
 <figure>
 <img src="/images/English%20Language%20%20Literature%20Department.jpg">
 <figcaption> <strong>English Language &amp; Literature Department </strong> </figcaption>
 </figure>
+
+The English Language and Literature Department aims to equip our students with 21st century critical thinking and effective communication skills, to prepare them for an unprecedented future. Specifically, we envision Vistarians as self-directed learners, empathetic communicators and discerning readers. 
+
 
 ### English Language
 
