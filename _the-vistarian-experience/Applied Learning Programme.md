@@ -104,6 +104,36 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 <strong><center>Secondary 2 – From Farm-To-Table Programme (Using High Tech Farming Methods - Hydroponics)</center></strong>
 
 <figure>
-    <img src="" style="width:80%">
-    <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP1.jpg" style="width:80%">
+    <figcaption><strong>Assembling the class’s hydroponics system</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP2.jpg" style="width:80%">
+    <figcaption><strong>Topping up nutrient solution</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP3.jpg" style="width:80%">
+    <figcaption><strong>Measuring the EC value</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP4.jpg" style="width:80%">
+    <figcaption><strong>Harvesting in Progress</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP5.jpg" style="width:80%">
+    <figcaption><strong>Preparing for the donation of vegetables to the community</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP6.jpg" style="width:80%">
+    <figcaption><strong>Aeroponics in NV</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP7.jpg" style="width:80%">
+    <figcaption><strong>Sharing about the NV’s ALP High Tech Farming experience with Minister Chan Chun Sing</strong></figcaption>
 </figure>
