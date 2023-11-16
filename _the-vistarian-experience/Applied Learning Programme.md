@@ -2,19 +2,21 @@
 title: Applied Learning Programme
 permalink: /the-vistarian-experience/applied-learning-programme/
 description: ""
+variant: markdown
 ---
-**_Contextual Theme: Cities and Urban Landscapes_**  <br>
+**Applied Learning Programme (ALP) 2023**  <br>
+**Contextual Theme: Cities and Urban Landscapes**  <br>
 **From Farm to Table Programme**
 
-Under the Singapore Green Plan 2030, there is renewed emphasis on safeguarding food security in order to build a resilient future for Singapore.  North Vista’s ALP focus on sustainable farming allows students to make connections between classroom learning and authentic problems and opportunities that they encounter in everyday life.  It also introduces students to STEM-related areas, provides opportunities for students to learn beyond their textbooks, identify their aptitudes and interests and make informed decisions on their education and career choices in future.  
+Under the Singapore Green Plan 2030, there is renewed emphasis on safeguarding food security in order to build a resilient future for Singapore. North Vista’s ALP focus on sustainable farming allows students to make connections between classroom learning and authentic problems and opportunities that they encounter in everyday life. It also introduces students to STEM-related areas and provides opportunities for students to learn beyond their textbooks, identify their aptitudes and interests, and make informed decisions about their education and career choices in the future.
 
-All Secondary 1 students have the opportunity to learn about growing edibles using traditional farming methods.  They also learn skills of collaboration and knowledge application as they take charge of the farm plot allocated to their class.  Students are able to cook and learn about dishes using the harvested crops. 
+All Secondary 1 students have the opportunity to learn about growing edibles using traditional farming methods. They also learn skills of collaboration and knowledge application as they take charge of the farm plot allocated to their class. Students are able to cook and learn about dishes using the harvested crops. 
 
-All Secondary 2 students engage in high-tech farming and participate in workshops on indoor farming and hands-on sessions to grow edibles using a hydroponics system.  Students who have passion and interest in the area may also deepen their learning through learning experiences with other organisations and higher institutions of learning.
+All Secondary 2 students engage in high-tech farming and participate in workshops on indoor farming and hands-on sessions to grow edibles using a hydroponics system. Students who have passion and interest in the area may also deepen their learning through learning experiences with other organisations and higher institutions of learning.    
 
   
 
-The ALP Farm-to-Table Programme 2022 consists of 2 tiers:
+The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -59,8 +61,7 @@ The ALP Farm-to-Table Programme 2022 consists of 2 tiers:
 ![](/images/alp4.png)
 ![](/images/alp5.png)
 
-<img src="/images/alp6.png" 
-     style="width:60%">
+<img src="/images/alp6.png" style="width:60%">
 		 
 ![](/images/alp7.png)
 
@@ -68,5 +69,4 @@ The ALP Farm-to-Table Programme 2022 consists of 2 tiers:
 
 ![](/images/alp8.png)
 
-<img src="/images/alp9.png" 
-     style="width:75%">
+<img src="/images/alp9.png" style="width:75%">
