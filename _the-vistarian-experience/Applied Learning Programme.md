@@ -137,3 +137,30 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
     <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP7.jpg" style="width:80%">
     <figcaption><strong>Sharing about the NV’s ALP High Tech Farming experience with Minister Chan Chun Sing</strong></figcaption>
 </figure>
+
+
+
+<strong><center>Secondary 3 (Tier 2 Programme)</center></strong>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP1.jpg" style="width:80%">
+    <figcaption><strong>Plots on Bloom Programme - Working hard to prepare soil beds. Getting it ready before transplanting takes place</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP2.jpg" style="width:80%">
+    <figcaption><strong>Transplanting young plants</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP3.jpg" style="width:80%">
+    <figcaption><strong>Displaying the school value of Care by performing weekly maintenance for the plants till they are ready for harvest</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP4.jpg" style="width:80%">
+</figure>
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP5.jpg" style="width:80%">
+    <figcaption><strong>The fruit of their labour (okra and corn) by Secondary 3 Biology students</strong></figcaption>
+</figure>
