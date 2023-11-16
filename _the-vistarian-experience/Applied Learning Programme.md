@@ -53,7 +53,7 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 
 <strong><center>Secondary 1 – From Farm-To-Table Programme (Using traditional farming methods - soil)</center></strong>
 
-![](/images/alp1.png)
+
 ![](/images/alp2.png)
 
 <strong><center>Secondary 2 – From Farm-To-Table Programme (Using High Tech Farming Methods - Hydroponics)</center></strong>
