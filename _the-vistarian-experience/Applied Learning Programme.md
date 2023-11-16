@@ -54,13 +54,13 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 <strong><center>Secondary 1 – From Farm-To-Table Programme (Using traditional farming methods - soil)</center></strong>
 
 <figure>
-    <img src="![](/images/The%20Vistarian%20Experience/ALP/ALP2.jpg)">
-    <figcaption><strong>Pest prevention and control </strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP1.jpg">
+    <figcaption><strong>Preparation of plot for seed sowing </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP1.jpg">
-    <figcaption><strong>Preparation of plot for seed sowing </strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP2.jpg">
+    <figcaption><strong>Pest prevention and control </strong></figcaption>
 </figure>
 
 <figure>
@@ -72,6 +72,8 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
     <img src="/images/The%20Vistarian%20Experience/ALP/ALP4.jpg">
     <figcaption><strong></strong></figcaption>Weeding – a test of resilience
 </figure>
+
+
 
 
 
