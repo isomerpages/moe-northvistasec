@@ -55,4 +55,13 @@ Lim Yong Xuan	2N1
 
 **Singapore Mathematical Olympiad Training &amp; Competition**
 
-As &nbsp;part of our Talent Development Programme, a 10-week Math Olympiad Training will be organized for a selected group of Secondary Two Express students. This training programme aims to develop in our students’ higher-order problem solving skills which include non-routine, open-ended and real-world problems.
+As part of our Talent Development Programme, a 10-week Math Olympiad Training will be organized for a selected group of Secondary Two Express students. This training programme aims to develop in our students’ higher-order problem solving skills which include non-routine, open-ended and real-world problems.
+
+We are pleased to announce the achievements by the following students:
+
+
+
+| Event | Achievement | 
+| -------- | -------- | 
+| Singapore Mathematical Olympiad Competition 2023    | Honourable Mention: | 
+| -------- | -------- | 
