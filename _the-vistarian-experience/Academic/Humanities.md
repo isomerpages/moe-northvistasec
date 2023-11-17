@@ -44,11 +44,11 @@ Geography
 As students prepare for a knowledge-based economy, they need to be digitally ready. That means having access to digital technology, knowing how to use it and being able to create with it.
 In NV’s Geography lessons, students are given opportunities to dip their toes into the water and experience the potential of Geographic Information System (GIS). They learn to read and create digital maps, and find out how and why information is represented as such. This helps them understand the geographical concepts of place, space and scale simultaneously. As part of the experiential based learning experience, our students also conduct Geographical Investigations (GI) on the topic of Water, Housing, and Tourism. Through GI, students are able to witness how Geography comes to life where they apply their learning in the classroom to the real world. 
 
-<img src="/images/The%20Vistarian%20Experience/Academic/Humanities3.jpg">
+<img src="/images/The%20Vistarian%20Experience/Academic/Humanities3.jpg" style="width:80%">
 <figcaption> <strong> </strong> </figcaption>
-
 
 <figure>
 <img src="/images/The%20Vistarian%20Experience/Academic/Humanities4.jpg">
 <figcaption> <strong> Our Secondary 4 students conducted a questionnaire survey with tourists at Chinatown for their Tourism GI. (Left) The Secondary 1 students visited Punggol Park and drew a field sketch for their GI on Water Resources.</strong> </figcaption>
 </figure>
+
