@@ -52,3 +52,17 @@ In NV’s Geography lessons, students are given opportunities to dip their toes 
 <figcaption> <strong> Our Secondary 4 students conducted a questionnaire survey with tourists at Chinatown for their Tourism GI. (Left) The Secondary 1 students visited Punggol Park and drew a field sketch for their GI on Water Resources.</strong> </figcaption>
 </figure>
 
+In addition, learning journeys are conducted to further enhance the experiential learning experience for our students. For instance, our Secondary 3 students embarked on a learning journey to visit Science Centre Singapore, where they explored the exhibition ‘Earth Alive’, which showcases the elements of Earth Sciences and Earth Systems. 
+
+<img src="/images/The%20Vistarian%20Experience/Academic/Humanities5.jpg">
+<figcaption> <strong> </strong> </figcaption>
+
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/Humanities6.jpg">
+<figcaption> <strong> At the Science Centre, our students worked in groups to tackle disaster management scenarios and experienced the wind speeds of a typhoon in a typhoon stimulator. </strong> </figcaption>
+</figure>
+
+Every year, a team of students would represent NV to participate in the NUS Geography Challenge. The following students with outstanding results were selected to join the NUS Talent Development Programme: 
+
+* Don Koo (2019)
+* Izzy Lui (2021)
