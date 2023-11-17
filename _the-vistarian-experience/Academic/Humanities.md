@@ -31,4 +31,9 @@ History lessons are inquiry based in nature. Lower secondary students are given 
 <figcaption> <strong> Our students visited the National Museum and had the opportunity to interact with various exhibits as they embarked on the Artefactually Speaking Guided Tour.</strong> </figcaption>
 </figure>
 
+To enhance their learning experience, lower secondary students enjoy live and interactive Historical Investigation lessons via the Historical exploration Google Site created by their very own teachers. Students also enjoy source analysis through authentic historical artefacts.
 
+Upper secondary History students continue to see History come alive in their classroom where they enjoy Google Earth Tours of key historical sites. Students also enjoy further experiential learning by participating in the Istana Heritage Challenge and National History Challenge. Students with outstanding results were selected for the NUS Talent Development programme. The following students were shortlisted for the programme:
+
+* Ruiz Diego (2022)
+* Ryan Seah (2023)
