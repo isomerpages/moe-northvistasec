@@ -60,8 +60,72 @@ As part of our Talent Development Programme, a 10-week Math Olympiad Training wi
 We are pleased to announce the achievements by the following students:
 
 
-
-| Event | Achievement | 
-| -------- | -------- | 
-| Singapore Mathematical Olympiad Competition 2023    | Honourable Mention: | 
-| -------- | -------- | 
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:233.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:115%" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:
+  115%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:宋体;color:black;
+  mso-ansi-language:EN-GB" lang="EN-GB">Event</span></b></p></td><td style="width:233.75pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:115%" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:
+  115%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:宋体;color:black;
+  mso-ansi-language:EN-GB" lang="EN-GB">Achievement</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:98.95pt"><td style="width:233.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:98.95pt" valign="top" width="312"><p style="margin-bottom:0in;text-align:center;
+  line-height:115%" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">Singapore Mathematical Olympiad Competition 2023</span><b><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-ansi-language:EN-GB" lang="EN-GB"></span></b></p></td><td style="width:233.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:98.95pt" width="312"><p style="margin-bottom:0in;line-height:106%" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">Honourable Mention</span><span style="font-size:12.0pt;line-height:106%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"></span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpFirst"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">1.Muhammad Darwisy Bin Zulkipli<span style="mso-spacerun:yes">&nbsp; </span>2E1</span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">2.Giselle Chan Si Ji 2E2</span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">3.Vernice Tan Kai Xin 2E2</span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">4.Chah Ying Xuan 2E3</span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">5.Lim Qiao Ying 2E4</span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">6.Sun Yixin 2E4</span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">7.Palcongan Shaniel Castillo 2E4</span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">8.Seth Tan (Chen Ziyi) 3E1</span></p><p style="text-indent:-.25in;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpLast"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB"><span style="mso-list:
+  Ignore"><span style="font:12pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;mso-ligatures:
+  standardcontextual;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">9.Lee En Le 3E2</span></p></td></tr></tbody></table>
