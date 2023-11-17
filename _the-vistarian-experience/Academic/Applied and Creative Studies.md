@@ -3,6 +3,7 @@ title: Applied and Creative Studies
 permalink: /the-vistarian-experience/academic/creative-studies/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 <figure>
 <img src="/images/Applied%20Creative%20Studies%20Department.jpg">
@@ -50,4 +51,4 @@ The aim of the Food &amp; Consumer Education (FCE) is to empower students to tak
 
 The 21st Century Skills such as the critical thinking skills, analytical skills and decision-making skills are also developed in our students as they work through their coursework. This hands-on approach, which the teachers adopt, allows students to relate and apply the knowledge gained in real-life situations.
 
-![](/images/creative%20studies%204.png)
+![](/images/The%20Vistarian%20Experience/Academic/NV_FCE_1.JPG)

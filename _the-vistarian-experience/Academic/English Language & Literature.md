@@ -3,25 +3,43 @@ title: English Language & Literature
 permalink: /the-vistarian-experience/academic/english-language-n-literature/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-The English Language and Literature Department aims to equip our students with 21st century critical thinking and effective communication skills, so as to prepare them for challenges of the future.
-
 <figure>
 <img src="/images/English%20Language%20%20Literature%20Department.jpg">
-<figcaption> <strong>English Language & Literature Department </strong> </figcaption>
+<figcaption> <strong>English Language &amp; Literature Department </strong> </figcaption>
 </figure>
+
+The English Language and Literature Department aims to equip our students with 21st century critical thinking and effective communication skills, to prepare them for an unprecedented future. Specifically, we envision Vistarians as self-directed learners, empathetic communicators and discerning readers. 
+
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/English1.jpg">
+<figcaption> <strong>Students being given opportunities to hone their presentation skills in class. </strong> </figcaption>
+</figure>
+
 
 ### English Language
 
-The school-based curriculum is designed to include both thematic and skills-based units, enabling students to deepen their content understanding and hone their linguistic skills. Through this and other school-based programmes, we create opportunities for Vistarians to develop competence in thinking and reading critically, as well as communicating confidently and empathetically in the English Language.
+Our curriculum comprises thematic and skills-based units, using multi-modal texts that enable students to deepen their content understanding and hone their linguistic skills. We aim to cultivate the joy of reading through diverse materials that appeal to the varying abilities of our learners. The EL Department also adopts MOE’s CLEARR pedagogical framework in our lesson design. 
 
-![](/images/EL-21ii.jpg)
+![](/images/The%20Vistarian%20Experience/Academic/english2.jpg)
 
-### Literature in English                    
+Through external partnerships and nationwide competitions (e.g. Live On Festival and Plain English Speaking Awards), we actively create opportunities for Vistarians to develop their competency collaboratively through authentic experiences. In 2023, Hillary Wee and Chang Ivory, both from 3E3, were awarded the High Distinction award in the Senior Essay Writing Category of the Live On Festival. 
 
-In the Literature classroom, opportunities are provided for students to read and respond to a variety of literary texts (prose, poetry and drama), as well as to explore different perspectives and give personal responses to different themes.
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/english3.jpg" style="width:60%">
+</figure>
 
-The texts offered from Academic Year 2021 are as follows:
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/english4.jpg" style="width:60%">
+</figure>
+
+
+### Literature in English &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+In the Literature classroom, opportunities are provided for students to read and respond to a variety of literary texts (prose, poetry and drama), as well as to engage with diverse themes on a more personal level. During lessons, students are conditioned to engage in an intellectual discourse on their analysis of their texts. 
+
+The texts offered in the Academic Year 2024 are as follows:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -51,17 +69,13 @@ The texts offered from Academic Year 2021 are as follows:
     <td class="tg-1g8u">Something Old, Something New, Something Borrowed… is an anthology that contains three Singaporean plays for Lower <span style="background-color:initial">Secondary students that revolve around the theme of family.</span></td>
   </tr>
   <tr>
-    <td class="tg-nbj5"><br><span style="font-weight:bold;font-style:italic">Upper Secondary</span> <br><br>Literature Drama Text[for Pure Literature]<br><br><img src="/images/EL-21v.jpg" alt="EL-21v.jpg" width="179" height="274"></td>
-    <td class="tg-jxgv">Set in racially-segregated 1950s America, A Raisin in the Sun depicts the lives of the Youngers, <br>an impoverished African American family living in a cramped apartment in the South Side of Chicago.<br> </td>
+    <th class="tg-fyfk" colspan="2">Upper Secondary Elective Literature offered at both Express and Normal (Academic)</th>
   </tr>
   <tr>
-    <td class="tg-cdi7">Upper Secondary Prose Text<br><br>for Pure, Elective and Normal (Academic) Literature]<br><br><img src="/images/EL-21vi.jpg" alt="EL-21vi.jpg" width="192" height="293"></td>
-    <td class="tg-1g8u">Kindred is set in two places: modern twentieth-century America, where Dana, a black woman <span style="background-color:initial">is married to a white man, and 1815 Antebellum South, where Dana periodically time-travels to. </span><br><span style="background-color:initial">The text explores</span> <span style="background-color:initial">the plantations in 1815 and the lives of slaves and plantation owners through the author’s vivid descriptions of the environment and people living there.</span></td>
+    <td class="tg-cdi7"><img src="/images/The%20Vistarian%20Experience/Academic/english5.jpg" alt="EL-21vi.jpg" width="192" height="293"></td>
+    <td class="tg-1g8u">The Chrysalids is a science fiction novel about a young boy named David who possesses a forbidden ability to communicate through thought. As David and his friends discover their telepathic powers, they struggle to navigate a society that fears and condemns anyone different, leading to a gripping tale of survival and acceptance.</td>
   </tr>
 </tbody>
 </table>
 
-
-
-
-
+Beyond the classroom, learning journeys are organised for lower secondary students to view theatre performances based on Literature texts. Students with an aptitude and passion for Literature are also selected to participate in competitions such as the National Schools Literature Festival and Unity Writer’s Festival, to further enrich their learning of the subject.
