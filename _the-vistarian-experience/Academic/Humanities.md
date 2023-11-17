@@ -3,6 +3,7 @@ title: Humanities
 permalink: /the-vistarian-experience/academic/humanities/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 <figure>
 <img src="/images/Humanities%20Department.jpg">
@@ -15,34 +16,19 @@ Through varied level programmes, our teachers aim to make History, Geography and
 
 ![](/images/humanities1.png)
 
-Geography
+History
 ---------
 
-  
+History lessons are inquiry based in nature. Lower secondary students are given the tools and lenses they need to discover the world and its past. As part of the experiential based learning experience, our students will also get to visit the National Museum and embark on the Artefactually Speaking Guided Tour. 
 
-As students prepare for a knowledge-based economy, they need to be digitally ready. That means having access to digital technology, knowing how to use it and being able to create with it.
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/Humanities1.jpg">
+<figcaption> <strong> </strong> </figcaption>
+</figure>
 
-In NV’s Geography lessons students have been given opportunities to dip their toes into the water, and experience the potential of Geographic Information System (GIS). They learn to read and create digital maps, and find out how and why information is represented as such. This helps them understand geographical concepts of place, space and scale simultaneously. As part of the experiential based learning experience, our students also conduct Geographical Investigations (GI) on the topic of Housing, Weather and Tourism. Through GI, students are then able to witness how Geography comes to life and can be applied in the real world. The Geography students also enjoy the opportunity of annual competitions such as the NUS Geography Challenge.
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/Humanities2.jpg">
+<figcaption> <strong> Our students visited the National Museum and had the opportunity to interact with various exhibits as they embarked on the Artefactually Speaking Guided Tour.</strong> </figcaption>
+</figure>
 
-<img src="/images/Hum2020-12.jpg" 
-     style="width:70%">
-		 
-### History
 
-History lessons are inquiry based in nature. Lower Secondary students are given the tools and lenses they need to discover the world and its past. As part of the experiential based learning experience, our students will also get to visit the Asian Civilization Museum, Changi Chapel Museum and enjoys tours of our Heritage sites such as the Peranakan Museum and the charming streets of Katong.
-
-To enhance their learning experience, students enjoy live and interactive Historical Investigation lessons in the Lower Secondary via the Historical exploration WIX site created by their very own teachers as well as direct source exploration via the use of authentic historical sources.
-
-Upper Secondary History students continue to see History come alive in their classroom where they enjoy ICT based lessons and role plays on pivotal events in History including WW II and The Cold War. Students also enjoy further experiential learning by participating in the Istana Heritage Challenge and National history Challenge and War and Diplomacy which is a game based learning experience.
-
-![](/images/history1.png)
-<img src="/images/Hum2020-9.jpg" 
-     style="width:60%">
-		 
-### Social Studies
-
-The Social Studies curriculum aspires toward the growth of our students as informed, concerned and participative citizens. At the heart of the Singapore Social Studies curriculum is the preparation of our students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human experience.
-
-Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. To help students attain relevant knowledge and understanding about these issues and to allow them to develop critical and reflective thinking skills. Students work on discovering needs and concerns within Singapore society and how they can help to make Singapore a better place for all. Through such inquiry and authentic learning experiences, students are able to appreciate multiple perspectives and be inspired to show concern for the society and the world they live. Upper Secondary students also get to engage in discussions on global issues and take on the role of key decision makers in the UN Model Cabinet as part of the Social Studies learning experience.
-
-![](/images/social%20studies1.png)
