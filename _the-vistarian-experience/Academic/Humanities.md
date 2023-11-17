@@ -66,3 +66,19 @@ Every year, a team of students would represent NV to participate in the NUS Geog
 
 * Don Koo (2019)
 * Izzy Lui (2021)
+
+Social Studies
+---------
+
+The Social Studies curriculum aspires toward the growth of our students as informed, concerned and participative citizens. At the heart of the Singapore Social Studies curriculum lies the preparation of our students to become citizens of tomorrow by aiding them in better comprehending the interconnectedness of Singapore and the world they live in, as well as in appreciating the complexities of the human experience.
+Drawing on aspects of society that hold meaning and interest for the students, Social Studies seeks to ignite the curiosity of students to inquire into real-world issues that affect their lives. This endeavor aims to assist students in gaining relevant knowledge and understanding of these issues and in developing critical and reflective thinking skills. Students engage in discovering the needs and concerns within Singaporean society and consider how they can contribute to making Singapore a better place for all. Through such inquiry and authentic learning experiences, students become capable of appreciating multiple perspectives and finding inspiration to demonstrate concern for the society and the world they live in.
+<br>
+Additionally, upper secondary students have the privilege of visiting the Parliament House, the epicenter of our nation's democratic process. This immersive educational journey offers them a unique opportunity to witness governance in action. During their visit, our students had the chance to explore the hallowed halls where laws are debated and decisions are made, gaining invaluable insights into the inner workings of our democracy. This experience has not only deepened their understanding of civics and governance but has also ignited their inspiration to become proactive and well-informed citizens as an integral part of their Social Studies learning journey.
+
+<img src="/images/The%20Vistarian%20Experience/Academic/Humanities7.jpg">
+<figcaption> <strong> </strong> </figcaption>
+
+<figure>
+<img src="/images/The%20Vistarian%20Experience/Academic/Humanities8.jpg" style="width:80%">
+<figcaption> <strong> Our students visited the Parliament House and learnt about gifts of appreciation exchange between country leaders through game play.  </strong> </figcaption>
+</figure>
