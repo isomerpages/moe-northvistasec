@@ -25,6 +25,16 @@ We organise various exciting and enriching programmes to engage our students in 
     <figcaption><strong></strong></figcaption>Fan Art Painting
 </figure>
 
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/Quiz_time_during_TCM_Workshop.jpg" style="width:80%">
+    <figcaption><strong></strong></figcaption>Quiz Time During TCM Workshop
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/Sculpting_Activity.jpg" style="width:80%">
+    <figcaption><strong></strong></figcaption>Sculpting Activity
+</figure>
+
 ### Malay Language
 
 The Malay Language Unit designs an engaging and meaningful curriculum that focuses on providing real world and authentic experience for students to learn the language. As such, our academic outline and enrichment programmes aim to educate and empower students to create their own learning experience in acquiring language skills and cultural exposure. Our various types of enrichment programmes enable students to ‘read the word and the world’.
