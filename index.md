@@ -4,8 +4,7 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: Join us for NV's Open House  on 18 November 2023 (8am to 1pm)!
-  Scroll down for more details.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
@@ -22,6 +21,8 @@ sections:
         - title: DSA-Sec 2023
           description: Direct School Admission Exercise
           url: https://northvistasec.moe.edu.sg/links/parents/dsa/introduction/
+      title: Testing
+      variant: image
   - infopic:
       title: NV Highlights
       button: Find out more!
