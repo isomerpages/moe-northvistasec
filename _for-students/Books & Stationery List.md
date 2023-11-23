@@ -19,5 +19,5 @@ variant: markdown
 You are able to purchase your books online at the following website:  
 [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)
 
-Refer to this link below for the Proposed Selling Dates for Textbooks and Stationeries:
-
+Refer to this link below for more details:
+[Proposed Selling Dates for Textbooks and Stationeries](/files/For%20Students/Books%20&%20Stationery%20List/Proposed_Selling_Dates_for_Textbooks___Stationeries.pdf)
