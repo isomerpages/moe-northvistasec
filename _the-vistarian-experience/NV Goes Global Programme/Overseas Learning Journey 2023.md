@@ -42,5 +42,30 @@ third_nav_title: NV Goes Global Programme
 
 <figure>
     <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/5.jpg" style="width:100%">
+    <figcaption><strong> </strong>Vistarians donning on the presents that their Watmai buddies got for them. </figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/6.jpg" style="width:100%">
+    <figcaption><strong> </strong>Exchanging their Batik paintings with their Watmai buddies to mark the start of a beautiful friendship.  </figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/7.jpg" style="width:100%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/8.jpg" style="width:100%">
+    <figcaption><strong> </strong>Learning Thai language with the help of their Watmai buddies. </figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/9.jpg" style="width:100%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/10.jpg" style="width:100%">
     <figcaption><strong> </strong></figcaption>
 </figure>
