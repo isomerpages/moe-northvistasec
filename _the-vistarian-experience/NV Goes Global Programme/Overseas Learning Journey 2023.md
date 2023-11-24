@@ -14,3 +14,9 @@ third_nav_title: NV Goes Global Programme
 
 **Period of Cultural Exchange Programme:** 14 November to 18 November 2023  <br>
 **Partner School:** Don Bosco Ng Siu Mui Secondary School
+
+
+------------------------------
+
+**Thailand**
+
