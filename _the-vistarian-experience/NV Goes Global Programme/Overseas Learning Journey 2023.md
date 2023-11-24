@@ -20,3 +20,27 @@ third_nav_title: NV Goes Global Programme
 
 **Thailand**
 
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/1.jpg" style="width:100%">
+    <figcaption><strong> </strong>A tour of Jitniyom Garden, owned by an alumni member of Matthayom Watmai Krongthong School. The garden uses sustainable farming methods that can be an extension of NV’s Applied Learning Programme, Farm to Table! </figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/2.jpg" style="width:100%">
+    <figcaption><strong> </strong>Friendships that will last a lifetime.  </figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/3.jpg" style="width:100%">
+    <figcaption><strong> </strong>Vistarians and Watmai students learn the amazing interconnections across Southeast Asian countries via Batik Painting. </figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/4.jpg" style="width:100%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/NV%20Goes%20Global%20Programme/5.jpg" style="width:100%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
