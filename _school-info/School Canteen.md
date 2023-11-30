@@ -24,7 +24,7 @@ Interested applicants must meet the following criteria:
 
 **Application Procedure**
 
-1. Download and compete the application form. You may also obtain a hardcopy from the School's General Office (Monday to Friday - 9.00am to 4.00pm): [Application for canteen stall](/files/School%20Info/School%20Canteen/Application_for_canteen_stall.pdf)
+1. Download and compete the application form. You may also obtain a hardcopy from the School's General Office (Monday to Friday - 9.00am to 4.00pm):<br> [Application Form](/files/School%20Info/School%20Canteen/Application_for_canteen_stall.pdf)
 2. Attached the following documents together with the application form: 
 <br>
 * One photocopy of NRIC (front &amp; back)
