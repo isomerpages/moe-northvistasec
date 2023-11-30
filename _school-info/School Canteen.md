@@ -30,5 +30,15 @@ Interested applicants must meet the following criteria:
 * One photocopy of NRIC (front &amp; back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA licences etc
-3.Please submit the completed application form by closing date via email OR to the School's General Office by Friday, 1 December 2023 (2pm)
+3. Please submit the completed application form by closing date via email OR to the School's General Office by Friday, 1 December 2023 (2pm)
+<br>
+* Email: Northvistass@moe.edu.sg
+* Contact Person: Mdm Liana or Mr Yeo
+* Contact No: 68793930
+* Completed application form
+* One recent passport size coloured photograph
+* Photocopy of certificates of relevant courses attended such as Basic Food Hygiene Course and previous NEA licences etc.
+* Proposed menu list with pricing
+
+Please note that only shortlisted applicants will be notified for an interview and provide food sampling (at applicant's own expense). Late/incomplete applications will not be considered.
 
