@@ -4,7 +4,7 @@ permalink: /school-info/schoolcanteen/
 variant: markdown
 description: ""
 ---
-North Vista Secondary School has a vacancy for **Western Food Stall** with effect from 2 January 2024. We are located at 11 Rivervale Link, Singapore 545081. <br>
+**North Vista Secondary School** has a vacancy for **Western Food Stall** with effect from **2 January 2024**. We are located at 11 Rivervale Link, Singapore 545081. <br>
 Interested applicants must meet the following criteria:
 
 * Must be a Singapore citizen or Singapore Permanent Resident (the stallholder and assistant/(s));
@@ -17,7 +17,7 @@ Interested applicants must meet the following criteria:
 * Both applicant &amp; stall assistant/(s) ) must pass the Food &amp; Beverage Workforce Skills Qualification (WSQ) - Basic Food Hygiene Course (BFHC) conducted by any of the accedited training providers appointed by SkillsFuture Singapore (SSG).  The applicant will then be required to apply for hawker licence from National Environment Agency (NEA) upon successful completion of the WSQ BFHC;
 
 
-**Must comply with the “Healthy Meals in Schools Programme” guidelines:** <br>(https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
+**Must comply with the “Healthy Meals in Schools Programme” guidelines:** <br> [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 
 
 | Type of Stall | Closing Date | Requirements |
