@@ -24,7 +24,11 @@ Interested applicants must meet the following criteria:
 
 **Application Procedure**
 
-1. Download and compete the application form. You may also obtain a hardcopy from the School's General Office (Monday to Friday - 9.00am to 4.00pm): 
-
-
+1. Download and compete the application form. You may also obtain a hardcopy from the School's General Office (Monday to Friday - 9.00am to 4.00pm): [Application for canteen stall](/files/School%20Info/School%20Canteen/Application_for_canteen_stall.pdf)
+2. Attached the following documents together with the application form: 
+<br>
+* One photocopy of NRIC (front &amp; back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA licences etc
+3.Please submit the completed application form by closing date via email OR to the School's General Office by Friday, 1 December 2023 (2pm)
 
