@@ -22,5 +22,9 @@ Interested applicants must meet the following criteria:
 
 **Must comply with the “Healthy Meals in Schools Programme” guidelines:** <br>(https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 
+**Application Procedure**
+
+1. Download and compete the application form. You may also obtain a hardcopy from the School's General Office (Monday to Friday - 9.00am to 4.00pm): 
+
 
 
