@@ -4,9 +4,6 @@ permalink: /school-info/schoolcanteen/
 variant: markdown
 description: ""
 ---
-**Type of Stall:** Western Food Stall <br>
-**Closing Date:** 17 Dec 2023
-
 North Vista Secondary School has a vacancy for **Western Food Stall** with effect from 2 January 2024. We are located at 11 Rivervale Link, Singapore 545081. <br>
 Interested applicants must meet the following criteria:
 
@@ -21,6 +18,12 @@ Interested applicants must meet the following criteria:
 
 
 **Must comply with the “Healthy Meals in Schools Programme” guidelines:** <br>(https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
+
+
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Western Food Stall    | 17 Dec 2023     | NIL    |
+
 
 **Application Procedure**
 
