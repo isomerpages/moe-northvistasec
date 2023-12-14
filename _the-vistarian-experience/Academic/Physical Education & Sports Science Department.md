@@ -78,16 +78,16 @@ To make learning authentic, our ESS students are given the opportunity to organi
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/Academic/peconf3.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/Academic/peconf3.jpeg" style="width:80%">
     <figcaption><strong> </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/Academic/peconf4.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/Academic/peconf4.JPG" style="width:80%">
     <figcaption><strong> </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/Academic/peconf5.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/Academic/peconf5.JPG" style="width:80%">
     <figcaption><strong> </strong></figcaption>
 </figure>
