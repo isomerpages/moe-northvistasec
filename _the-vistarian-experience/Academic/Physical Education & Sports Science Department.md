@@ -61,4 +61,33 @@ The Vistarian Road Run is an annual sports event that promises and delivers oppo
     <figcaption><strong> </strong></figcaption>
 </figure>
 
+### **Exercise and Sports Science (ESS - 6081)**
 
+Our school offers the O’ Level subject of Exercise and Sports Science as an Elective subject since its inception in 2018. The course aims to impart basic sports science knowledge and physical skills in two physical activities (one individual and one team sport) to students who are interested in learning about human movement and sports. They have the opportunity to compete at various sporting events such as the Combined Schools Meet and the N1 Cluster Games to hone their skills through competitions.
+
+To make learning authentic, our ESS students are given the opportunity to organize and participate in the annual NV PE &amp; SS Conference, an annual event which brings all the ESS students in Singapore together for an afternoon of learning and activities.
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/peconf1.jpg" style="width:80%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/peconf2.jpg" style="width:80%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/peconf3.jpg" style="width:80%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/peconf4.jpg" style="width:80%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/peconf5.jpg" style="width:80%">
+    <figcaption><strong> </strong></figcaption>
+</figure>
