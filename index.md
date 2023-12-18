@@ -4,9 +4,10 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: GCE N(A) and N(T) level results will be released on 18 December
-  2023 (Mon) at 2pm. For more information, please refer to the Announcements &
-  News page on the school website
+notification: Welcome, 2024 Sec 1 Cohort to NV! We will be holding a Welcome
+  Webinar for parents and students on Thursday, 21 Dec 2023 at 9.30 am. For more
+  information, please refer to the Announcements & News page on the school
+  website.
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
