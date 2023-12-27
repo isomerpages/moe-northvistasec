@@ -2,8 +2,9 @@
 title: Home–based Learning
 permalink: /students/homebasedlearning/
 description: ""
+variant: markdown
 ---
-Click [here](https://sites.google.com/moe.edu.sg/blendedlearning-nv/hbl-schedule-2023) to view Home-Based Learning Schedule for 2023.
+Click [here](go.gov.sg/nvbl) to view the Blended Learning Website. You can access the HBL schedule and information on SIL from this website
 # **Introduction to Blended Learning**
 Blended Learning aims to provide students a seamless blend of different modes of learning.
 
@@ -27,4 +28,3 @@ A main aspect of Blended Learning is the integration of **home-based learning** 
     
 *   Frequency: Once a fortnight, approximately 10% of curriculum time.
 
-Click [here](https://sites.google.com/moe.edu.sg/blendedlearning-nv/hbl-schedule-2023) to view Home-Based Learning Schedule for 2023 Semester 1
