@@ -12,7 +12,7 @@ sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
       key_highlights:
-        - title: PDLP Resource Site
+        - title: NDLP Resource Site
           description: Resources and tutorials
           url: http://go.gov.sg/nvpdlp
         - title: Blended Learning @ NV
