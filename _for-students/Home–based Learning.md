@@ -4,7 +4,7 @@ permalink: /students/homebasedlearning/
 description: ""
 variant: markdown
 ---
-Click [here](go.gov.sg/nvbl) to view the Blended Learning Website. You can access the HBL schedule and information on SIL from this website
+Click [here](https://sites.google.com/moe.edu.sg/blendedlearning-nv/) to view the Blended Learning Website. You can access the HBL schedule and information on SIL from this website
 # **Introduction to Blended Learning**
 Blended Learning aims to provide students a seamless blend of different modes of learning.
 
@@ -27,4 +27,3 @@ A main aspect of Blended Learning is the integration of **home-based learning** 
 *   Includes both ICT and non-ICT modes for teaching and learning
     
 *   Frequency: Once a fortnight, approximately 10% of curriculum time.
-
