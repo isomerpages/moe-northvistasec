@@ -2,10 +2,11 @@
 title: Timetable
 permalink: /students/timetable/
 description: ""
+variant: markdown
 ---
-* [Timetable by Class](/files/For%20Students/2023%20sem%202%20timetable_class%20(10%20july%202023).pdf)  (Updated 10 July 2023)
+* [Timetable by Class](/files/For%20Students/2023%20sem%202%20timetable_class%20(10%20july%202023).pdf)  (Updated 2 Jan 2024)
 
-### Semester 2, 2023
+### Semester 1, 2024
 
 
 
