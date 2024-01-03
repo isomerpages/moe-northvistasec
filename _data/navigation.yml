@@ -1,0 +1,14 @@
+logo: /images/NorthVis.png
+links:
+  - title: School Info
+    collection: school-info
+  - title: The Vistarian Experience
+    collection: the-vistarian-experience
+  - title: CCA
+    collection: cca
+  - title: For Parents
+    collection: for-parents
+  - title: For Students
+    collection: for-students
+  - title: Useful Links
+    collection: useful-links

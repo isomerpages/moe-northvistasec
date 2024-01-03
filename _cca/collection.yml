@@ -1,0 +1,27 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Co–Curricular Activities.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC.md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/St John Brigade.md
+      - Uniformed Groups/.keep
+      - Sports/.keep
+      - Sports/Athletics.md
+      - Sports/Football.md
+      - Sports/Golf.md
+      - Sports/Netball.md
+      - Sports/ODAC.md
+      - Sports/Basketball.md
+      - Performing Arts/.keep
+      - Performing Arts/Symphonic Band.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/String Ensemble.md
+      - Clubs & Society/.keep
+      - Clubs & Society/Infocomm Club.md
+      - Clubs & Society/Service Learning Club.md

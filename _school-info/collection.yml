@@ -1,0 +1,11 @@
+collections:
+  school-info:
+    output: true
+    order:
+      - History.md
+      - Our Vision, Mission & Values.md
+      - Our Crest & Anthem.md
+      - School Advisory Committee.md
+      - School Leaders.md
+      - School Calendar.md
+      - School Canteen.md
