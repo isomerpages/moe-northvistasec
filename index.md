@@ -18,9 +18,6 @@ sections:
         - title: NV Cares
           description: VIA Highlights
           url: https://sites.google.com/view/nvcares
-        - title: DSA-Sec 2023
-          description: Direct School Admission Exercise
-          url: https://northvistasec.moe.edu.sg/links/parents/dsa/introduction/
       title: Testing
       variant: image
   - infopic:
