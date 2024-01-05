@@ -22,7 +22,7 @@ Interested applicants must meet the following criteria:
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western Food Stall    | 29 Dec 2023     | NIL    |
+| Western Food Stall    | TBA     | NIL    |
 
 
 **Application Procedure**
@@ -33,7 +33,7 @@ Interested applicants must meet the following criteria:
 * One photocopy of NRIC (front &amp; back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA licences etc
-3. Please submit the completed application form by closing date via email OR to the School's General Office by Friday, 29 December 2023 (2pm)
+3. Please submit the completed application form by closing date via email OR to the School's General Office by (TBA)
 <br>
 * Email: [Northvistass@moe.edu.sg](Northvistass@moe.edu.sg)
 * Contact Person: Mdm Liana or Mr Yeo
