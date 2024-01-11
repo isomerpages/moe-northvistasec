@@ -2,8 +2,8 @@
 title: Group Personal Accident Insurance
 permalink: /links/parents/group-personal-accident-insurance/
 description: ""
+variant: markdown
 ---
-
 In the event of a claim you may submit via the NTUC Income Insurance Website link below:
 
   
@@ -12,4 +12,4 @@ In the event of a claim you may submit via the NTUC Income Insurance Website lin
 
 [Group Personal Accident Insurance for Students](https://studentgpa.incomegroupins.com.sg/#/dashboard)
 
-[Product Fact Sheet (Year 2023)](/files/Product%20Fact%20Sheet%20(Year%202023).pdf)
+[Product Fact Sheet (Year 2024)](/files/For%20parents/Product_Fact_Sheet_Year_2024.pdf)
