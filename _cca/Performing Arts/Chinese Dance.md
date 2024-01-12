@@ -3,13 +3,13 @@ title: Chinese Dance
 permalink: /cca/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-<img src="/images/chinesedance.jpg" 
-     style="width:30%">
+<img src="/images/chinesedance.jpg" style="width:30%">
 		 
-The Chinese Dance Club has been very active since its inception in Thomson Secondary School.  It continues to prosper when the school moved to Sengkang.  The Chinese dancers practice hard throughout the year, even during holidays, so that they can put up their best performance whenever they are on stage.
+The Chinese Dance Club has been very active since its inception in Thomson Secondary School.&nbsp; It continues to prosper when the school moved to Sengkang.&nbsp; The Chinese dancers practice hard throughout the year, even during holidays, so that they can put up their best performance whenever they are on stage.
 
-Throughout the years our Chinese Dancers were involved in several events such as CCA Carnivals, Chinese New Year concerts, NV Arts Night and NV NDP celebrations and they performances were well received by the audience.  They were also invited to perform in events outside school, such as Chinese New Year Celebrations, Mid-Autumn Festival celebrations and Racial Harmony celebrations.
+Throughout the years our Chinese Dancers were involved in several events such as CCA Carnivals, Chinese New Year concerts, NV Arts Night and NV NDP celebrations and they performances were well received by the audience.&nbsp; They were also invited to perform in events outside school, such as Chinese&nbsp;New Year Celebrations, Mid-Autumn Festival celebrations and Racial Harmony celebrations.
 
 Our Chinese Dancers also participated in many competitions, especially the Singapore Youth Festival Arts Presentation and they displayed the camaraderie and perseverance in them.
 
@@ -86,6 +86,11 @@ Our achievements at the inter-school competitions throughout the last five years
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-0lax">2023</td>
+    <td class="tg-baqh">SYF Arts Presentation</td>
+    <td class="tg-baqh">Certificate of Accomplishment</td>
+  </tr>
   <tr>
     <td class="tg-0lax">2021</td>
     <td class="tg-baqh">SYF Arts Presentation</td>
@@ -96,20 +101,8 @@ Our achievements at the inter-school competitions throughout the last five years
     <td class="tg-baqh">SYF Arts Presentation</td>
     <td class="tg-baqh">Certificate of Distinction</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">2017</td>
-    <td class="tg-baqh">SYF Arts Presentation</td>
-    <td class="tg-baqh">Certificate of Accomplishment</td>
-  </tr>
 </tbody>
 </table>
 
-![](/images/chinese%20dance.png)
-
-<img src="/images/2020%20CNY.jpg" 
-     style="width:75%">
+<img src="/images/2020%20CNY.jpg" style="width:80%">
 		 
-![](/images/chinese%20dance%202.png)
-
-<img src="/images/2021%20SYF%20day.jpg" 
-     style="width:75%">
