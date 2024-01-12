@@ -91,4 +91,19 @@ Ms Pearly Mak
 </tbody>
 </table>
 
-<img src="" style="width:80%">
+<img src="/images/CCA/Choir/e99ffc5a_4661_44e2_8fe7_cbbb39a592db.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/DSC_0527.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/bf8ef801_4a47_47af_aa7d_302600bc006e.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/b8fd9b40_f8b7_416f_9197_d542c322d4a3.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/11368566_5b7d_4346_aca9_8c42beb73d56.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/91e87543_6909_4c3b_9463_b7ae5bff08c1.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/6dd4e13a_7916_40b8_996d_af692d948be9.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/4ce43784_aa82_4853_af4b_61306592fb0a.jpg" style="width:80%">
+<br>
