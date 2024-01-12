@@ -99,3 +99,33 @@ We have performed at important school functions and took part in several public 
 </tbody>
 </table>
 
+
+<figure>
+    <img src="/images/CCA/Band/IMG_2731.jpeg" style="width:80%">
+    <figcaption><strong></strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/CCA/Band/SYF_rehearsal_2023.jpg" style="width:80%">
+    <figcaption><strong></strong>SYF Rehearsal</figcaption>
+</figure>
+
+<figure>
+    <img src="/images/CCA/Band/SYF_competion_2023.jpg" style="width:80%">
+    <figcaption><strong></strong>SYF Competition</figcaption>
+</figure>
+
+<figure>
+    <img src="/images/CCA/Band/National_Day_Celebration.jpg" style="width:80%">
+    <figcaption><strong></strong>National Day Celebration</figcaption>
+</figure>
+
+<figure>
+    <img src="/images/CCA/Band/National_Day_2023.jpg" style="width:80%">
+    <figcaption><strong></strong>National Day Celebration</figcaption>
+</figure>
+
+<figure>
+    <img src="/images/CCA/Band/Concert_Band_competition_.jpg" style="width:80%">
+    <figcaption><strong></strong>Concert Band Competition</figcaption>
+</figure>
