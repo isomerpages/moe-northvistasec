@@ -3,17 +3,13 @@ title: Athletics
 permalink: /cca/sports/athletics/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-North Vista’s Athletics team is made up of determined and disciplined students. Under the supervision of our coach and the teachers-in-charge, our athletes train on both their physical and mental endurance. Trainings are conducted three times a week on Mondays, Wednesdays and Fridays from 3:30 pm to 5:30 pm. Athletes in the team are pushed to consistently improve on their physical form through drills and runs that challenge them and enable them to experience a sense of fulfillment at their eventual achievements. Our training prepare our students to be able to participate in nation competitions that pit our students against some of Singapore’s track giants.
+### Igniting Passion, Unleashing Potential 
 
-One such competition that the team was able to participate in was the Virtual Inter-School Challenge 2021. Despite the challenges faced in carrying out regular training sessions while adhering to the Covid-19 measures in place, our athletes prepared and competed in the 3KM and 5KM races. Three of our C Division boys who participated in the 3KM race were able to place among the top 20 finishers. We would like to take this opportunity to congratulate the boys, namely: Ting Yu Heng (1N3) who cinched the 14th position, Royston Koh Sheng Duan (2N3) who came in at the 17th position as well as Wayne Ong Wei Xuan placing 20th.
+North Vista Athletics is dedicated to nurturing young athletes, providing them with a platform to develop their athletic capabilities. Through a variety of track and field events, we aim to instill discipline and a passion for the sport in our athletes. Focused on fostering physical prowess, teamwork and self-resilience, we empower our athletes to become self-motivated and unlock their athletic potential. 
 
-Our athletes consistently prove that challenges only encourage them to push new boundaries and strive for greatness. If the year has proven anything, it would be that our athletes are able to function well both as a team and as individuals in any given situation.
-
-The Athletics team is aware that none of our achievements over the years would have been possible without the guidance and support of the school, from our coach to our supportive teachers and schoolmates readily extending their support to our athletes. The team is ever grateful for the encouragement it has continually received. Because of this, our motivation has always been and will continue to be to do our school proud and to embellish the school’s trophy cabinet with as many achievements as we can. With determination, optimism and passion, the team looks forward to the opportunity to prove themselves in regular competitions next year.
-
-We are certain that with our school behind us, nothing can stand in our way. Viva Team Athletics!
-
+Under the guidance of our experienced coaches, our athletes receive customized training and mentorship to attain their goals and aspirations. Our trainings seek to prepare our athletes towards participating and competing in local club competitions and the annual National School Games Meet.
   
 
 **Teachers-In-Charge:**
@@ -34,6 +30,11 @@ Ms Tita Hariana
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
+
+
+
+### Achievements
+
 <table class="tg">
 <thead>
   <tr>
@@ -45,26 +46,13 @@ Ms Tita Hariana
 <tbody>
   <tr>
     <td class="tg-ktyi">Mondays</td>
-    <td class="tg-ktyi">3.30 p.m. – 6.30 p.m.</td>
+    <td class="tg-ktyi">3.30 p.m. – 5.30 p.m.</td>
     <td class="tg-ktyi" rowspan="4">School / External Stadiums</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Wednesdays</td>
-    <td class="tg-ktyi">3.30 p.m. – 6.30 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Fridays</td>
-    <td class="tg-ktyi">3.30 p.m. – 6.30 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" colspan="2">Weekends (Competitions)</td>
-  </tr>
-</tbody>
-</table>
-
-### Achievements
-
-<style type="text/css">
+    <td class="tg-ktyi">3.30 p.m. – 5.30 p.m.</td>
+  </tr><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -74,7 +62,7 @@ Ms Tita Hariana
 .tg .tg-va4t{background-color:#FFF;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+</tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-va4t">YEAR</th>
@@ -281,5 +269,4 @@ Ms Tita Hariana
 
 ![](/images/athletics.png)
 
-<img src="/images/DSC_6965.jpg" 
-     style="width:65%">
+<img src="/images/DSC_6965.jpg" style="width:65%">
