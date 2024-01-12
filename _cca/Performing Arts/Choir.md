@@ -3,20 +3,21 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 **“One Voice”**
 
-Since its inception in 2001, North Vista Choir has participated in music festivals, choral clinics, workshops, public performances, exchange with other school concerts as well as national and competitions.
+Since its inception in 2001, North Vista Choir has participated in many music festivals, choral clinics, workshops, public performances, exchange with other school concerts as well as national competitions.
 
-This Co-Curricular Activity provides opportunities for students to share their passion for music, develop their singing techniques and enhance their confidence through performances. Choir members enjoy an enriching learning journey of singing experiences as they receive training in a wide repertoire of music including acapella and folk songs of other nationalities.
+The Choir provides opportunities for students to share their passion for music, develop their singing techniques and enhance their confidence through performances. Choir members enjoy an enriching learning journey of singing experiences as they receive training in a wide repertoire of music including acapella and folk songs of other nationalities.
 
-  
+
+ 
 
 **Teachers-In-Charge:**
 
 Mdm Yeo Zi Qing <br>
 Ms Cariona Chan <br>
-Ms Ezdiyan Siregar <br>
 Ms Pearly Mak
 
 ### Training Schedule
@@ -71,6 +72,11 @@ Ms Pearly Mak
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-7yig">Singapore Youth Festival Arts Presentation<br></td>
+    <td class="tg-7yig">Certificate of Accomplishment<br></td>
+    <td class="tg-7yig">2023</td>
+  </tr>
   <tr>
     <td class="tg-7yig"> Singapore Youth Festival Arts Presentation</td>
     <td class="tg-7yig"><span style="background-color:initial"> Participation(no benchmarking due to COVID-19)</span></td>
@@ -81,18 +87,7 @@ Ms Pearly Mak
     <td class="tg-7yig"> Certificate of Accomplishment</td>
     <td class="tg-7yig"> 2019</td>
   </tr>
-  <tr>
-    <td class="tg-7yig">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-7yig">Certificate of Accomplishment<br></td>
-    <td class="tg-7yig">2017</td>
-  </tr>
+ 
 </tbody>
 </table>
 
-![](/images/choir-21i.jpg)
-
-![](/images/choir%201.png)
-
-![](/images/choir%202.png)
-
-![](/images/choir-21ii.jpg)
