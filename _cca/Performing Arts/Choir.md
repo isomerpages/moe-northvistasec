@@ -3,20 +3,21 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 **“One Voice”**
 
-Since its inception in 2001, North Vista Choir has participated in music festivals, choral clinics, workshops, public performances, exchange with other school concerts as well as national and competitions.
+Since its inception in 2001, North Vista Choir has participated in many music festivals, choral clinics, workshops, public performances, exchange with other school concerts as well as national competitions.
 
-This Co-Curricular Activity provides opportunities for students to share their passion for music, develop their singing techniques and enhance their confidence through performances. Choir members enjoy an enriching learning journey of singing experiences as they receive training in a wide repertoire of music including acapella and folk songs of other nationalities.
+The Choir provides opportunities for students to share their passion for music, develop their singing techniques and enhance their confidence through performances. Choir members enjoy an enriching learning journey of singing experiences as they receive training in a wide repertoire of music including acapella and folk songs of other nationalities.
 
-  
+
+ 
 
 **Teachers-In-Charge:**
 
 Mdm Yeo Zi Qing <br>
 Ms Cariona Chan <br>
-Ms Ezdiyan Siregar <br>
 Ms Pearly Mak
 
 ### Training Schedule
@@ -71,6 +72,11 @@ Ms Pearly Mak
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-7yig">Singapore Youth Festival Arts Presentation<br></td>
+    <td class="tg-7yig">Certificate of Accomplishment<br></td>
+    <td class="tg-7yig">2023</td>
+  </tr>
   <tr>
     <td class="tg-7yig"> Singapore Youth Festival Arts Presentation</td>
     <td class="tg-7yig"><span style="background-color:initial"> Participation(no benchmarking due to COVID-19)</span></td>
@@ -81,18 +87,23 @@ Ms Pearly Mak
     <td class="tg-7yig"> Certificate of Accomplishment</td>
     <td class="tg-7yig"> 2019</td>
   </tr>
-  <tr>
-    <td class="tg-7yig">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-7yig">Certificate of Accomplishment<br></td>
-    <td class="tg-7yig">2017</td>
-  </tr>
+ 
 </tbody>
 </table>
 
-![](/images/choir-21i.jpg)
-
-![](/images/choir%201.png)
-
-![](/images/choir%202.png)
-
-![](/images/choir-21ii.jpg)
+<img src="/images/CCA/Choir/e99ffc5a_4661_44e2_8fe7_cbbb39a592db.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/DSC_0527.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/bf8ef801_4a47_47af_aa7d_302600bc006e.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/b8fd9b40_f8b7_416f_9197_d542c322d4a3.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/11368566_5b7d_4346_aca9_8c42beb73d56.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/91e87543_6909_4c3b_9463_b7ae5bff08c1.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/6dd4e13a_7916_40b8_996d_af692d948be9.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Choir/4ce43784_aa82_4853_af4b_61306592fb0a.jpg" style="width:80%">
+<br>

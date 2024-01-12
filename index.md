@@ -4,9 +4,9 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: The GCE O-Level results will be released on 11 January 2024
-  (Thursday), 2pm. For more information, please refer to the Announcements &
-  News page on the school website.
+notification: The GCE O-Level results have been released on 11 January 2024
+  (Thursday). For more information, please refer to the Announcements & News
+  page on the school website.
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
