@@ -3,12 +3,13 @@ title: Symphonic Band
 permalink: /cca/performing-arts/band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 The North Vista Symphonic Band was first formed in 2001. The Band had 48 members initially and has grown to about 70 members over the years. It is one of the CCAs that have links with its alumni band from Thomson Secondary School.  
 
-The band holds to its motto **‘One Band, One Sound’**, as we believe that music connects and brings about togetherness. We hope to develop our members to not only experience musicianship, but to also enhance collaboration. Through their experiences as Band members, we hope to further hone their life skills and knowledge.
+The band holds to its motto&nbsp;**‘One Band, One Sound’**, as we believe that music connects and brings about togetherness. We hope to develop our members to not only experience musicianship, but to also enhance collaboration. Through their experiences as Band members, we hope to further hone their life skills and knowledge.
 
-**Teachers-in-Charge:** 
+**Teachers-in-Charge:**&nbsp;
 
 Ms Lim Jia Hui <br>
 Mrs Tan Hui Yu <br>
@@ -69,26 +70,22 @@ We have performed at important school functions and took part in several public 
 </thead>
 <tbody>
   <tr>
+    <td class="tg-7yig"> 2023</td>
+    <td class="tg-7yig">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
     <td class="tg-7yig"> 2021</td>
     <td class="tg-7yig">Certificate of Commendation</td>
   </tr>
   <tr>
-    <td class="tg-7yig"> 2019</td>
-    <td class="tg-7yig">Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">2017</td>
-    <td class="tg-7yig">Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">2015</td>
+    <td class="tg-7yig">2019</td>
     <td class="tg-7yig">Certificate of Accomplishment</td>
   </tr>
   <tr>
     <td class="tg-dgl5" colspan="2">School Performances</td>
   </tr>
   <tr>
-    <td class="tg-7yig" colspan="2">Speech Day Performance<br>Arts Night Performance<br>Band Exchange<br>CCA Carnival<br>Open House Performances</td>
+    <td class="tg-7yig" colspan="2">Arts Night Performance<br>Band Exchange Programme<br>CCA Carnival<br>National Day Celebration<br>Open House Performances<br>Singapore Youth Festival<br>Speech Day Performance<br>Teachers' Day Celebration<br></td>
   </tr>
   <tr>
     <td class="tg-dgl5" colspan="2">Community Performances</td>
@@ -97,16 +94,8 @@ We have performed at important school functions and took part in several public 
     <td class="tg-ktyi" colspan="2">Performances at Botanicals Gardens (2017)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" colspan="2">National Day Celebration at Sengkang Community (2017-2019)</td>
+    <td class="tg-ktyi" colspan="2">National Day Celebration at Sengkang Community (2017-2019) (2022-2023)</td>
   </tr>
 </tbody>
 </table>
 
-
-<img src="/images/band-21i.jpg" 
-     style="width:75%">
-		 
-![](/images/band.png)
-
-<img src="/images/band-21v.jpg" 
-     style="width:75%">
