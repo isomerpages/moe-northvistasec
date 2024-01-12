@@ -330,3 +330,10 @@ Ms Tita Hariana
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Latha;mso-bidi-theme-font:
   minor-bidi">Wayne Ong Wei Xuan</span></p></td></tr></tbody></table>
+	<p></p>
+	
+
+![](/images/CCA/Athletics/IMG_6644.JPG) <br>
+![](/images/CCA/Athletics/IMG_6642.JPG) <br>
+![](/images/CCA/Athletics/IMG_5457.JPG) <br>
+![](/images/CCA/Athletics/6.jpg)
