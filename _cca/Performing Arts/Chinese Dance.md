@@ -104,5 +104,12 @@ Our achievements at the inter-school competitions throughout the last five years
 </tbody>
 </table>
 
-<img src="/images/2020%20CNY.jpg" style="width:80%">
-		 
+<img src="/images/CCA/Chinese%20Dance/CNDS20___32_.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Chinese%20Dance/CNDS20___23_.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Chinese%20Dance/CNDS20___21_.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Chinese%20Dance/CNDS20___13_.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Chinese%20Dance/CNDS20___11_.jpg" style="width:80%">
