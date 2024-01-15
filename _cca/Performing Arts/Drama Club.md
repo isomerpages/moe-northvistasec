@@ -91,5 +91,15 @@ Ms Nurdianah Zohairi
 </tbody>
 </table>
 
-<img src="" style="width:80%">
+<img src="/images/CCA/Drama/Drama1.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama2.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama3.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama4.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama5.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama6.jpg" style="width:80%">
 <br>
