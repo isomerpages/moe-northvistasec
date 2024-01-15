@@ -1,5 +1,5 @@
 ---
-title: N Level Result have been release on 18 Dec 2023, Slides for Students
+title: GCE 'N' level briefing slides for students on 18 Dec 2024
 date: 2023-12-12
 layout: file
 description: ""

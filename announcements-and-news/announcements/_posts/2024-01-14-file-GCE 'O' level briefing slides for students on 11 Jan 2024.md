@@ -1,6 +1,6 @@
 ---
-title: O Level Result have been release on 11 Jan 2024, Slides for Students
-date: 2024-01-08
+title: GCE 'O' level briefing slides for students on 11 Jan 2024
+date: 2024-01-14
 layout: file
 description: ""
 image: ""
