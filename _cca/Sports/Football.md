@@ -45,23 +45,16 @@ Coach Dilwant Singh (Advisory Coach)
 <tbody>
   <tr>
     <td class="tg-ktyi">Mondays (C Boys)</td>
-    <td class="tg-ktyi">4.15 p.m. – 6.15 p.m.</td>
+    <td class="tg-ktyi">3 p.m. – 5 p.m.</td>
     <td class="tg-ktyi" rowspan="4">School Field</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Wednesdays (B Boys)</td>
-    <td class="tg-ktyi">3.00 p.m. – 5.00 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Fridays (C Boys)</td>
-    <td class="tg-ktyi">3.00 p.m. – 4.00 p.m.</td>
+    <td class="tg-ktyi">3 p.m. – 5 p.m.</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Fridays (B Boys)</td>
-    <td class="tg-ktyi">4.00 p.m. – 5.00 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig" colspan="3">Students will be informed beforehand if there is any zoom training.<br>Zoom Trainings: Fridays, 2.00 p.m. – 3.30 p.m.</td>
+    <td class="tg-ktyi">3 p.m. – 5 p.m.</td>
   </tr>
 </tbody>
 </table>
@@ -86,6 +79,14 @@ Coach Dilwant Singh (Advisory Coach)
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-7yig">2023</td>
+    <td class="tg-ktyi">Qualified for ‘B’ Division National School Games League 3 Quarter Final (Top 8)  </td>
+  </tr>
+	<tr>
+    <td class="tg-7yig">2023</td>
+    <td class="tg-ktyi">First runner up for Preliminary Group ‘C’ Division National School Games  </td>
+  </tr>
   <tr>
     <td class="tg-7yig">2019</td>
     <td class="tg-ktyi">3rd placing in Tier 2 'B' Division National School Games </td>
@@ -94,12 +95,12 @@ Coach Dilwant Singh (Advisory Coach)
     <td class="tg-7yig" rowspan="2">2018</td>
     <td class="tg-ktyi">Top 6 in North Zone for School Premier League </td>
   </tr>
-  <tr>
-    <td class="tg-7yig"> 3rd place in U14 Epson Cup Challenge</td>
-  </tr>
 </tbody>
 </table>
 
-![](/images/football%201.png)
-![](/images/football%202.png)
-![](/images/football-21v.jpg)
+<img src="/images/CCA/Football/Football1.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Football/Football2.jpeg" style="width:80%">
+<br>
+<img src="/images/CCA/Football/Football3.jpeg" style="width:80%">
+<br>
