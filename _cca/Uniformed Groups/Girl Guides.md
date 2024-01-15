@@ -3,22 +3,14 @@ title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-North Vista Girl Guides Company aims to provide opportunities for our Guides to discover and develop their strengths, skills and potential in guiding to the fullest. Through these platforms, we hope to develop girls of courage, confidence and character who will make the school and community a better place.
+Here at North Vista Girl Guides, we empower girls to become well-rounded leaders of courage, confidence, and character. 
 
-We follow a comprehensive Five-Point Programme developed by Girl Guides Singapore, which enables our Guides to hone their skills in the following five areas:
+At the heart of what we do, we strive to nurture every Guide to uphold our motto: ‘**Be Prepared**’. We seek to instil a culture of readiness in our Guides to tackle any challenge with self-assuredness and resilience. 
 
-* Personal & Social Development
-* Home
-* Outdoor
-* Community
-* International
+Through our holistic 5-Point Programme – Personal and Social Development, Home, Community, Outdoors and International, Girl Guides learn new skills, explore new interests, and make lifelong friendships in a safe and supportive environment. Such activities include badgework, camping, outdoor-cooking and gadget-making. Our Guides are provided platforms to lead and participate in community service projects, making a positive impact on the community and the lives of others. In addition, our Guides also actively participate in events and competitions both at the national and international level. These include the National Day Parade, World Thinking Day, North Division Day, International Camps, among others. 
 
-Working hard to earn their badges helps our Guides to broaden their horizon, uncover new talents and learn practical skills that will enrich their lives. They also participate in community projects that help them improve their neighborhood and protect our Mother Earth.
-
-We empower our Guides through fun and challenging programmes, unique experiences, adventures and activities. There are also many opportunities for our girls to be involved in school, division and national Girl Guides events and competitions. These exposures equip them with vital leadership and life skills while learning through fun adventures and forging lifelong friendships with people.
-
-  
 
 **Teachers-in-Charge:**  
 
@@ -74,6 +66,16 @@ Ms Nur Zuhailah
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-ktyi">Puan Noor Aishah (Year of Assessment 2022)</td>
+    <td class="tg-ktyi">Gold</td>
+    <td class="tg-ktyi">2023</td>
+  </tr>
+	 <tr>
+    <td class="tg-ktyi">Puan Noor Aishah (Year of Assessment 2021)</td>
+    <td class="tg-ktyi">Gold</td>
+    <td class="tg-ktyi">2022</td>
+  </tr>
   <tr>
     <td class="tg-ktyi">Puan Noor Aishah (Year of Assessment 2019)</td>
     <td class="tg-ktyi">Gold</td>
@@ -112,5 +114,19 @@ Ms Nur Zuhailah
 </tbody>
 </table>
 
-![](/images/girl%20guides.png)
-![](/images/GG-21iii.jpg)
+<img src="/images/CCA/Girl%20Guides/GG1.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Girl%20Guides/GG2.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Girl%20Guides/GG3.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Girl%20Guides/GG4.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Girl%20Guides/GG5.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Girl%20Guides/GG6.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Girl%20Guides/GG7.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Girl%20Guides/GG8.jpg" style="width:80%">
+<br>
