@@ -40,21 +40,21 @@ Ms Anna Mathew
 <tbody>
   <tr>
     <td class="tg-0pky">Monday</td>
-    <td class="tg-0pky">3.30 pm – 5.30 pm</td>
-    <td class="tg-0pky">Sec 1</td>
+    <td class="tg-0pky">3.30 pm – <br>6 pm</td>
+    <td class="tg-0pky">Sec 1 - 2</td>
     <td class="tg-0pky">Students involved in competition/ performance</td>
   </tr>
   <tr>
     <td class="tg-0pky">Wednesday</td>
-    <td class="tg-0pky">3.30 pm – 6.30 pm</td>
-    <td class="tg-0pky">Sec  2 - 3</td>
-    <td class="tg-0pky">Sec 1 - 3</td>
+    <td class="tg-0pky">3.30 pm – <br>6 pm</td>
+    <td class="tg-0pky">Sec  3 - 4</td>
+    <td class="tg-0pky">Sec 1 - 4</td>
   </tr>
   <tr>
     <td class="tg-0pky">Friday</td>
-    <td class="tg-0pky">2.00 pm – 4.00 pm</td>
-    <td class="tg-0pky">Sec 1 - 3</td>
-    <td class="tg-0pky">Sec 1 - 3</td>
+    <td class="tg-0pky">2.00 pm – <br>5 pm</td>
+    <td class="tg-0pky">Sec 1 - 4</td>
+    <td class="tg-0pky">Sec 1 - 4</td>
   </tr>
   <tr>
     <td class="tg-baqh" colspan="4">Training will be conducted at the Dance Studio, Rifle Range or Hall.</td>
