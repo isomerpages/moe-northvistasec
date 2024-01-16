@@ -75,6 +75,7 @@ Cindy Huang Xinyi (Robotics I/C)
     <img src="/images/CCA/Infocomm%20Club/ifc6and7.jpg">
     <figcaption><strong>Members involved in fostering a greener future by harnessing AI vision drones to monitor plant health and detect the presence of birds and pest in real-time</strong></figcaption>
 </figure>
+
 <center>(https://youtu.be/xl9j4M0T2MU)</center>
 
 <figure>
