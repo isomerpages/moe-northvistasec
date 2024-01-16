@@ -3,9 +3,9 @@ title: NCC
 permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<img src="/images/NCC_Badge.png" 
-     style="width:40%">
+<img src="/images/NCC_Badge.png" style="width:40%">
 
 NV NCC aims to provide all cadets a dynamic, exciting and memorable CCA experience. Cadets can participate in a variety of activities such as foot drill, arms drill, shooting, kayaking, camp craft, precision drills, paintball and many other team bonding activities. The unit believes in developing leaders and provides many opportunities for the cadets to lead and serve. Top performing cadets are given the opportunities to participate in overseas excursions organised by NCC HQ.
 
@@ -25,7 +25,6 @@ Our unit has performed well at inter-unit competitions organised by NCC HQ. Sinc
 
 Mr Lim Shian Ruenn <br>
 Mr Ong Ben Ping <br>
-Ms Dino Loo
 
   
 
@@ -100,21 +99,44 @@ Ms Dino Loo
 ### Competitions
 
 
--     Best Unit Competition
--     National Shooting Competition
--     Free Style Drill Competition
--     Precision Drill Competition
--     Mini League
--     Sport and games Day
--     Orientating Competition
--     NCC Road Relay
--     Fitness Challenge
--     GOTC ( Guardians of the City)
--     NDAC (National Digital Arts Championship)
+* Best Unit Competition
+* National Shooting Competition
+* Free Style Drill Competition
+* Precision Drill Competition
+* Mini League
+* Sport and games Day
+* Orientating Competition
+* NCC Road Relay
+* Fitness Challenge
+*  GOTC ( Guardians of the City)
+* NDAC (National Digital Arts Championship)
 
 ### Parade
 
--   NCC Day Parade  
--   NDP Parade
+* NCC Day Parade  
+* NDP Parade
+* NDP Parade
 
-![](/images/ncc.png)
+<img src="/images/CCA/NCC/NCC1.png" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC2.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC3.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC4.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC5.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC6.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC7.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC8.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC9.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC10.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/NCC/NCC11.jpeg" style="width:80%">
+<br>
+
