@@ -16,7 +16,7 @@ Please check out photographs and videos taken by our members throughout the scho
 Mr Victor Lam   <br>
 Mr Tay Chee Thong <br>
 Mr Tan Jia Rong<br>
-Ms Loo Duan Liang
+Ms Dino Loo
 
 **Students-In-Charge:**
 
