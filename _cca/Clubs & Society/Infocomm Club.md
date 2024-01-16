@@ -76,8 +76,6 @@ Cindy Huang Xinyi (Robotics I/C)
     <figcaption><strong>Members involved in fostering a greener future by harnessing AI vision drones to monitor plant health and detect the presence of birds and pest in real-time</strong></figcaption>
 </figure>
 
-<center>[undefined](https://youtu.be/xl9j4M0T2MU)</center>
-
 <figure>
     <img src="/images/CCA/Infocomm%20Club/ifc8.jpg">
     <figcaption><strong>Members participating in the First LEGO league competition at the Canadian School</strong></figcaption>
