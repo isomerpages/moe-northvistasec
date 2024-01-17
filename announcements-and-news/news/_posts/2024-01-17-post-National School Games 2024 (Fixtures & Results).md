@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<div class="iframe-wrapper"><iframe height="409" width="660" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJyOKcoASUFlTjq_PGGfyBTGjLrapH_55bxobJXOsp8KCLHJgT_zi34G4mOsYA47_Ns4XDyD7uIMEC/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></div><p></p>
+<div class="iframe-wrapper"><iframe height="449" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJyOKcoASUFlTjq_PGGfyBTGjLrapH_55bxobJXOsp8KCLHJgT_zi34G4mOsYA47_Ns4XDyD7uIMEC/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></div><p></p>
