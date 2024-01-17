@@ -3,8 +3,18 @@ title: Golf
 permalink: /cca/sports/golf/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-Our trainings are conducted at the Sembawang Country Club every Wednesday. We leave the school by bus at 3.30 pm and upon completion of a 1.5 hour training session, return to school at around 6pm. A normal training session consists of driving practice and putting sessions. These are complemented by additional strength and endurance sessions in school.  
+NV Golf welcomes all students. 
+
+If you are a beginner who knows next to nothing about golf: JOIN US!  We provide all the necessary equipment and training.
+
+If you are an experienced golfer: JOIN US! You will hone your skills and earn the opportunity to play for North Vista Secondary School at the National School Games Golf Championship.
+
+Come and learn about The Gentlemen’s Game and experience for yourself how we live up to our motto: **The Drive for Excellence!**
+
+Golf training every Wednesday, 4pm to 5.30pm at Sembawang Country Club.
+
   
 
 **Teachers-in-Charge:**
@@ -63,17 +73,38 @@ Ms Foh Chiou Lin
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-baqh">2023</td>
+    <td class="tg-baqh">Girls 'C' Division Individual</td>
+    <td class="tg-baqh">National School Games 3rd Place, Wee Wan Wen Ashley </td>
+  </tr>
+		<tr>
+    <td class="tg-baqh">2023</td>
+    <td class="tg-baqh">Boys 'B' Division Team</td>
+    <td class="tg-baqh">National School Games 3rd Place, Neo Kai Bin, Wilbur and Wee Zheng Kai Aaron </td>
+  </tr>
   <tr>
     <td class="tg-0lax" rowspan="2">2017</td>
     <td class="tg-baqh">Girls 'C' Division</td>
     <td class="tg-baqh">National School Games Team Championships 3rd position<br></td>
   </tr>
-  <tr>
-    <td class="tg-baqh">Boys 'C' Division</td>
-    <td class="tg-baqh">National School Games Team Championships 4th position</td>
-  </tr>
+
 </tbody>
 </table>
 
-![](/images/golf%201.png)
-![](/images/golf%202.png)
+<img src="/images/CCA/Golf/Golf1.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Golf/Golf2.JPG" style="width:80%">
+<br>
+<img src="/images/CCA/Golf/Golf3.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Golf/Golf4.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Golf/Golf5.jpeg" style="width:80%">
+<br>
+<img src="/images/CCA/Golf/Golf6.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Golf/Golf7.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Golf/Golf8.jpg" style="width:80%">
+<br>

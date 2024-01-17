@@ -3,12 +3,14 @@ title: Drama Club
 permalink: /cca/performing-arts/drama-club/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-The Drama Club was established the year North Vista opened its doors. The Club was started with the aim of teaching members about the different elements of theatre by providing them with the opportunity to work both on-stage and backstage. Through these learning opportunities, we also hoped to help our members develop a love for theatre and foster a sense of confidence in acting as well as in speaking English.
+The Drama Club was established the year North Vista opened its doors. The Club was started with the aim of teaching members about the different elements of theatre by providing them with the opportunity to work both on-stage and backstage. Through these learning opportunities, we also hope to help our members develop a love for theatre and foster a sense of confidence in acting as well as speaking English.
 
-Over the past few years, in order to inspire youths to be active citizens in their nation and global community, our members take part in the bi-annual re:ACT Festival. The bi-annual festival is a collaboration with other passionate, like-minded drama club members from other schools. During each festival, through intensive research, our members choose an issue that they would like to raise awareness about and devise a short play about it.
+Over the past few years, in order to inspire youths to be active citizens in their nation and global community, our members have taken part in the bi-annual re:ACT Festival. The bi-annual festival is a collaboration with other passionate, like-minded drama club members from other schools. During each festival, through intensive research, our members choose an issue that they would like to raise awareness about and devise a short play about it.
 
-Through the process of devising, members will explore the multiple facets of social issues and present their understanding through their performance. This exploration will aid them to unpack both mental and emotional issues they may face as adolescences. This process will encourage them to consider perspectives beyond their own comfort zones.
+Through the process of devising, members will explore the multiple facets of social issues and present their understanding through their performances. This exploration will aid them in unpacking both mental and emotional issues they may face as adolescents. This process will encourage them to consider perspectives beyond their own comfort zones.
+
 
 **Teachers-in-Charge:**
 
@@ -70,6 +72,11 @@ Ms Nurdianah Zohairi
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-7yig">2023</td>
+    <td class="tg-7yig">Singapore Youth Festival (SYF)<br>Art Presentation</td>
+    <td class="tg-7yig">Certificate of Accomplishment</td>
+  </tr>
   <tr>
     <td class="tg-7yig">2021</td>
     <td class="tg-7yig">Singapore Youth Festival (SYF)<br>Art Presentation</td>
@@ -80,14 +87,19 @@ Ms Nurdianah Zohairi
     <td class="tg-7yig">Singapore Youth Festival (SYF)<br>Art Presentation</td>
     <td class="tg-7yig">Certificate of Accomplishment</td>
   </tr>
-  <tr>
-    <td class="tg-7yig">2017</td>
-    <td class="tg-7yig">Singapore Youth Festival (SYF)<br>Art Presentation</td>
-    <td class="tg-7yig">Certificate of Distinction</td>
-  </tr>
+ 
 </tbody>
 </table>
 
-![](/images/drama-21i.jpg)
-![](/images/drama.png)
-![](/images/drama-21iii.jpg)
+<img src="/images/CCA/Drama/Drama1.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama2.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama3.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama4.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama5.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Drama/Drama6.jpg" style="width:80%">
+<br>

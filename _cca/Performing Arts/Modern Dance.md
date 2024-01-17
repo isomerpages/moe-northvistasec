@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 North Vista Secondary's Modern Dancers are also known as Boogie Crew and they participate actively in both school and external performances. The CCA encourages creativity in the students and provides opportunities for them to be equipped with a strong foundation in dance, primarily street dance. The students are also empowered to take ownership of their learning and choreograph dance routines.
 
@@ -39,21 +40,21 @@ Ms Anna Mathew
 <tbody>
   <tr>
     <td class="tg-0pky">Monday</td>
-    <td class="tg-0pky">3.30 pm – 5.30 pm</td>
-    <td class="tg-0pky">Sec 1</td>
+    <td class="tg-0pky">3.30 pm – <br>6 pm</td>
+    <td class="tg-0pky">Sec 1 - 2</td>
     <td class="tg-0pky">Students involved in competition/ performance</td>
   </tr>
   <tr>
     <td class="tg-0pky">Wednesday</td>
-    <td class="tg-0pky">3.30 pm – 6.30 pm</td>
-    <td class="tg-0pky">Sec  2 - 3</td>
-    <td class="tg-0pky">Sec 1 - 3</td>
+    <td class="tg-0pky">3.30 pm – <br>6 pm</td>
+    <td class="tg-0pky">Sec  3 - 4</td>
+    <td class="tg-0pky">Sec 1 - 4</td>
   </tr>
   <tr>
     <td class="tg-0pky">Friday</td>
-    <td class="tg-0pky">2.00 pm – 4.00 pm</td>
-    <td class="tg-0pky">Sec 1 - 3</td>
-    <td class="tg-0pky">Sec 1 - 3</td>
+    <td class="tg-0pky">2.00 pm – <br>5 pm</td>
+    <td class="tg-0pky">Sec 1 - 4</td>
+    <td class="tg-0pky">Sec 1 - 4</td>
   </tr>
   <tr>
     <td class="tg-baqh" colspan="4">Training will be conducted at the Dance Studio, Rifle Range or Hall.</td>
@@ -81,6 +82,21 @@ Ms Anna Mathew
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-7yig">2023</td>
+    <td class="tg-7yig">Singapore Youth Festival Arts Presentation<br></td>
+    <td class="tg-7yig">Distinction<br></td>
+  </tr>
+	 <tr>
+    <td class="tg-7yig">2023</td>
+    <td class="tg-7yig">Super 24 organised by National Arts Council (NAC)<br></td>
+    <td class="tg-7yig">3rd Place (Grand Finals)<br></td>
+  </tr>
+	 <tr>
+    <td class="tg-7yig">2021</td>
+    <td class="tg-7yig">Singapore Youth Festival Arts Presentation<br></td>
+    <td class="tg-7yig">Distinction<br></td>
+  </tr>
   <tr>
     <td class="tg-7yig">2019</td>
     <td class="tg-7yig">Super 24 organised by National Arts Council (NAC)<br></td>
@@ -109,5 +125,9 @@ Ms Anna Mathew
 </tbody>
 </table>
 
+<img src="/images/CCA/Modern%20Dance/MD1.jpg" style="width:100%">
+<br>
+<img src="/images/CCA/Modern%20Dance/MD2.jpg" style="width:100%">
+<br>
+
 ![](/images/modern%20dance%201.png)
-![](/images/modern%20dance%202.png)
