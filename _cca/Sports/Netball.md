@@ -3,6 +3,7 @@ title: Netball
 permalink: /cca/sports/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 The netball team is an all-girls team which was established in 2001. Every year, the girls put in tremendous effort in training hard for competitions. We also strive to instill discipline, resilience and foster camaraderie among the girls.
 
@@ -52,7 +53,7 @@ Ms Liyana Sulaiman
   </tr>
   <tr>
     <td class="tg-ktyi">Fridays</td>
-    <td class="tg-ktyi">3.00 pm – 5.30 pm</td>
+    <td class="tg-ktyi">3.00 pm – 6 pm</td>
   </tr>
 </tbody>
 </table>
@@ -77,6 +78,43 @@ Ms Liyana Sulaiman
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-ktyi" rowspan="2">2023</td>
+    <td class="tg-ktyi">C</td>
+    <td class="tg-ktyi">NETOPS Carnival 2nd Placing</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">C</td>
+    <td class="tg-ktyi">North Zone 3rd Placing </td>
+  </tr>
+	  <tr>
+    <td class="tg-ktyi">2022</td>
+    <td class="tg-ktyi">C</td>
+    <td class="tg-ktyi">TNA Carnival 2nd Placing</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi" rowspan="2">2019</td>
+    <td class="tg-ktyi">C</td>
+    <td class="tg-ktyi">2nd in Evergreen Carnival</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">B</td>
+    <td class="tg-ktyi">Top 4 in North Zone Netball Championship</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">2018</td>
+    <td class="tg-ktyi">B</td>
+    <td class="tg-ktyi">4th in Pesta Sukan Netball Carnival</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi" rowspan="2">2017</td>
+    <td class="tg-ktyi">C</td>
+    <td class="tg-ktyi">1st in M1 Schools Challenge League </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">C</td>
+    <td class="tg-ktyi">3rd in Gold pool (SCGS carnival) </td>
+  </tr>
   <tr>
     <td class="tg-ktyi" rowspan="4">2016</td>
     <td class="tg-ktyi">B</td>
@@ -94,53 +132,11 @@ Ms Liyana Sulaiman
     <td class="tg-ktyi">  C  </td>
     <td class="tg-ktyi"> SCGS Netball  carnival : 1st in Bronze category</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="2">2017</td>
-    <td class="tg-ktyi">C</td>
-    <td class="tg-ktyi">1st in M1 Schools Challenge League </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">C</td>
-    <td class="tg-ktyi">3rd in Gold pool (SCGS carnival) </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">2018</td>
-    <td class="tg-ktyi">B</td>
-    <td class="tg-ktyi">4th in Pesta Sukan Netball Carnival</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="2">2019</td>
-    <td class="tg-ktyi">C</td>
-    <td class="tg-ktyi">2nd in Evergreen Carnival</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">B</td>
-    <td class="tg-ktyi">Top 4 in North Zone Netball Championship</td>
-  </tr>
+  
+  
+  
 </tbody>
 </table>
 
-### 'B' Division 2020
-
-![](/images/B%20Division%202020.jpg)
-![](/images/B%20Division%202020.png)
-
-### B' Division 2019
-
-![](/images/2019_B%20Div.jpg)
-![](/images/2019_B%20Div.png)
-
-### Pesta Sukan Carnival 2019
-
-![](/images/pesta%20sukan%20carnival%202019.png)
-
-### Perth Trip
-
-
-<img src="/images/Perth%20trip_Freo.jpg" 
-     style="width:75%">
-		 
-![](/images/perth.png)
-
-<img src="/images/Perth%20trip_MLC%20group.jpg" 
-     style="width:75%">
+<img src="" style="width:80%">
+<br>
