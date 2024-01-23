@@ -69,6 +69,11 @@ Mr Keith Zhang Boliang <br>
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-baqh">Northeast District First Aid Competition </td>
+    <td class="tg-baqh">Ambulance Team: <br>1. Champions in Northeast District <br>2. Best in Foot Drills <br> 3. Best in Long Case (First Aid) <br> Nursing Team: <br> 1. 2nd runner up in Northeast District <br> 2. Best in Home Nursing</td>
+    <td class="tg-baqh">2023 </td>
+	</tr>
 		  <tr>
     <td class="tg-baqh">CORP ACHIEVEMENT AWARD</td>
     <td class="tg-baqh">GOLD</td>
@@ -95,3 +100,15 @@ Mr Keith Zhang Boliang <br>
 ![](/images/st%20john%201.png)
 ![](/images/st%20john%202.png)
 
+<img src="/images/CCA/St%20John%20Brigade/SJB1.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB2.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB3.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB4.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB5.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB6.jpg" style="width:70%">
+<br>
