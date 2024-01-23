@@ -3,11 +3,16 @@ title: St John Brigade
 permalink: /cca/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<img src="/images/st%20john.png" 
-     style="width:55%">
+<img src="/images/st%20john.png" style="width:55%">
 		 
-NVSJB is a vibrant and dynamic CCA. Wound bandaging and life-saving skills aside, cadets will also be given the opportunities to experience kayaking, hospital attachment, camping, archery and many more. The exciting training programme aims to provide holistic development for our cadets in leadership and change management skills.
+The North Vista St John Brigade is committed to promoting health, safety and well-being in the school community. Our cadets undergo rigorous training to respond effectively to medical emergencies and in assisting injured individuals. Through first aid and home nursing lessons, cadets develop confidence in administering first aid in practical situations.
+
+Our cadets are also actively involved in contributing back to the community. Cadets are deployed as first aiders during school events and have gone the extra mile to volunteer at external events. The North Vista St John Brigade cadet experience is complete by undergoing courses outside the traditional curriculum, such as shooting and kayaking courses.
+
+These exciting programmes develop their leadership and management skills and enhance the secondary school experience for cadets.
+
 
 **Teachers-in-Charge:**
 
@@ -38,7 +43,7 @@ Mr Keith Zhang Boliang <br>
 <tbody>
   <tr>
     <td class="tg-baqh"><span style="color:#000">Fridays</span></td>
-    <td class="tg-baqh"><span style="color:#000">3.00 pm – 6.00 pm</span></td>
+    <td class="tg-baqh"><span style="color:#000">2 pm – 5 pm</span></td>
     <td class="tg-baqh"><span style="color:#000">Outdoor Theatre / Parade Square / Classrooms</span></td>
   </tr>
 </tbody>
@@ -64,6 +69,21 @@ Mr Keith Zhang Boliang <br>
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-baqh">Northeast District First Aid Competition </td>
+    <td class="tg-baqh">Ambulance Team: <br>1. Champions in Northeast District <br>2. Best in Foot Drills <br> 3. Best in Long Case (First Aid) <br> Nursing Team: <br> 1. 2nd runner up in Northeast District <br> 2. Best in Home Nursing</td>
+    <td class="tg-baqh">2023 </td>
+	</tr>
+		  <tr>
+    <td class="tg-baqh">CORP ACHIEVEMENT AWARD</td>
+    <td class="tg-baqh">GOLD</td>
+    <td class="tg-baqh">2023 </td>
+	</tr>
+	  <tr>
+    <td class="tg-baqh">CORP ACHIEVEMENT AWARD</td>
+    <td class="tg-baqh">GOLD</td>
+    <td class="tg-baqh">2022 </td>
+	</tr>
   <tr>
     <td class="tg-baqh">CORP ACHIEVEMENT AWARD</td>
     <td class="tg-baqh">SILVER</td>
@@ -79,3 +99,16 @@ Mr Keith Zhang Boliang <br>
 
 ![](/images/st%20john%201.png)
 ![](/images/st%20john%202.png)
+
+<img src="/images/CCA/St%20John%20Brigade/SJB1.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB2.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB3.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB4.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB5.jpg" style="width:70%">
+<br>
+<img src="/images/CCA/St%20John%20Brigade/SJB6.jpg" style="width:70%">
+<br>

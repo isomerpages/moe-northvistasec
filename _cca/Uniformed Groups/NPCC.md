@@ -3,13 +3,13 @@ title: NPCC
 permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<img src="/images/npcclogo.jpg" 
-     style="width:30%">
+<img src="/images/npcclogo.jpg" style="width:30%">
 		 
 In our NPCC journey, the host of activities provides us with the opportunity to push our boundaries. These include camps, camp craft competitions, enrichment programs such as one-star kayaking and shooting. Through these activities, we become confident persons who can communicate and collaborate meaningfully with our squad mates, the community and even the country. As the only uniformed youth organization that is affiliated to the Singapore Police Force, it allows us unique opportunities to attend courses and visit neighborhood police centres (NPC) to gain exposure and understanding to crime prevention in Singapore. We also have an extensive and structured training program that goes beyond just drills training.
 
-Every year, the Secondary 2 and 3 cadets attend an adventure camp at Camp Resilience, which aims to develop the campers' ruggedness, self-reliance, resilience, team work and leadership skills. Located in Pulau Ubin, the cadets are able to  experience  outdoor  activities,  ranging  from  obstacle  courses  to  sea activities,  to  allow  the campers to enjoy an outdoor experience during their stay.
+Every year, the Secondary 2 and 3 cadets attend an adventure camp at Camp Resilience, which aims to develop the campers' ruggedness, self-reliance, resilience, team work and leadership skills. Located in Pulau Ubin, the cadets are able to &nbsp;experience &nbsp;outdoor &nbsp;activities, &nbsp;ranging &nbsp;from &nbsp;obstacle &nbsp;courses &nbsp;to &nbsp;sea activities, &nbsp;to &nbsp;allow &nbsp;the campers to enjoy an outdoor experience during their stay.
 
 We aim to inculcate in our cadets values such as discipline, tenacity and resourcefulness to help them become useful and civic-minded citizens. As we take on leadership roles in Upper Secondary, we move beyond self-management to lead a group of juniors – to further explore and develop our individual identity, and at the same time, nurture the next group of leaders.
 
@@ -66,6 +66,9 @@ Ms Chua Yin Jia
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-9hzb">Annual Area 3 Games Day 2021<br>CHAMPION</td>
+  </tr>
   <tr>
     <td class="tg-9hzb">Inter-Unit Camp Craft Competition 2018<br>Boys Team 4th<br>Girls Team 5th</td>
   </tr>
@@ -84,3 +87,12 @@ Ms Chua Yin Jia
 ![](/images/npcc.png)
 ![](/images/npcc2.png)
 ![](/images/npcc-21v.jpg)
+
+<img src="/images/CCA/NPCC/NPCC1.JPG" style="width:100%">
+<br>
+<img src="/images/CCA/NPCC/NPCC2.jpeg" style="width:100%">
+<br>
+<img src="/images/CCA/NPCC/NPCC3.jpeg" style="width:100%">
+<br>
+<img src="/images/CCA/NPCC/NPCC4.jpeg" style="width:100%">
+<br>

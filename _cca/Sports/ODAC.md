@@ -3,19 +3,19 @@ title: ODAC
 permalink: /cca/sports/odac/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-The Outdoor Activities Club aims to inculcate in members the school values of Care, Respect, Responsibility and Resilience through a wide variety of outdoor activities. Students can look forward to new and interesting experiences as they learn a variety of new skills throughout the year that develops character and forge strong bonds between all members of the club.  
+The Outdoor Activities Club aims to inculcate in members the school values of Care, Respect, Responsibility and Resilience through a wide variety of outdoor activities. Members can look forward to new and interesting experiences every year that builds character and forge strong bonds between members of the club.
 
-At each level, club members pick up skills through school training and certification courses in various outdoor sports such as kayaking, sport climbing and orienteering. A yearly expedition is held at the end of the year to expose members to novel challenges that will develop their adventurous spirit.
-
+At each level, club members pick up skills through school training and certification courses in various outdoor sports such as kayaking, sport climbing and orienteering. An overland expedition is held every year to expose members to novel challenges that will develop their adventurous spirit.
+ 
   
 **Teachers-In-Charge:**
 
 Mr Ong Yong Hui <br>
 Mr Ho Yenn Wah <br>
-Ms Ng Li Wei <br>
+Mrs Leow-Ng Li Wei <br>
 
-&nbsp;&nbsp;
 
 ### Training Schedule
 
@@ -45,7 +45,7 @@ Ms Ng Li Wei <br>
   
   <tr>
     <td class="tg-ktyi">Fridays</td>
-    <td class="tg-ktyi">2.00 p.m. – 5.00 p.m.</td>
+    <td class="tg-ktyi">2.30 p.m. – 5.00 p.m.</td>
   </tr>
   <tr>
     <td class="tg-ktyi" colspan="2">Weekends (Special Programme)</td>
@@ -54,3 +54,8 @@ Ms Ng Li Wei <br>
 </table>
 
 ![](/images/ODAC.png)
+
+<img src="/images/CCA/ODAC/ODAC1.JPG" style="width:100%">
+<br>
+<img src="/images/CCA/ODAC/ODAC2.jpeg" style="width:100%">
+<br>
