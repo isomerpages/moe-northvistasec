@@ -14,7 +14,7 @@ At each level, club members pick up skills through school training and certifica
 
 Mr Ong Yong Hui <br>
 Mr Ho Yenn Wah <br>
-Ms Ng Li Wei <br>
+Mrs Leow-Ng Li Wei <br>
 
 
 ### Training Schedule
@@ -45,7 +45,7 @@ Ms Ng Li Wei <br>
   
   <tr>
     <td class="tg-ktyi">Fridays</td>
-    <td class="tg-ktyi">2.00 p.m. – 5.00 p.m.</td>
+    <td class="tg-ktyi">2.30 p.m. – 5.00 p.m.</td>
   </tr>
   <tr>
     <td class="tg-ktyi" colspan="2">Weekends (Special Programme)</td>
@@ -54,3 +54,6 @@ Ms Ng Li Wei <br>
 </table>
 
 ![](/images/ODAC.png)
+
+<img src="" style="width:100%">
+<br>
