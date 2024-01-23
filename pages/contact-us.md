@@ -5,10 +5,13 @@ permalink: /contact-us/
 agency_name: North Vista Secondary School
 locations:
   - address:
-      - "11 "
-      - "Rivervale Link, "
+      - "11"
+      - Rivervale Link,
       - Singapore (545081)
-    operating_hours: []
+    operating_hours:
+      - days: Monday to Friday
+        time: 7.00am to 5.30pm
+        description: ""
     maps_link: ""
     title: General Office
 contacts:
@@ -19,4 +22,5 @@ contacts:
           SE5)</p>   <p>Bus Services<br> 80, 80A , 82 , 88 , 88A , 87 , 89 , 119
           , NR6</p>
     title: General Enquiries & Feedback
+feedback: ""
 ---
