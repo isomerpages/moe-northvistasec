@@ -25,7 +25,9 @@ Our curriculum is designed to Engage, Excite and Enrich students’ learning. Th
 
 **Support School’s Farm to Table Applied Learning Programme**
 
-![](/images/sci5.png)
+![](/images/sci5.png) <br>
+<img src="/images/The%20Vistarian%20Experience/Academic/Science1.jpg" style="width:80%">
+
 
 **Experiential Learning at Workshops**  
 
@@ -34,12 +36,13 @@ We involve students in workshops at the Science Centre and Science-based competi
 ![](/images/sci6.png)
 ![](/images/sci7.png)
 
+
 **Students at various Science Competitions**
 
 Students are provided with opportunities to pursue and deepen their interest in Science through competitions such as the Science Buskers' Festival and the National STEM Championship organised by the Science Center
 
-![](/images/sci8.png)
 ![](/images/sci9.png)
 ![](/images/sci10.png)
 ![](/images/sci11.png)
-![](/images/sci-22-10.jpg)
+![](/images/sci-22-10.jpg) <br>
+<img src="/images/The%20Vistarian%20Experience/Academic/Science2.jpg" style="width:80%">
