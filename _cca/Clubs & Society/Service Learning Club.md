@@ -112,4 +112,17 @@ Friends of Singa, Most Creative Appreciation Initiative
 <img src="/images/sl-21iii.jpg" style="width:75%"> <br>
 <img src="/images/slc.png" style="width:75%"><br>
 <img src="/images/slc2.png" style="width:75%"> <br>
-<img src="/images/SKM%20poem-1.jpg" style="width:75%"> 
+<img src="/images/SKM%20poem-1.jpg" style="width:75%">
+
+<img src="/images/CCA/Service%20Learning%20Club/SL1.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Service%20Learning%20Club/SL2.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Service%20Learning%20Club/SL3.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Service%20Learning%20Club/SL4.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Service%20Learning%20Club/SL5.jpg" style="width:80%">
+<br>
+<img src="/images/CCA/Service%20Learning%20Club/SL6.jpg" style="width:80%">
+<br>
