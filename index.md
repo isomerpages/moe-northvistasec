@@ -4,7 +4,7 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Refer to Announcements & News for Sec 1 Online CCA Selection
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
