@@ -14,8 +14,20 @@ variant: markdown
     <figcaption><strong>GEAR-UP programme in support for students' social emotional well-being </strong></figcaption>
 </figure>
 <figure>
-    <img src="">
-    <figcaption><strong>This was the old school building which Thomson Secondary shared with Gan Eng Seng Government Chinese Middle school </strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/Student%20Development/Sec_2_VIA_2023.png">
+    <figcaption><strong>Sec 2 VIA 2023</strong></figcaption>
+</figure>
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Student%20Development/Sec_4T1_Learning_Journey.PNG">
+    <figcaption><strong>Sec 4T1 Learning Journey </strong></figcaption>
+</figure>
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Student%20Development/Sec_45_Farewell_Assembly.jpg">
+    <figcaption><strong>Sec 4/5 Farewell Assembly</strong></figcaption>
+</figure>
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Student%20Development/Sec_45_FarewellAssembly.jpg">
+    <figcaption><strong>Sec 4/5 Farewell Assembly</strong></figcaption>
 </figure>
 
 
