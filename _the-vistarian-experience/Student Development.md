@@ -13,8 +13,10 @@ variant: markdown
     <img src="/images/The%20Vistarian%20Experience/Student%20Development/gear%20up.jpg">
     <figcaption><strong>GEAR-UP programme in support for students' social emotional well-being </strong></figcaption>
 </figure>
-
-
+<figure>
+    <img src="">
+    <figcaption><strong>This was the old school building which Thomson Secondary shared with Gan Eng Seng Government Chinese Middle school </strong></figcaption>
+</figure>
 
 
 **Creating EPIC Moments through&nbsp;Level Camps**
