@@ -2,10 +2,11 @@
 title: Student Leadership
 permalink: /the-vistarian-experience/student-leadership/
 description: ""
+variant: markdown
 ---
 **Every Vistarian a dynamic leader with the heart to serve**  
 
- The Student Leadership Committee is committed to:
+&nbsp;The Student Leadership Committee is committed to:
 
 i. Providing leadership training to all Vistarians
 
@@ -33,19 +34,17 @@ We want all NV Student Leaders to…
 
 **Leadership Training**
 
-Every Vistarian will be equipped with basic leadership skills through their level camps conducted yearly from Secondary 1 to 3. In addition, students will have the opportunity to apply the values, knowledge and skills learn through their leadership roles at class, CCA or school level.
+In NV, we identify a Servant Leader as one who practices 3 key Habits. These Habits begin with a HEART that desires to serve. It is followed by the HEAD that learns to lead. Finally, it culminates in the HAND that dares to act. We believe these habits will help instill in our students the qualities we wish to see in a student leader. 
 
 
-<img src="/images/SLC-2021.jpg" 
-     style="width:60%">
+<img src="/images/SLC-2021.jpg" style="width:60%">
 		 
 ### NV Student Leadership Opportunities
 
 There are 3 groups of Student Leaders in North Vista – Prefectorial Board, CCA Leaders and Class Committee.
 
 
-<img src="/images/Overall%20SLC.jpg" 
-     style="width:75%">
+<img src="/images/Overall%20SLC.jpg" style="width:75%">
 		 
 **Prefectorial Board**  
 
@@ -56,20 +55,17 @@ As the apex of the Student Leadership body, the NV Prefectorial Board spearheads
 *   Organisation and support for school-wide events (e.g. NV Open House, Sec 1 Orientation)
 *   Spearheading self-initiated activities (e.g. VIA projects)
 
-<img src="/images/sl1.png" 
-     style="width:85%">
+<img src="/images/sl1.png" style="width:85%">
 		 
 **CCA Leaders**  
 
 CCA leaders work closely with the teachers-in-charge and coaches to lead and motivate CCA members to work towards CCA goals.
 
 
-<img src="/images/sl2.png" 
-     style="width:85%">
+<img src="/images/sl2.png" style="width:85%">
 
 **Class Committee**
 
 Class Committee members support Form teachers and Subject teachers in ensuring that the class is well-maintained in terms of order and discipline. They are also involved in the planning of class-based activities and also events such as Youth Day and Teachers’ Day.
 
-<img src="/images/sl3.png" 
-     style="width:100%">
+<img src="/images/sl3.png" style="width:100%">
