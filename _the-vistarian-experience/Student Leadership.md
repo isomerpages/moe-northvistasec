@@ -54,18 +54,25 @@ As the apex of the Student Leadership body, the NV Prefectorial Board spearheads
 * Self-initiated activities (e.g. VIA projects)
 
 <img src="/images/The%20Vistarian%20Experience/Student%20Leadership/Prefectorial_Board_1.jpg" style="width:80%">
-
+<br>
 <img src="/images/The%20Vistarian%20Experience/Student%20Leadership/Prefectorial_Board_2.jpg" style="width:80%">
 		 
 **CCA Leaders**  
 
 CCA leaders work closely with the teachers-in-charge and coaches to lead and motivate CCA members to work towards CCA goals.
 
+<img src="/images/The%20Vistarian%20Experience/Student%20Leadership/CCA_Leaders_1.jpg" style="width:80%">
+<br>
+<img src="/images/The%20Vistarian%20Experience/Student%20Leadership/CCA_Leaders_2.jpeg" style="width:80%">
+<br>
+<img src="/images/The%20Vistarian%20Experience/Student%20Leadership/CCA_Leaders_3.jpg" style="width:80%">
 
-<img src="/images/sl2.png" style="width:85%">
 
 **Class Committee**
 
 Class Committee members support Form teachers and Subject teachers in ensuring that the class is well-maintained in terms of order and discipline. They are also involved in the planning of class-based activities and also events such as Youth Day and Teachers’ Day.
 
-<img src="/images/sl3.png" style="width:100%">
+<img src="/images/The%20Vistarian%20Experience/Student%20Leadership/Class_Comm_1.jpg" style="width:80%">
+<br>
+<img src="/images/The%20Vistarian%20Experience/Student%20Leadership/Class_Comm_2.jpg" style="width:80%">
+<br>
