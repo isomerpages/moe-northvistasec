@@ -43,20 +43,19 @@ Every Vistarian will be equipped with basic leadership skills through their leve
 ### NV Student Leadership Opportunities
 
 There are 3 groups of Student Leaders in North Vista – Prefectorial Board, CCA Leaders and Class Committee.
-
-
-<img src="/images/Overall%20SLC.jpg" style="width:75%">
 		 
 **Prefectorial Board**  
 
 As the apex of the Student Leadership body, the NV Prefectorial Board spearheads the following:
 
-*   Management of morning duties
-*   Enhancement of student welfare (gathering student feedback)
-*   Organisation and support for school-wide events (e.g. NV Open House, Sec 1 Orientation)
-*   Spearheading self-initiated activities (e.g. VIA projects)
+* Morning assembly duties
+* Student welfare (e.g. building school spirit, gathering student feedback)
+* School-wide events (e.g. NV Open House, Sec 1 Orientation)
+* Self-initiated activities (e.g. VIA projects)
 
-<img src="/images/sl1.png" style="width:85%">
+<img src="/images/The%20Vistarian%20Experience/Student%20Leadership/Prefectorial_Board_1.jpg" style="width:80%">
+
+<img src="/images/The%20Vistarian%20Experience/Student%20Leadership/Prefectorial_Board_2.jpg" style="width:80%">
 		 
 **CCA Leaders**  
 
