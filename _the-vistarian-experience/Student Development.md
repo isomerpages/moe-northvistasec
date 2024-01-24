@@ -33,7 +33,12 @@ variant: markdown
 
 **Creating EPIC Moments through&nbsp;Level Camps**
 
-![](/images/sd2.png)
+<img src="/images/The%20Vistarian%20Experience/Student%20Development/LevelCamp1.png" style="width:80%">
+<br>
+<img src="/images/The%20Vistarian%20Experience/Student%20Development/LevelCamp2.jpg" style="width:80%">
+<br>
+<img src="/images/The%20Vistarian%20Experience/Student%20Development/Sec_3_Level_Camp__3_.jpg" style="width:80%">
+<br>
 
 The Student Development Team (SDT) monitor and support students’ development across the whole level. The team coordinates the programmes for the development of each student as he/she experiences the holistic education programmes designed for him/her. The synergy between the various departments helped to facilitate values-in-action programmes, pastoral care programmes and other initiatives to strengthen the rapport between teachers and students.
 
