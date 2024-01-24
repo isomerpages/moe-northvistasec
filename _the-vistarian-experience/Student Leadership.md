@@ -37,6 +37,8 @@ We want all NV Student Leaders to…
 In NV, we identify a Servant Leader as one who practices 3 key Habits. These Habits begin with a HEART that desires to serve. It is followed by the HEAD that learns to lead. Finally, it culminates in the HAND that dares to act. We believe these habits will help instill in our students the qualities we wish to see in a student leader. 
 
 <img src="/images/The%20Vistarian%20Experience/Student%20Leadership/habits.JPG" style="width:80%">
+
+Every Vistarian will be equipped with basic leadership skills through their level camps and cohort leadership training sessions conducted annually from Secondary 1 to 3. Trainings and platforms are provided to engage cognitive, emotional and hands-on aspects to fully immerse our students in the experience as they take on leadership roles at the class, CCA or school level.
 		 
 ### NV Student Leadership Opportunities
 
