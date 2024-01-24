@@ -36,8 +36,7 @@ We want all NV Student Leaders to…
 
 In NV, we identify a Servant Leader as one who practices 3 key Habits. These Habits begin with a HEART that desires to serve. It is followed by the HEAD that learns to lead. Finally, it culminates in the HAND that dares to act. We believe these habits will help instill in our students the qualities we wish to see in a student leader. 
 
-
-<img src="/images/SLC-2021.jpg" style="width:60%">
+<img src="/images/The%20Vistarian%20Experience/Student%20Leadership/habits.JPG" style="width:80%">
 		 
 ### NV Student Leadership Opportunities
 
