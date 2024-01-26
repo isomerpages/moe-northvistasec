@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### Books & Stationery List for Year 2024
 
+
 - [Secondary 1](/files/For%20Students/Books%20&%20Stationery%20List/1__Sec_1_Booklist.pdf)
 - [Secondary 2](/files/For%20Students/Books%20&%20Stationery%20List/2__Sec_2_Booklist.pdf)
 - [Secondary 3 (Express)](/files/For%20Students/Books%20&%20Stationery%20List/3__Sec_3Exp_Booklist.pdf)
@@ -21,3 +22,5 @@ You are able to purchase your books online at the following website:
 
 Refer to this link below for more details:
 [Proposed Selling Dates for Textbooks and Stationeries](/files/For%20Students/Books%20&%20Stationery%20List/Proposed_Selling_Dates_for_Textbooks___Stationeries.pdf)
+
+During normal school days, our Bookshop’s operation hours: 7am to 3pm
