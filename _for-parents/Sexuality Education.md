@@ -91,7 +91,7 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 6</span></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><span style="font-weight:normal">3</span><br><span style="font-weight:normal">(60 mins)</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">More than Meets the Eye <br>Lesson 3</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
     <td class="tg-7yig"><span style="font-weight:normal;background-color:#FFF">Term 3 Week 8</span></td>
   </tr>
