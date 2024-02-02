@@ -53,7 +53,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2022: &nbsp;
+### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2024: &nbsp;
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -273,7 +273,7 @@ b. Character and Citizenship Education (CCE)
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;
   
 
-### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2022:
+### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2024:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
