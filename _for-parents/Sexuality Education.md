@@ -166,17 +166,17 @@ b. Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td class="tg-baqh" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-baqh">1A<br>(60 mins)</td>
+    <td class="tg-baqh">Love Yourself, Love Others <br>Lesson 1A<br>(60 mins)</td>
     <td class="tg-0lax"><br>           Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>           Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>           Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br></td>
     <td class="tg-baqh">Term 2 Week 6</td>
   </tr>
   <tr>
-    <td class="tg-baqh">1B<br>(60 mins)</td>
+    <td class="tg-baqh">Mending A Broken Heart <br>Lesson 1B<br>(60 mins)</td>
     <td class="tg-0lax"><br>          Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>          Know that a decision to end a relationship will have consequences on oneself and others.<br>          Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>          Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
     <td class="tg-baqh">Term 2 Week 7</td>
   </tr>
   <tr>
-    <td class="tg-baqh">2<br>(60 mins)</td>
+    <td class="tg-baqh">When Respect Takes Centre Stage <br>Lesson 2<br>(60 mins)</td>
     <td class="tg-0lax">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
     <td class="tg-baqh">Term 2 Week 8</td>
   </tr>
