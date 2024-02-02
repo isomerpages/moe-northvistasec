@@ -81,9 +81,9 @@ b. Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td class="tg-baqh" rowspan="3"><span style="font-weight:normal">Respectful Relationships &amp; Safety</span><br><span style="font-weight:normal"> </span><br><span style="font-weight:normal"> </span></td>
-    <td class="tg-baqh"><span style="font-weight:normal">1</span><br>(60 mins)</td>
+    <td class="tg-baqh"><span style="font-weight:normal">Steady or Not <br>Lesson 1</span><br>(60 mins)</td>
     <td class="tg-0lax">·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 6</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 1</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">2</span><br><span style="font-weight:normal">(60 mins)</span></td>
