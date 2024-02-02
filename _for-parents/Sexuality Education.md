@@ -209,25 +209,25 @@ b. Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td class="tg-7yig" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-7yig">1<br>(60 mins)</td>
-    <td class="tg-ktyi">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>·        Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>·        Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
-    <td class="tg-7yig">Term 1 Week 6</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">2<br>(60 mins)</td>
-    <td class="tg-ktyi">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
+    <td class="tg-7yig">Levelling the Ground <br>Lesson 1<br>(60 mins)</td>
+    <td class="tg-ktyi">·        Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>·        Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
     <td class="tg-7yig">Term 1 Week 8</td>
   </tr>
   <tr>
-    <td class="tg-7yig">3<br>(60 mins)</td>
+    <td class="tg-7yig">When Love Hurts <br>Lesson 2<br>(60 mins)</td>
+    <td class="tg-ktyi">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
+    <td class="tg-7yig">Term 2 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">For Better or For Worse <br>Lesson 3<br>(60 mins)</td>
     <td class="tg-ktyi">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
-    <td class="tg-7yig">Term 1 Week 9</td>
+    <td class="tg-7yig">Term 2 Week 3</td>
   </tr>
   <tr>
     <td class="tg-7yig"> </td>
-    <td class="tg-7yig">4<br>(60 mins)</td>
+    <td class="tg-7yig">There's Always More to a Story <br>Lesson 4<br>(60 mins)</td>
     <td class="tg-ktyi">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-7yig">Term 1 Week 10</td>
+    <td class="tg-7yig">Term 2 Week 4</td>
   </tr>
 </tbody>
 </table>
