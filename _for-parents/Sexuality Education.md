@@ -123,13 +123,13 @@ b. Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td class="tg-baqh" rowspan="3"><span style="font-weight:normal">Respectful Relationships &amp; Safety</span></td>
-    <td class="tg-baqh"><span style="font-weight:normal">1</span><br>(60 mins)</td>
+    <td class="tg-baqh"><span style="font-weight:normal">A Role fro Everyone <br> Lesson 1</span><br>(60 mins)</td>
     <td class="tg-0lax">·       Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·        Understand what sexual orientation entails</td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 2</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 1</span></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><span style="font-weight:normal">2</span><br><span style="font-weight:normal">(60 mins)</span></td>
-    <td class="tg-0lax">·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-baqh"><span style="font-weight:normal">Online Safety Challenge <br>Lesson 2A</span><br><span style="font-weight:normal">(60 mins)</span></td>
+    <td class="tg-0lax">•	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline </td>
     <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 3</span></td>
   </tr>
   <tr>
