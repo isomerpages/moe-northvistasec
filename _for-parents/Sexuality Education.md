@@ -32,11 +32,11 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
   
 
-### Overview of North Vista Secondary School's Sexuality Education Programme for 2022
+### Overview of North Vista Secondary School's Sexuality Education Programme for 2024
 
   
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour and Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour and Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
 5. The subjects that incorporate topics on sexuality include:
 
