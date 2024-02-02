@@ -133,7 +133,7 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 3</span></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><span style="font-weight:normal">2B</span><br><span style="font-weight:normal">(60 mins)</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Do I or Don't I <br>Lesson 2B</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">·    Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·  Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
     <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 5</span></td>
   </tr>
