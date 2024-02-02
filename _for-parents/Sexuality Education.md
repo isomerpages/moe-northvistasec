@@ -86,9 +86,9 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 1</span></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><span style="font-weight:normal">2</span><br><span style="font-weight:normal">(60 mins)</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Being Aware, Being Safe <br>Lesson 2</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">·         Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 7</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 6</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">3</span><br><span style="font-weight:normal">(60 mins)</span></td>
