@@ -322,8 +322,6 @@ b)	Managing relationships and risky situations in a healthy way.
 
 12. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Annex%20B%202022.pdf).&nbsp;The completed form is to be submitted by 07/02/2022.
 
-13. Parents can contact the school at&nbsp;**6879 3930**&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
+13. Parents can contact the school at +65 6879 3930
+northvistass@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
 
-  
-
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
