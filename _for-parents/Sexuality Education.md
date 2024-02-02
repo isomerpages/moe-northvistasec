@@ -296,13 +296,16 @@ b. Character and Citizenship Education (CCE)
 <tbody>
   <tr>
     <td class="tg-0lax">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-0lax">·         Awareness of the different STIs and HIV/AIDS<br>·         Modes of transmission<br>·         Modes of protection, specifically on how the condom is used<br>·         Consequences and impact of STIs/HIV<br> </td>
+    <td class="tg-0lax">•	Raise awareness and provide knowledge on: <br>
+a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use). <br>
+b)	Managing relationships and risky situations in a healthy way.
+<br> </td>
     <td class="tg-baqh">Term 2 Week 1</td>
   </tr>
   <tr>
     <td class="tg-0lax">Classroom-based Lesson</td>
     <td class="tg-0lax">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td>
-    <td class="tg-baqh">Term 2 Week 2</td>
+    <td class="tg-baqh">Term 2 Week 3</td>
   </tr>
 </tbody>
 </table>
