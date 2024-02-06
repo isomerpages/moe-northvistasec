@@ -264,7 +264,6 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
-*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”.
 
 ### eTeens Programme:
 
