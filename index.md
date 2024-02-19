@@ -4,9 +4,7 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: Please note that Monday, 12 February 2024 is a public holiday and
-  Tuesday, 13 February 2024 is a school holiday. Lessons will resume on
-  Wednesday, 14 February 2024.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
