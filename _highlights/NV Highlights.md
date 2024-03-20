@@ -25,7 +25,7 @@ variant: markdown
 
 **National School Games 2023/2024** 
 
-[NSG Fixtures and Results 2024](https://www.northvistasec.moe.edu.sg/announcement/news/nationalschoolgames2023/) 
+[NSG Fixtures and Results 2024](https://www.northvistasec.moe.edu.sg/announcements-and-news/news/nsg2024fixtureresult/) 
 
 * [Basketball (Girls) - 2024](nsgbasketballgirls)
 * [Football - 2024](nsgfootball)
