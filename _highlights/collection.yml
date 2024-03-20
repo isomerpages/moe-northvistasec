@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - NSG 2024 – Football.md
       - NV Highlights.md
       - SAFMC 2023.md
       - Tampines Central Passion Arts Festival.md
@@ -17,6 +16,7 @@ collections:
       - SYF 2023 – Choir.md
       - SYF 2023 – Drama.md
       - NSG 2024 – Basketball (Girls).md
+      - NSG 2024 – Football.md
       - NSG 2023 – Cross Country Championships.md
       - NSG 2023 – Basketball (Boys).md
       - NSG 2023 – Golf.md
