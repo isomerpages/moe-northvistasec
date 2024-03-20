@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <h3>NSG Basketball Championship (Girls)</h3>
 <h5><strong>B Division Basketball Championship (Girls)</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Basketball (Girls)/Basketball_Girls_1.jpg">
+</div>
+<p></p>
 <p>Our B Division Girls played in the finals of the North Zone Basketball
 Championship against Singapore Chinese Girls’ School (SCGS) on Tuesday,
 5 March 2024, at the Singapore Basketball Centre. Our girls started well
@@ -14,6 +18,9 @@ but were outplayed by a strong opponent. The final score was 33 – 68.</p>
 Zone Basketball Championship. We would also like to thank the Secondary
 Four supporters who were cheering for the team!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NV Highlights/Basketball (Girls)/Basketball_Girls_2.jpg">
+</div>
 <p></p>
 <h5><strong>C Division Basketball Championship (Girls) - 2023</strong></h5>
 <div class="isomer-image-wrapper">
