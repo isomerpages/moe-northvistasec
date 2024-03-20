@@ -4,8 +4,8 @@ permalink: /highlights/nsgfootball/
 variant: tiptap
 description: ""
 ---
-<h5><strong>B Division Football</strong></h5>
-<h5><strong> </strong></h5>
+<h5><strong>B Division Football Championship</strong></h5>
+<h5></h5>
 <p>Our B Division Boys' football team had a remarkable season, achieving
 qualification for League 1 in the NSG Football Championships. This marks
 the first time our team has reached the highest level of competition, where
