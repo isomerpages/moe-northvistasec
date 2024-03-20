@@ -4,27 +4,33 @@ permalink: /highlights/nsgbasketballgirls/
 description: ""
 variant: tiptap
 ---
-### NSG Basketball Championship (Girls)
-
-##### **C Division Basketball Championship (Girls)**
-
-![](/images/NV%20Highlights/nsg%20north%20zone%20c%20girls.JPG)
-
-**NSG North Zone C Division Basketball Championship (Girls** 
-
-Our girls played against Yishun Town Secondary School (YTSS) in the 3rd/4th playoffs at the NSG North Zone Basketball Championship. The game took place on Wednesday, 26 July, 11.00am, at Singapore Basketball Centre.
-
-It was an intense game between the two schools. YTSS started well and our girls trailed for most of the game. Our girls started to reduce the deficit in the 3rd period and caught up at the 4th period. At full time, the game was tied at 40 - 40. In overtime, our girls won the game 44 – 40. 
-
-Congratulations to our girls for achieving 3rd placing at the NSG North Zone Basketball Championship. We would also like to thank the supporters, from 2E2, 2N2, 2T1 and Basketball CCA Girls who were cheering for the team.
-
-##### **B Division Basketball Championship (Girls)**
-
-![](/images/NV%20Highlights/basketball%20girls.jpeg)
-
-Congratulations to our B Division Basketball Girls’ Team for achieving 4th position at the NSG Basketball North Zone Championship. 
-
-Our girls played Ahmad Ibrahim Secondary School (AISS) in the 3rd/4th game on Tuesday, 7 March at Singapore Basketball Centre. Our girls was trailing AISS by 13 points at one time. They fought back and they did not give up. 
-Our girls lost the game narrowly with a score 43-44. 
-
-The girls played in the national rounds after the term break. They played against Chung Cheng High (Main), Deyi Secondary School and Jurong Secondary School. Our girls achieved a commendable record of 1 win and 2 losses.
+<h3>NSG Basketball Championship (Girls)</h3>
+<h5><strong>B Division Basketball Championship (Girls)</strong></h5>
+<p>Our B Division Girls played in the finals of the North Zone Basketball
+Championship against Singapore Chinese Girls’ School (SCGS) on Tuesday,
+5 March 2024, at the Singapore Basketball Centre. Our girls started well
+but were outplayed by a strong opponent. The final score was 33 – 68.</p>
+<p>Congratulations to our girls for achieving 2nd placing at the NSG North
+Zone Basketball Championship. We would also like to thank the Secondary
+Four supporters who were cheering for the team!</p>
+<p></p>
+<p></p>
+<h5><strong>C Division Basketball Championship (Girls) - 2023</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV%20Highlights/nsg%20north%20zone%20c%20girls.JPG">
+</div>
+<p><strong>NSG North Zone C Division Basketball Championship (Girls</strong>
+</p>
+<p>Our girls played against Yishun Town Secondary School (YTSS) in the 3rd/4th
+playoffs at the NSG North Zone Basketball Championship. The game took place
+on Wednesday, 26 July 2023, 11.00am, at Singapore Basketball Centre.</p>
+<p>It was an intense game between the two schools. YTSS started well and
+our girls trailed for most of the game. Our girls started to reduce the
+deficit in the 3rd period and caught up at the 4th period. At full time,
+the game was tied at 40 - 40. In overtime, our girls won the game 44 –
+40.</p>
+<p>Congratulations to our girls for achieving 3rd placing at the NSG North
+Zone Basketball Championship. We would also like to thank the supporters,
+from 2E2, 2N2, 2T1 and Basketball CCA Girls who were cheering for the team.</p>
+<h5></h5>
+<p></p>
