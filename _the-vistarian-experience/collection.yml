@@ -2,6 +2,7 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - Page 2 Speech Day/.keep
       - Speech Day (Test).md
       - Academic/.keep
       - Academic/English Language & Literature.md
