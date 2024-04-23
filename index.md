@@ -4,8 +4,7 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: Please proceed to our "Announcement & News" section below to find
-  details about the upcoming 68th Speech and Prize Giving Day.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif

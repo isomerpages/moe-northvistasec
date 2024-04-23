@@ -1,8 +1,8 @@
 ---
-title: Selection
+title: Selection (DSA)
 permalink: /selection/
 description: ""
-third_nav_title: Direct School Admission (DSA)
+variant: tiptap
 ---
 ### **Selection (Trial/Audition requirements)**
 

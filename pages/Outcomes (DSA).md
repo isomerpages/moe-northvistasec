@@ -1,8 +1,8 @@
 ---
-title: Outcomes
+title: Outcomes (DSA)
 permalink: /permalink/outcomes/
 description: ""
-third_nav_title: Direct School Admission (DSA)
+variant: tiptap
 ---
 ### **Selection Outcomes**
 

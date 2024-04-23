@@ -1,7 +1,8 @@
 ---
-title: How to apply
+title: How to apply (DSA)
 permalink: /howtoapply/
 description: ""
+variant: tiptap
 third_nav_title: Direct School Admission (DSA)
 ---
 All applicants will apply for DSA-Sec through a centralized DSA-Sec Portal. The DSA-Sec website is as follows: [ www.moe.gov.sg/dsa-sec]( www.moe.gov.sg/dsa-sec)
