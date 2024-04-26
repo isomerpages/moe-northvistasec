@@ -7,6 +7,7 @@ variant: markdown
 ![](/images/highlightscollage.JPG)
 
 **Highlights**
+* [Performance at the World Down Syndrome Day 2024](https://northvistasec.moe.edu.sg/performance-at-the-world-down-syndrome-day/)
 * [Singapore Amazing Flying Machine Competition 2023](safmc2023)
 * [NV Band - Tampines Central Passion Arts Festival](tcpaf)
 * [NSG Media Feature - Ashley Wee](nsgmediafeature)
