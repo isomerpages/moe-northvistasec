@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>NSG Golf Championship</strong></h2>
-<p>The NSG Golf Championship was held on 10 and 11 April 2023 at Laguna National
-Golf Resort Club. The following students represented our school in the
-individual and team events.</p>
+<p>The following students represented our school at the SSSC Golf Championship,
+which was held at Laguna National Golf Resort Club on 15 and 16 April 2024.</p>
 <table>
 <tbody>
 <tr>
