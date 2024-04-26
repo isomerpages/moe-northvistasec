@@ -2,19 +2,109 @@
 title: NSG 2023 – Golf
 permalink: /highlights/nsggolf2023/
 description: ""
+variant: tiptap
 ---
-## **NSG Golf Championship**
-
-The NSG Golf Championship was held on 10 and 11 April 2023 at Laguna National Golf Resort Club. The following students represented our school in the individual and team events.  
-     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl63 {border:.5pt solid windowtext;} .xl64 {text-align:left; border:.5pt solid windowtext;} .xl65 {mso-number-format:"\\@"; text-align:left; border:.5pt solid windowtext;} -->
-
-<table style="border-collapse:
- collapse;width:377pt" width="503" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:48pt" width="64"> <col style="mso-width-source:userset;mso-width-alt:7862;width:161pt" width="215"> <col style="mso-width-source:userset;mso-width-alt:1645;width:34pt" width="45"> <col style="mso-width-source:userset;mso-width-alt:6546;width:134pt" width="179"></colgroup><tbody><tr style="mso-height-source:userset;height:13.5pt" height="18"><td style="height:13.5pt;width:48pt" width="64" class="xl63" height="18">S/No</td><td style="border-left:none;width:161pt" width="215" class="xl63">Name</td><td style="border-left:none;width:34pt" width="45" class="xl63">Class</td><td style="border-left:none;width:134pt" width="179" class="xl63">Division</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">1</td><td style="border-top:none;border-left:none" class="xl64">PHAM HOANG LONG ARTHUR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td style="border-top:none;border-left:none" class="xl65">2E1</td><td style="border-top:none;border-left:none" class="xl64">(C Boys Individual)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">2</td><td style="border-top:none;border-left:none" class="xl64">WEE WAN WEN ASHLEY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td style="border-top:none;border-left:none" class="xl65">2E4</td><td style="border-top:none;border-left:none" class="xl64">(C Girls Individual)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">3</td><td style="border-top:none;border-left:none" class="xl64">NEO KAI BIN, WILBUR<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td style="border-top:none;border-left:none" class="xl65">3E3</td><td style="border-top:none;border-left:none" class="xl64">(B Boys Individual &amp; Team)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">4</td><td style="border-top:none;border-left:none" class="xl64">WEE ZHENG KAI AARON<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td style="border-top:none;border-left:none" class="xl65">4E2</td><td style="border-top:none;border-left:none" class="xl64">(B Boys Individual &amp; Team)<span style="mso-spacerun:yes">&nbsp;</span></td></tr></tbody></table>
-
-Our golfers performed well over the two days of competition, playing a total of 36 holes. 
-
-We would like to congratulate Ashley for achieving 3rd placing in the individual event; and Aaron and Wilbur for achieving 3rd position in the team event.
-
-![](/images/NV%20Highlights/golf%201.jpeg)
-![](/images/NV%20Highlights/golf%202.jpeg)![](/images/NV%20Highlights/golf%203.jpeg)
-![](/images/NV%20Highlights/golf%204.jpeg)
+<h2><strong>NSG Golf Championship</strong></h2>
+<p>The NSG Golf Championship was held on 10 and 11 April 2023 at Laguna National
+Golf Resort Club. The following students represented our school in the
+individual and team events.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>S/No</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Events</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Seng Ray Jayden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys Individual</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeh Zi Yu Jade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls Individual</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Wan Wen Ashley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls Individual</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arthur Pham Hoang Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys Individual and Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Kai Bin Wilbur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys Individual and Team</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Round 2 was cancelled due to the prolonged closure of golf course.
+The results were based on Round 1 scores. We would like to congratulate
+Ashley Wee for achieving 3rd position in the individual event; and Wilbur
+Neo for achieving a Top 8 placing in his event.</p>
+<p>Please refer to the NSG Golf Website for more details - <a href="https://nsg.moe.edu.sg/sssc/golf#result" rel="noopener noreferrer nofollow" target="_blank">https://nsg.moe.edu.sg/sssc/golf#result</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
