@@ -30,9 +30,9 @@ variant: markdown
 
 * [Basketball (Girls) - 2024](nsgbasketballgirls)
 * [Football - 2024](nsgfootball)
+* [Golf - 2024](https://northvistasec.moe.edu.sg/highlights/nsggolf2024/)
 * [Cross Country Championships - 2023](crosscountry)
 * [Basketball (Boys) - 2023](nsgbasketballboys)
-* [Golf - 2023](nsggolf2023)
 * [Taekwondo 2023](nsg2023taekwondo)
 * [Sailing, Swimming and Shooting - 2023](nsgsailingswimmingshooting)
 * [Netball - 2023](nsg2023netball)
