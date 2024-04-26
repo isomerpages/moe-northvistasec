@@ -15,6 +15,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/sjbfirstaid2024/" rel="noopener noreferrer nofollow" target="_blank">St John Brigade (SJB) – District First Aid Competition 2024</a>
+</p>
+</li>
+<li>
 <p><a href="safmc2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Amazing Flying Machine Competition 2023</a>
 </p>
 </li>
@@ -28,10 +32,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="npccatc" rel="noopener noreferrer nofollow" target="_blank">NPCC – Adventure Training Camp (ATC)</a>
-</p>
-</li>
-<li>
-<p><a href="sjbfirstaid2023" rel="noopener noreferrer nofollow" target="_blank">St John Brigade (SJB) – District First Aid Competition</a>
 </p>
 </li>
 <li>
