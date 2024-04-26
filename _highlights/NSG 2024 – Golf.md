@@ -102,6 +102,23 @@ individual and team events.</p>
 The results were based on Round 1 scores. We would like to congratulate
 Ashley Wee for achieving 3rd position in the individual event; and Wilbur
 Neo for achieving a Top 8 placing in his event.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Golf/Golf1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Golf/Golf2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NV Highlights/Golf/Golf3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NV Highlights/Golf/Golf4.jpg">
+</div>
 <p>Please refer to the NSG Golf Website for more details - <a href="https://nsg.moe.edu.sg/sssc/golf#result" rel="noopener noreferrer nofollow" target="_blank">https://nsg.moe.edu.sg/sssc/golf#result</a>
 </p>
 <p></p>
