@@ -5,6 +5,24 @@ description: ""
 third_nav_title: Hosting Our Overseas Partners
 variant: markdown
 ---
+### Hosting Visiting School from other countries in 2024
+
+**Deqiang School (Harbin, China)**
+
+<img src="/images/The%20Vistarian%20Experience/Hosting%20Our%20Overseas%20Partners/Harbin_3.jpg" style="width:80%">
+<br>
+
+On Friday, February 23, 2024, our Secondary 3 Higher Chinese students had the privilege of hosting a delegation from Harbin Deqiang School (China), consisting of 32 students and 3 staff members. Alongside providing a tailored tour of our school grounds, our students facilitated engaging discussions. Despite the briefness of the visit, this exchange program offered invaluable learning opportunities and nurtured meaningful bonds among all participants.
+
+<img src="/images/The%20Vistarian%20Experience/Hosting%20Our%20Overseas%20Partners/Harbin_1.jpg" style="width:80%">
+<br>
+
+<img src="/images/The%20Vistarian%20Experience/Hosting%20Our%20Overseas%20Partners/Harbin_2.jpg" style="width:80%">
+<br>
+
+
+
+
 ### Hosting Visiting School from other countries in 2023 
 
 **Xiasha Middle School (Hangzhou, China)**

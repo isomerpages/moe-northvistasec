@@ -2,36 +2,107 @@
 title: NV Highlights
 permalink: /highlights/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/highlightscollage.JPG)
-
-**Highlights**
-* [Singapore Amazing Flying Machine Competition 2023](safmc2023)
-* [NV Band - Tampines Central Passion Arts Festival](tcpaf)
-* [NSG Media Feature - Ashley Wee](nsgmediafeature)
-* [NPCC – Adventure Training Camp (ATC)  ](npccatc)
-* [St John Brigade (SJB) – District First Aid Competition ](sjbfirstaid2023)
-* [Modern Dance - Super 24 Dance Competition](super24dancecomp)
-
- **Singapore Youth Festival 2023/2024** 
- 
-* [String Ensemble - 2023](syf2023strings)
-* [Modern Dance - 2023](moderndancesyf2023)
-* [Chinese Dance - 2023](chinesedancesyf2023)
-* [Symphonic Band - 2023](syf2023symphonicband)
-* [Choir - 2023](syf2023choir)
-* [Drama - 2023](syf2023drama)
-
-**National School Games 2023/2024** 
-
-[NSG Fixtures and Results 2024](https://www.northvistasec.moe.edu.sg/announcements-and-news/news/nsg2024fixtureresult/) 
-
-* [Basketball (Girls) - 2024](nsgbasketballgirls)
-* [Football - 2024](nsgfootball)
-* [Cross Country Championships - 2023](crosscountry)
-* [Basketball (Boys) - 2023](nsgbasketballboys)
-* [Golf - 2023](nsggolf2023)
-* [Taekwondo 2023](nsg2023taekwondo)
-* [Sailing, Swimming and Shooting - 2023](nsgsailingswimmingshooting)
-* [Netball - 2023](nsg2023netball)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/highlightscollage.JPG">
+</div>
+<p><strong>Highlights</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://northvistasec.moe.edu.sg/performance-at-the-world-down-syndrome-day/" rel="noopener noreferrer nofollow" target="_blank">Performance at the World Down Syndrome Day 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/sjbfirstaid2024/" rel="noopener noreferrer nofollow" target="_blank">St John Brigade (SJB) – District First Aid Competition 2024</a>
+</p>
+</li>
+<li>
+<p><a href="safmc2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Amazing Flying Machine Competition 2023</a>
+</p>
+</li>
+<li>
+<p><a href="tcpaf" rel="noopener noreferrer nofollow" target="_blank">NV Band - Tampines Central Passion Arts Festival</a>
+</p>
+</li>
+<li>
+<p><a href="nsgmediafeature" rel="noopener noreferrer nofollow" target="_blank">NSG Media Feature - Ashley Wee</a>
+</p>
+</li>
+<li>
+<p><a href="npccatc" rel="noopener noreferrer nofollow" target="_blank">NPCC – Adventure Training Camp (ATC)</a>
+</p>
+</li>
+<li>
+<p><a href="super24dancecomp" rel="noopener noreferrer nofollow" target="_blank">Modern Dance - Super 24 Dance Competition</a>
+</p>
+</li>
+</ul>
+<p><strong>Singapore Youth Festival 2023/2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="syf2023strings" rel="noopener noreferrer nofollow" target="_blank">String Ensemble - 2023</a>
+</p>
+</li>
+<li>
+<p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance - 2023</a>
+</p>
+</li>
+<li>
+<p><a href="chinesedancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance - 2023</a>
+</p>
+</li>
+<li>
+<p><a href="syf2023symphonicband" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band - 2023</a>
+</p>
+</li>
+<li>
+<p><a href="syf2023choir" rel="noopener noreferrer nofollow" target="_blank">Choir - 2023</a>
+</p>
+</li>
+<li>
+<p><a href="syf2023drama" rel="noopener noreferrer nofollow" target="_blank">Drama - 2023</a>
+</p>
+</li>
+</ul>
+<p><strong>National School Games 2023/2024</strong>
+</p>
+<p><a href="https://www.northvistasec.moe.edu.sg/announcements-and-news/news/nsg2024fixtureresult/" rel="noopener noreferrer nofollow" target="_blank">NSG Fixtures and Results 2024</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="nsgbasketballgirls" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls) - 2024</a>
+</p>
+</li>
+<li>
+<p><a href="nsgfootball" rel="noopener noreferrer nofollow" target="_blank">Football - 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/nsggolf2024/" rel="noopener noreferrer nofollow" target="_blank">Golf - 2024</a>
+</p>
+</li>
+<li>
+<p><a href="crosscountry" rel="noopener noreferrer nofollow" target="_blank">Cross Country Championships - 2023</a>
+</p>
+</li>
+<li>
+<p><a href="nsgbasketballboys" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys) - 2023</a>
+</p>
+</li>
+<li>
+<p><a href="nsg2023taekwondo" rel="noopener noreferrer nofollow" target="_blank">Taekwondo 2023</a>
+</p>
+</li>
+<li>
+<p><a href="nsgsailingswimmingshooting" rel="noopener noreferrer nofollow" target="_blank">Sailing, Swimming and Shooting - 2023</a>
+</p>
+</li>
+<li>
+<p><a href="nsg2023netball" rel="noopener noreferrer nofollow" target="_blank">Netball - 2023</a>
+</p>
+</li>
+</ul>
+<p></p>
