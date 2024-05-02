@@ -2,7 +2,6 @@ collections:
   the-vistarian-experience:
     output: true
     order:
-      - 68th Speech & Prize Giving Day.md
       - Academic/.keep
       - Academic/English Language & Literature.md
       - Academic/Mathematics.md
@@ -37,3 +36,4 @@ collections:
         Archive.md
       - Hosting Our Overseas Partners/Hosting Our Overseas Partners 2015
         Archive.md
+      - 68th Speech & Prize Giving Day.md
