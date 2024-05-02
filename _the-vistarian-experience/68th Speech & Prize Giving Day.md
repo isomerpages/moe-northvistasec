@@ -8,7 +8,7 @@ description: ""
 <p></p>
 <h4><strong>Programme Booklet</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="1730" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSx4_g1PtAIdip2YusWZEmzHLqsr_xYxvpHc0f7sOEVMFmQPBVr0GvPWRYV_myNQSeSsIYkVXMFkX8J/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
+<iframe height="1418" width="980" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSx4_g1PtAIdip2YusWZEmzHLqsr_xYxvpHc0f7sOEVMFmQPBVr0GvPWRYV_myNQSeSsIYkVXMFkX8J/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <p></p>
 <h4><strong>Photos</strong></h4>
