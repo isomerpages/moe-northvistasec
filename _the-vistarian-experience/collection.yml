@@ -2,6 +2,7 @@ collections:
   the-vistarian-experience:
     output: true
     order:
+      - 68th Speech & Prize Giving Day.md
       - Academic/.keep
       - Academic/English Language & Literature.md
       - Academic/Mathematics.md
