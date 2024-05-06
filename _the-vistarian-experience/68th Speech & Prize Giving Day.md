@@ -46,7 +46,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://sgmoe-my.sharepoint.com/:f:/g/personal/zulkifli_khalil_schools_gov_sg/Eny4XWIBIW9HlRkQNrxsYZABEInsKdDILGvNuGznNrug9w?e=uwrStX" rel="noopener noreferrer nofollow" target="_blank">GCE Top Students 2023</a>
+<p><a href="https://sites.google.com/moe.edu.sg/speechday2024/photos" rel="noopener noreferrer nofollow" target="_blank">GCE Top Students 2023</a>
 </p>
 </li>
 <li>
