@@ -11,7 +11,10 @@ description: ""
 <iframe height="1418" width="980" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSx4_g1PtAIdip2YusWZEmzHLqsr_xYxvpHc0f7sOEVMFmQPBVr0GvPWRYV_myNQSeSsIYkVXMFkX8J/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 </div>
 <p></p>
-<h4><strong>Photos</strong></h4>
+<h4><strong>Photos </strong></h4>
+<p>Please log in to your school's email account to access the photographs.</p>
+<p>GCE prize winners, please click <a href="https://sites.google.com/moe.edu.sg/speechday2024/photos" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access the photographs.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://sgmoe-my.sharepoint.com/:f:/g/personal/zulkifli_khalil_schools_gov_sg/EobhooL3e0NLomxdT9e4OCIByWEiR98h-A0UrwZL2Uh7QQ?e=GG1QjS" rel="noopener noreferrer nofollow" target="_blank">Outstanding Leadership Award</a>
@@ -43,10 +46,6 @@ description: ""
 </li>
 <li>
 <p><a href="https://sgmoe-my.sharepoint.com/:f:/g/personal/zulkifli_khalil_schools_gov_sg/ElL5eRHAhgBEhgfWXrnpRDUBL18WYM3u479oycyXlwctqg?e=8iodoT" rel="noopener noreferrer nofollow" target="_blank">Mdm Lai Ching Meng NV Talent Award 2023</a>
-</p>
-</li>
-<li>
-<p><a href="https://sites.google.com/moe.edu.sg/speechday2024/photos" rel="noopener noreferrer nofollow" target="_blank">GCE Top Students 2023</a>
 </p>
 </li>
 <li>
