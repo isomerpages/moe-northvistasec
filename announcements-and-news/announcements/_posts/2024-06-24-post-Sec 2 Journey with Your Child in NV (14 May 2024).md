@@ -9,5 +9,6 @@ variant: tiptap
 ---
 <p>Dear Parent/Guardian,</p>
 <p>Please receive the following resources from the webinar held on <strong>14 May 2024</strong>.</p>
-<p>• Webinar Slides with FAQ from webinar</p>
+<p>• <a href="/files/Resource Page/Announcements/2024_Secondary_2_Parent_Engagement_Slides_w_FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">Webinar Slides with FAQ from webinar</a>
+</p>
 <p></p>
