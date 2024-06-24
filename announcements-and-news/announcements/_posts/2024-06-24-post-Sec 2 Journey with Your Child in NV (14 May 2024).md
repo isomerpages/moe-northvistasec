@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Parent/Guardian,</p>
+<p>Please receive the following resources from the webinar held on <strong>14 May 2024</strong>.</p>
+<p>• Webinar Slides with FAQ from webinar</p>
+<p></p>
