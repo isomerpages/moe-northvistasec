@@ -3,6 +3,7 @@ title: Overseas Learning Journey 2017 Archive
 permalink: /the-vistarian-experience/nv-goes-global-programme/overseas-learning-journey-2017-archive/
 description: ""
 third_nav_title: NV Goes Global Programme
+variant: markdown
 ---
 1.  2017 Overseas Trips [[Read more](https://northvistasec-moe-edu-sg-admin.cwp.sg/qql/slot/u172/files/Contents/Announcement/Overseas%20Posters%202017.pdf)]  
     
@@ -19,6 +20,6 @@ third_nav_title: NV Goes Global Programme
     
 8.  Service Learning Trip to Thailand (22-25 Nov)  [[Read more](http://nvcombinedugtrip.tumblr.com/)]   
     
-9.  Hong Kong Exchange Programme I (22-28 Nov) [[Read more](https://nvetet.tumblr.com/)]  
+9.  Hong Kong Exchange Programme I (22-28 Nov) 
     
 10.  Taiwan Student Exchange Programme (27 Nov - 2 Dec) [[Read More](https://nvtaiwanexchange2017.wordpress.com/)]
