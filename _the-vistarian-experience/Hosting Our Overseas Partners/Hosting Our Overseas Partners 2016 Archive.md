@@ -3,6 +3,7 @@ title: Hosting Our Overseas Partners 2016 Archive
 permalink: /the-vistarian-experience/hosting-our-overseas-partners/hosting-our-overseas-partners-2016-archive/
 description: ""
 third_nav_title: Hosting Our Overseas Partners
+variant: markdown
 ---
 # North Vista Secondary Visitors 2016
 
@@ -38,7 +39,7 @@ On 8 July 2016, the school hosted 4 teachers and 27 students from Te Puke High S
 
 ![](/images/Chinese%20Foundation%20School.png)
 
-On 19 July 2016, the school hosted 4 teachers and 26 students from Chinese Foundation School, Hong Kong. The students spent one day in North Vista for an exchange programme. The teachers and students were brought around to the school and placed in classes to experience lessons. We were featured on their school website at: [http://www.cfss.edu.hk/event20160718.html](http://www.cfss.edu.hk/event20160718.html)
+On 19 July 2016, the school hosted 4 teachers and 26 students from Chinese Foundation School, Hong Kong. The students spent one day in North Vista for an exchange programme. The teachers and students were brought around to the school and placed in classes to experience lessons. 
 
 ### 6.  Mathayom Watmaikrongtong School
 
