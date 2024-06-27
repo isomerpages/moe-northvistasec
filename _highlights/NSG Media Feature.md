@@ -2,9 +2,9 @@
 title: NSG Media Feature
 permalink: /highlights/nsgmediafeature/
 description: ""
+variant: markdown
 ---
 ### **NSG Media Feature on Ashley Wee**
 
-Our golfer, Ashley Wee (2E4), was selected to be featured on the NSG Media Profile for Golf. The interview was conducted in early May 2023. The video can be viewed in the link below. 
+Our golfer, Ashley Wee (2E4), was selected to be featured on the NSG Media Profile for Golf. The interview was conducted in early May 2023. 
 
-[https://share.vidyard.com/watch/ZRyWjTfKnN6wuNVv9vsRTQ](https://share.vidyard.com/watch/ZRyWjTfKnN6wuNVv9vsRTQ)

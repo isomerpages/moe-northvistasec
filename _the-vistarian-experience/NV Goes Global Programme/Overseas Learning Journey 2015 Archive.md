@@ -3,6 +3,7 @@ title: Overseas Learning Journey 2015 Archive
 permalink: /the-vistarian-experience/nv-goes-global-programme/overseas-learning-journey-2015-archive/
 description: ""
 third_nav_title: NV Goes Global Programme
+variant: markdown
 ---
 **The following is the list of overseas trips for 2015. Click on the trip to follow their adventure:**
 
@@ -14,7 +15,7 @@ third_nav_title: NV Goes Global Programme
     
 4.  Humanities Trip to Hong Kong ( 9 - 13 Nov)  [[Read more](https://nvgoesglobalhk.weebly.com/)]  
     
-5.  Modern Dance Trip to Jakarta (23 - 30 Nov)  [[Read more](https://nvmdjakartatrip.blogspot.sg/)]  
+5.  Modern Dance Trip to Jakarta (23 - 30 Nov) 
  -   Click [**_here_**](https://youtu.be/MX9yd_NPKxg) to view the GEV video    
  -  Click [**_here_**](https://youtu.be/5ZzGjaNt6aE) to view the Boogie Crew Performance  
  
