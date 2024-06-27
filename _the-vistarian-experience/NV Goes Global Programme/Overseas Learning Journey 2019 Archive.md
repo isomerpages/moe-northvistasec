@@ -21,4 +21,4 @@ variant: markdown
     - [](https://nvperth2019.wordpress.com/) [https://nvperth2019.wordpress.com](https://nvperth2019.wordpress.com/)  
   
 6. Phuket, Thailand  
-    - [](https://nvuggophuket.tumblr.com/) [https://nvuggophuket.tumblr.com](https://nvuggophuket.tumblr.com/)
+  
