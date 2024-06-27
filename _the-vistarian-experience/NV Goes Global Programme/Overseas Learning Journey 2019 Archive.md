@@ -20,5 +20,4 @@ variant: markdown
 5. Perth, Australia  
     - [](https://nvperth2019.wordpress.com/) [https://nvperth2019.wordpress.com](https://nvperth2019.wordpress.com/)  
   
-6. Phuket, Thailand  
-  
+6. Phuket, Thailand
