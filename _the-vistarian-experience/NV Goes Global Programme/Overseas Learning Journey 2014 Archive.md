@@ -13,7 +13,7 @@ The completed overseas trip in 2014 are
 *   [Humanities Department Vietnam Trip 2014](http://nvhumanities.tumblr.com/)  
     Ho Chi Minh City, Vietnam (17-21 October)
 		
-*   [Combined Uniformed Groups Vietnam Trip 2014](http://nvgoeshcmc.tumblr.com/)  
+*   Combined Uniformed Groups Vietnam Trip 2014 <br>
     Ho Chi Minh City, Vietnam (20-23 October)
 *   Chinese Dance cum Mother Tongue Department  
     Taiwan (28 October- 1 November)
