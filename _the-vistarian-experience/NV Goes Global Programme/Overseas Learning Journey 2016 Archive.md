@@ -11,7 +11,7 @@ variant: markdown
     
 3.  Thailand Twinning Programme and Service Learning Trip (9-13 Nov)  [[Read more](https://nvathletics.tumblr.com/)]  
     
-4.  Hong Kong Exchange Programme (15-19 Nov)  [[Read more](https://nvnetball2016.tumblr.com/)]  
+4.  Hong Kong Exchange Programme (15-19 Nov) 
     
 5.  Service Learning Trip to Thailand (19-22 Nov)  [[Read more](https://nvcombinedugtrip.tumblr.com/)] 
 6.  Jakarta Twinning Trip (19-22 Nov) 
