@@ -23,7 +23,7 @@ The completed overseas trip in 2014 are
     Siem Reap, Cambodia (6-11 November)
 *   [Symphonic Band Overseas Trip](http://nvsymphonicband.tumblr.com/ "Symphonic Band Overseas Trip")  
     Chiang Mai, Thailand (18-22 November)
-*   [Sports CCA (Athletics, Basketball &amp; Football)](http://nvsit2014.blogspot.com/ "Sports Immersion Trip")  
+*   Sports CCA (Athletics, Basketball &amp; Football) <br> 
     Malaysia (24-28 November)
 *   [Choir Johore Bahru Trip](http://nvchoirtrip14.blogspot.com/ "Choir Trip")  
     Johore Bahru, Malaysia (25-28 November)
