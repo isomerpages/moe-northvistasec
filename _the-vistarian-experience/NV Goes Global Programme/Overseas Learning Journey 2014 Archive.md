@@ -17,7 +17,7 @@ The completed overseas trip in 2014 are
     Ho Chi Minh City, Vietnam (20-23 October)
 *   Chinese Dance cum Mother Tongue Department  
     Taiwan (28 October- 1 November)
-*   [CREATE! - CSC Taiwan Immersion Trip 2014](http://nvgoestaipei.blogspot.sg/)  
+*   CREATE! - CSC Taiwan Immersion Trip 2014 <br>
     Taipei, Taiwan (27 October- 31 October)
 *   [Student Leadership Overseas Trip] <br>
     Siem Reap, Cambodia (6-11 November)
