@@ -5,7 +5,7 @@ description: ""
 third_nav_title: NV Goes Global Programme
 variant: markdown
 ---
-1.  2017 Overseas Trips [[Read more](https://northvistasec-moe-edu-sg-admin.cwp.sg/qql/slot/u172/files/Contents/Announcement/Overseas%20Posters%202017.pdf)]  
+1.  2017 Overseas Trips
     
 2.  Thailand Cultural Immersion Trip (30 Oct - 2 Nov)  
     
