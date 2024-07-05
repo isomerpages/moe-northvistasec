@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/For Students/2024_Sem_2_Timetable_CLASSv2.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Class</a>(Updated
-24 JUN 2024)</p>
+<p><a href="/files/For Students/2024_Sem_2_Timetable_CLASSv3.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Class</a>(Updated
+5 JUL 2024)</p>
 </li>
 </ul>
 <h3>Semester 2, 2024</h3>
