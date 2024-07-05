@@ -1,8 +1,8 @@
 ---
-title: Secondary 1
+title: Secondary 1 (Exam Matters)
 permalink: /for-students/exam-matters/secondary1/
 description: ""
-third_nav_title: Exam Matters
+variant: tiptap
 ---
 ### Secondary 1 Examination Details
 
