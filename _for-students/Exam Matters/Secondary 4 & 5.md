@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Secondary 4/5 Preliminary Examination Details</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/For Students/Exam Matters/Sec 4 &amp; 5/1_4N_Preliminary_Exam_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 NA/NT Preliminary Examination 2024 Time-Table</a>
+<p><a href="/files/For Students/Exam Matters/Sec 4 &amp; 5/4N_Preliminary_Exam_Timetable_2024__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 NA/NT Preliminary Examination 2024 Time-Table</a>
 </p>
 </li>
 <li>
@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/For Students/Exam Matters/Sec 4 &amp; 5/4__4E_5N_Preliminary_Exam_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 EXP/ 5 NA Preliminary Examination 2024 Time-Table</a>
+<p><a href="/files/For Students/Exam Matters/Sec 4 &amp; 5/4E_5N_Preliminary_Exam_Timetable_2024__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 EXP/ 5 NA Preliminary Examination 2024 Time-Table</a>
 </p>
 </li>
 <li>
