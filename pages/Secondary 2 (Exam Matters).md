@@ -4,7 +4,24 @@ permalink: /for-students/exam-matters/secondary2/
 description: ""
 variant: tiptap
 ---
-### Secondary 2 Examination Details
-
-* [Secondary 2 End of Year Examination Format and Topics 2023](/files/For%20Students/Exam%20Matters/Sec%202/sec%202%20end-of-year%20examination%20format%20and%20topics%202023.pdf)
-* [Secondary 2 End of Year Examination Timetable 2023](/files/For%20Students/Exam%20Matters/Sec%202/sec%202%20eye%20timetable%202023_updated%2016%20sept_students'copy.pdf)
+<h3>Secondary 2 Examination Details</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_EYE_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 End of Year Examination Timetable 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Normal_Technical_EYE_Exam_Format_and_Topics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (NT) End of Year Examination Format and Topics 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Normal_Academic_EYE_Exam_Format_and_Topics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (NA) End of Year Examination Format and Topics 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Express_EYE__Exam_Format_and_Topics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (EXPRESS) End of Year Examination Format and Topics 2024</a>
+</p>
+<p></p>
+</li>
+</ul>
+<p></p>
