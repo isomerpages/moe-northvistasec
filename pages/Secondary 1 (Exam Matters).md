@@ -4,7 +4,23 @@ permalink: /for-students/exam-matters/secondary1/
 description: ""
 variant: tiptap
 ---
-### Secondary 1 Examination Details
-
-* [Secondary 1 End of Year Examination Timetable 2023](/files/For%20Students/Exam%20Matters/Sec%201/sec%201%20end-of-year%20examination%20timetable%202023_students'%20copy.pdf)
-* [Secondary 1 End of Year Examination Format and Topics 2023](/files/For%20Students/Exam%20Matters/Sec%201/sec%201%20end-of-year%20examination%20format%20and%20topics%202023.pdf)
+<h3>Secondary 1 Examination Details</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 1/Sec_1_EYE_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 End of Year Examination Timetable 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 1/Sec_1_G1_EYE_Exam_Format_and_Topics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 (G1) End of Year Examination Format and Topics 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 1/Sec_1_G2_EYE_Exam_Format_and_Topics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 (G2) End of Year Examination Format and Topics 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 1/Sec_1_G3_EYE_Exam_Format_and_Topics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 (G3) End of Year Examination Format and Topics 2024</a>
+</p>
+</li>
+</ul>
+<p></p>
