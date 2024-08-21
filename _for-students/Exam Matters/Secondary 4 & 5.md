@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/For Students/Exam Matters/Sec 4 &amp; 5/4E_5N_Preliminary_Exam_Timetable_2024__updated_10_July_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 EXP/ 5 NA Preliminary Examination 2024 Time-Table</a>
+<p><a href="/files/For Students/Exam Matters/Sec 4 &amp; 5/4E_5N_Prelims_TT_2024_V4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 EXP/ 5 NA Preliminary Examination 2024 Time-Table</a>
 </p>
 </li>
 <li>
