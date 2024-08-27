@@ -4,7 +4,10 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Please be informed that the school general office will be closed
+  on 28th Aug 2024 (Wednesday) from 2 pm, as all staff will be out of school for
+  an event. The general office will resume operation on 29th Aug 2024 (Thursday)
+  during normal office hours.
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
