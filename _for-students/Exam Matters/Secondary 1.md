@@ -8,7 +8,7 @@ third_nav_title: Exam Matters
 <h3>Secondary 1 Examination Details</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/For Students/Exam Matters/Sec 1/Sec_1_EYE_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 End of Year Examination Timetable 2024</a>
+<p><a href="/files/For Students/Exam Matters/Sec 1/Sec_1_EYE_Timetable_2024_updated.pdf" rel="noopener nofollow" target="_blank">Secondary 1 End of Year Examination Timetable 2024</a>
 </p>
 </li>
 <li>
