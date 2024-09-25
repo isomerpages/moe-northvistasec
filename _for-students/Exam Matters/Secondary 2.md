@@ -16,11 +16,11 @@ third_nav_title: Exam Matters
 </p>
 </li>
 <li>
-<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Normal_Academic_EYE_Exam_Format_and_Topics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (NA) End of Year Examination Format and Topics 2024</a>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Normal_Academic_EYE_Exam_Format_and_Topics_2024.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (NA) End of Year Examination Format and Topics 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Express_EYE__Exam_Format_and_Topics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (EXP) End of Year Examination Format and Topics 2024</a>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Express_EYE__Exam_Format_and_Topics_2024.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (EXP) End of Year Examination Format and Topics 2024</a>
 </p>
 <p></p>
 </li>
