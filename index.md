@@ -27,10 +27,11 @@ sections:
       title: NV Highlights
       button: Find out more!
       url: /highlights/
-      image: /images/bannervrr.JPG
+      image: /images/Homepage/NV_Open_House_Poster_Option_2.png
       description: Check out our students' latest news and updates! (Competitions, SYF
         & NSG)
       alt: Image alt text
+      subtitle: Join us at NV's Open House!
   - resources:
       title: Announcements & News
 ---
