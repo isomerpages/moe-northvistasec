@@ -25,7 +25,8 @@ Our curriculum is designed to Engage, Excite and Enrich students’ learning. Th
 
 **Support School’s Farm to Table Applied Learning Programme**
 
-![](/images/sci5.png) <br>
+Our school’s Applied Learning Programme (ALP) provides students differentiated, experiential and authentic learning experiences that guide students to explore and apply scientific reasoning, methodologies and theories in their daily lives. Through these experiences, we strive to develop them into Vistarians who are inquisitive and innovative individuals.
+
 <img src="/images/The%20Vistarian%20Experience/Academic/Science1.jpg" style="width:80%">
 
 
