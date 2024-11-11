@@ -16,33 +16,52 @@ The Science department aims to nurture our students to have a lifelong passion f
 
 Our curriculum is designed to Engage, Excite and Enrich students’ learning. These learning experiences are conducted in and beyond the classrooms and Science laboratories. Various teaching strategies are used to cater to the varying needs of students. Student learning is carefully monitored by our team of dedicated teachers, and gaps in learning are closed in a timely manner so that students can advance in their learning.
 
-![](/images/sci1.png)
-![](/images/sci3.png)
-![](/images/sci2.png)
-![](/images/sci4.png)
+
+
+![](/images/The%20Vistarian%20Experience/Academic/Sci01.png)
+
+
 
 ### Highlights of Programmes
 
 **Support School’s Farm to Table Applied Learning Programme**
 
-![](/images/sci5.png) <br>
-<img src="/images/The%20Vistarian%20Experience/Academic/Science1.jpg" style="width:80%">
+Our school’s Applied Learning Programme (ALP) provides students differentiated, experiential and authentic learning experiences that guide students to explore and apply scientific reasoning, methodologies and theories in their daily lives. Through these experiences, we strive to develop them into Vistarians who are inquisitive and innovative individuals.
+
+<img src="/images/The%20Vistarian%20Experience/Academic/SCIALP1.jpg" style="width:80%">
 
 
-**Experiential Learning at Workshops**  
+**Experiential Learning at Learning Journeys**  
 
-We involve students in workshops at the Science Centre and Science-based competitions organised by tertiary institutions. In addition, our school’s Applied Learning Programme (ALP) provides students differentiated, experiential and authentic learning experiences that guide students to explore and apply scientific reasoning, methodologies and theories in their daily lives. Through these experiences, we strive to develop them into Vistarians who learn, strive and contribute for a better future.
+Students are provided opportunities to embark on Science Learning Journeys to witness the Science learned in their classrooms come alive in the real world. This allows students deepen their Science knowledge and build connections between their knowledge with the world around them. 
 
-![](/images/sci6.png)
-![](/images/sci7.png)
+![](/images/The%20Vistarian%20Experience/Academic/SCILJ1.jpg)
+
+![](/images/The%20Vistarian%20Experience/Academic/SCILJ2.jpg)
 
 
 **Students at various Science Competitions**
 
-Students are provided with opportunities to pursue and deepen their interest in Science through competitions such as the Science Buskers' Festival and the National STEM Championship organised by the Science Center
+Through Science Competitions, students get the opportunity to pursue and deepen their interest in Science, while challenging themselves to step out of their comfort zone and stretch their potential.
 
-![](/images/sci9.png)
-![](/images/sci10.png)
-![](/images/sci11.png)
-![](/images/sci-22-10.jpg) <br>
-<img src="/images/The%20Vistarian%20Experience/Academic/Science2.jpg" style="width:80%">
+
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCIB1.jpg" style="width:80%">
+    <figcaption><strong>Science Buskers’ Festival 2024</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCIB2.jpg" style="width:80%">
+    <figcaption><strong>Science Buskers’ Festival 2024</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCITP1.jpg" style="width:100%">
+    <figcaption><strong>Participants of the Temasek Polytechnic Engineering Olympiad 2024</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCISO1.jpg" style="width:100%">
+    <figcaption><strong>Participants of the Science Olympiad 2024</strong></figcaption>
+</figure>
