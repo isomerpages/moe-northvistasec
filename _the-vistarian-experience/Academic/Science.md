@@ -18,8 +18,7 @@ Our curriculum is designed to Engage, Excite and Enrich students’ learning. Th
 
 ![](/images/sci1.png)
 ![](/images/sci3.png)
-![](/images/sci2.png)
-![](/images/sci4.png)
+
 
 ### Highlights of Programmes
 
