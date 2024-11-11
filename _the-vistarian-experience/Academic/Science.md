@@ -30,9 +30,9 @@ Our school’s Applied Learning Programme (ALP) provides students differentiated
 <img src="/images/The%20Vistarian%20Experience/Academic/SCIALP1.jpg" style="width:80%">
 
 
-**Experiential Learning at Workshops**  
+**Experiential Learning at Learning Journeys**  
 
-We involve students in workshops at the Science Centre and Science-based competitions organised by tertiary institutions. In addition, our school’s Applied Learning Programme (ALP) provides students differentiated, experiential and authentic learning experiences that guide students to explore and apply scientific reasoning, methodologies and theories in their daily lives. Through these experiences, we strive to develop them into Vistarians who learn, strive and contribute for a better future.
+Students are provided opportunities to embark on Science Learning Journeys to witness the Science learned in their classrooms come alive in the real world. This allows students deepen their Science knowledge and build connections between their knowledge with the world around them. 
 
 ![](/images/sci6.png)
 ![](/images/sci7.png)
