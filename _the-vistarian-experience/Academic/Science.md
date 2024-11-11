@@ -17,7 +17,8 @@ The Science department aims to nurture our students to have a lifelong passion f
 Our curriculum is designed to Engage, Excite and Enrich students’ learning. These learning experiences are conducted in and beyond the classrooms and Science laboratories. Various teaching strategies are used to cater to the varying needs of students. Student learning is carefully monitored by our team of dedicated teachers, and gaps in learning are closed in a timely manner so that students can advance in their learning.
 
 ![](/images/sci1.png)
-![](/images/sci3.png)
+![](/images/The%20Vistarian%20Experience/Academic/Sci01.png)
+
 
 
 ### Highlights of Programmes
