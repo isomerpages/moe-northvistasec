@@ -16,7 +16,8 @@ The Science department aims to nurture our students to have a lifelong passion f
 
 Our curriculum is designed to Engage, Excite and Enrich students’ learning. These learning experiences are conducted in and beyond the classrooms and Science laboratories. Various teaching strategies are used to cater to the varying needs of students. Student learning is carefully monitored by our team of dedicated teachers, and gaps in learning are closed in a timely manner so that students can advance in their learning.
 
-![](/images/sci1.png)
+
+
 ![](/images/The%20Vistarian%20Experience/Academic/Sci01.png)
 
 
@@ -44,4 +45,11 @@ Students are provided opportunities to embark on Science Learning Journeys to wi
 Through Science Competitions, students get the opportunity to pursue and deepen their interest in Science, while challenging themselves to step out of their comfort zone and stretch their potential.
 
 
-<img src="/images/The%20Vistarian%20Experience/Academic/Science2.jpg" style="width:80%">
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCIB1.jpg">
+    <figcaption><strong>This was the old school building which Thomson Secondary shared with Gan Eng Seng Government Chinese Middle school </strong></figcaption>
+</figure>
+
+
+<img src="/images/The%20Vistarian%20Experience/Academic/Science2.jpg">
