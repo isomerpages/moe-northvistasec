@@ -47,9 +47,21 @@ Through Science Competitions, students get the opportunity to pursue and deepen 
 
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/Academic/SCIB1.jpg">
-    <figcaption><strong>This was the old school building which Thomson Secondary shared with Gan Eng Seng Government Chinese Middle school </strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCIB1.jpg" style="width:80%">
+    <figcaption><strong>Science Buskers’ Festival 2024</strong></figcaption>
 </figure>
 
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCIB2.jpg" style="width:80%">
+    <figcaption><strong>Science Buskers’ Festival 2024</strong></figcaption>
+</figure>
 
-<img src="/images/The%20Vistarian%20Experience/Academic/Science2.jpg">
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCITP1.jpg" style="width:100%">
+    <figcaption><strong>Participants of the Temasek Polytechnic Engineering Olympiad 2024</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/Academic/SCISO1.jpg" style="width:100%">
+    <figcaption><strong>Participants of the Science Olympiad 2024</strong></figcaption>
+</figure>
