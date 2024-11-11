@@ -34,7 +34,9 @@ Our school’s Applied Learning Programme (ALP) provides students differentiated
 
 Students are provided opportunities to embark on Science Learning Journeys to witness the Science learned in their classrooms come alive in the real world. This allows students deepen their Science knowledge and build connections between their knowledge with the world around them. 
 
+![](/images/The%20Vistarian%20Experience/Academic/SCILJ1.jpg)
 
+![](/images/The%20Vistarian%20Experience/Academic/SCILJ2.jpg)
 
 
 **Students at various Science Competitions**
