@@ -41,10 +41,7 @@ Students are provided opportunities to embark on Science Learning Journeys to wi
 
 **Students at various Science Competitions**
 
-Students are provided with opportunities to pursue and deepen their interest in Science through competitions such as the Science Buskers' Festival and the National STEM Championship organised by the Science Center
+Through Science Competitions, students get the opportunity to pursue and deepen their interest in Science, while challenging themselves to step out of their comfort zone and stretch their potential.
 
-![](/images/sci9.png)
-![](/images/sci10.png)
-![](/images/sci11.png)
-![](/images/sci-22-10.jpg) <br>
+
 <img src="/images/The%20Vistarian%20Experience/Academic/Science2.jpg" style="width:80%">
