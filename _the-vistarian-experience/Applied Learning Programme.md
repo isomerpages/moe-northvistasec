@@ -79,7 +79,7 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP7.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Harvesting_Complete.png" style="width:80%">
     <figcaption><strong>Harvesting completed</strong></figcaption>
 </figure>
 
