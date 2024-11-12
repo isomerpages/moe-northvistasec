@@ -64,11 +64,6 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP3.jpg" style="width:80%">
-    <figcaption><strong>Farm-To-Table workshop for Secondary 1 students conducted by our NV Staff </strong></figcaption>
-</figure>
-
-<figure>
     <img src="/images/The%20Vistarian%20Experience/ALP/ALP4.jpg" style="width:80%">
     <figcaption><strong></strong></figcaption>Weeding – a test of resilience
 </figure>
