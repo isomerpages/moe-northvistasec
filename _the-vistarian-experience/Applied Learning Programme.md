@@ -89,11 +89,6 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Minister_Chan_Chun_Sing.jpg" style="width:80%">
-    <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
-</figure>
-
-<figure>
     <img src="/images/The%20Vistarian%20Experience/ALP/ALP9.jpg" style="width:80%">
     <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
 </figure>
@@ -136,6 +131,11 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 <figure>
     <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP7.jpg" style="width:80%">
     <figcaption><strong>Sharing about the NV’s ALP High Tech Farming experience with Minister Chan Chun Sing</strong></figcaption>
+</figure>
+
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Minister_Chan_Chun_Sing.jpg" style="width:80%">
+    <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
 </figure>
 
 <strong><center>Secondary 3 (Tier 2 Programme)</center></strong>
