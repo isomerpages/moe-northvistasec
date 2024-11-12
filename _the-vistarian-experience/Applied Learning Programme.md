@@ -153,11 +153,7 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP3.jpg" style="width:60%">
-    <figcaption><strong>Displaying the school value of Care by performing weekly maintenance for the plants till they are ready for harvest</strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Fertilising.png" style="width:60%">
+    <figcaption><strong>Students and overseas youth leaders from Singapore International Foundation fertilising the spice garden with harvest compost	</strong></figcaption>
 </figure>
 
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP4.jpg" style="width:80%">
-    <figcaption><strong>The fruit of their labour (okra and corn) by Secondary 3 Biology students</strong></figcaption>
-</figure>
