@@ -104,7 +104,7 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 <strong><center>Secondary 2 – From Farm-To-Table Programme (Using High Tech Farming Methods - Hydroponics)</center></strong>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP1.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Assembling_the_system.png" style="width:50%">
     <figcaption><strong>Assembling the class’s hydroponics system</strong></figcaption>
 </figure>
 
