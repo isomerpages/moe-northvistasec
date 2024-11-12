@@ -148,8 +148,8 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP2.jpg" style="width:60%">
-    <figcaption><strong>Transplanting young plants</strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Calibration.png" style="width:80%">
+    <figcaption><strong>Using water and sensor probes to calibrate the ideal moisture level for the tanks</strong></figcaption>
 </figure>
 
 <figure>
