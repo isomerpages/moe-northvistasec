@@ -59,13 +59,8 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP2.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/Pest_Prevention.jpg" style="width:80%">
     <figcaption><strong>Pest prevention and control </strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP3.jpg" style="width:80%">
-    <figcaption><strong>Farm-To-Table workshop for Secondary 1 students conducted by our NV Staff </strong></figcaption>
 </figure>
 
 <figure>
@@ -79,18 +74,17 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP6.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Harvesting_In_Progress.jpg" style="width:50%">
     <figcaption><strong>Harvesting in Progress </strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP7.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Harvesting_Complete.png" style="width:80%">
     <figcaption><strong>Harvesting completed</strong></figcaption>
 </figure>
 
 <figure>
     <img src="/images/The%20Vistarian%20Experience/ALP/ALP8.jpg" style="width:80%">
-    <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
 </figure>
 
 <figure>
@@ -104,7 +98,7 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 <strong><center>Secondary 2 – From Farm-To-Table Programme (Using High Tech Farming Methods - Hydroponics)</center></strong>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP1.jpg" style="width:80%">
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Assembling_the_system.png" style="width:50%">
     <figcaption><strong>Assembling the class’s hydroponics system</strong></figcaption>
 </figure>
 
@@ -135,29 +129,31 @@ The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
 
 <figure>
     <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP7.jpg" style="width:80%">
-    <figcaption><strong>Sharing about the NV’s ALP High Tech Farming experience with Minister Chan Chun Sing</strong></figcaption>
 </figure>
 
-
+<figure>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Minister_Chan_Chun_Sing.jpg" style="width:80%">
+    <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
+</figure>
 
 <strong><center>Secondary 3 (Tier 2 Programme)</center></strong>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP1.jpg" style="width:50%">
-    <figcaption><strong>Plots on Bloom Programme - Working hard to prepare soil beds. Getting it ready before transplanting takes place</strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Introducing.png" style="width:50%">
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP2.jpg" style="width:60%">
-    <figcaption><strong>Transplanting young plants</strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Introducing2.png" style="width:50%">
+    <figcaption><strong>Introducing the right mix of greens and browns to provide optimal conditions for worm growth</strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP3.jpg" style="width:60%">
-    <figcaption><strong>Displaying the school value of Care by performing weekly maintenance for the plants till they are ready for harvest</strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Calibration.png" style="width:80%">
+    <figcaption><strong>Using water and sensor probes to calibrate the ideal moisture level for the tanks</strong></figcaption>
 </figure>
 
 <figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S3ALP4.jpg" style="width:80%">
-    <figcaption><strong>The fruit of their labour (okra and corn) by Secondary 3 Biology students</strong></figcaption>
+    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Fertilising.png" style="width:60%">
+    <figcaption><strong>Students and overseas youth leaders from Singapore International Foundation fertilising the spice garden with harvest compost	</strong></figcaption>
 </figure>
+
