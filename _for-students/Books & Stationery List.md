@@ -4,7 +4,7 @@ permalink: /students/books-n-stationery-list/
 description: ""
 variant: markdown
 ---
-### Books & Stationery List for Year 2024
+### Books & Stationery List for Year 2025
 
 * [Secondary 1](/files/For%20Students/Books%20&%20Stationery%20List/Sec_1.pdf)
 * [Secondary 2](/files/For%20Students/Books%20&%20Stationery%20List/Sec_2.pdf)
