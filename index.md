@@ -18,9 +18,6 @@ sections:
         - title: NV Cares
           description: VIA Highlights
           url: https://sites.google.com/view/nvcares
-        - title: Direct School Admission (DSA)
-          description: How to apply
-          url: https://northvistasec.moe.edu.sg/howtoapply/
       title: Testing
       variant: image
   - infopic:
