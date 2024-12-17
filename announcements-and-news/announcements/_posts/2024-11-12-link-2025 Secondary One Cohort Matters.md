@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://sites.google.com/moe.edu.sg/2024-sec-1cohort-information/home
+external: https://sites.google.com/moe.edu.sg/2025-sec-1cohort-information/home
 ---
