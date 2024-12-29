@@ -6,11 +6,11 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/For Students/2024_Sem_2_Timetable_CLASSv3.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable by Class</a>(Updated
-5 JUL 2024)</p>
+<p><a href="https://drive.google.com/drive/folders/12d6uWQgtGn9yTnUgPPDnstdxthmV8F3O" rel="noopener nofollow" target="_blank">Timetable by class</a> (Updated
+30/12/2024)</p>
 </li>
 </ul>
-<h3>Semester 2, 2024</h3>
+<h3>Semester 1, 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,82 +27,90 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T3W1: 24 – 28 Jun</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T3W2: 1 – 5 Jul</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T3W3: 8 – 12 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T3W4: 15 – 19 Jul</p>
+<p>T1W0: 2 - 3 Jan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T3W5: 22 – 26 Jul</p>
+<p>T1W1: 6 – 10 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T3W6: 29 Jul – 2 Aug</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T3W7: 5 – 9 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T3W8: 12 – 16 Aug</p>
+<p>T1W2: 13 - 17 Jan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T3W9: 19 – 23 Aug</p>
+<p>T1W3: 20 - 24 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T3W10: 26 – 30 Aug</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4W1: 9 – 13 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T4W2: 16 – 20 Sep</p>
+<p>T1W4: 27 - 31 Jan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T4W3: 23 – 27 Sep</p>
+<p>T1W5: 3 - 7 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T4W4: 30 Sep – 4 Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4W5: 7 – 11 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T4W6: 14 – 18 Oct</p>
+<p>T1W6: 10 - 14 Feb</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T4W7: 21 – 25 Oct</p>
+<p>T1W7: 17 - 21 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>T1W8: 24 - 28 Feb</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>T1W9: 3 - 7 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>T1W10: 10 - 14 Mar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W1: 24 - 28 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T2W2: 31 Mar - 4 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W3: 7 - 11 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T2W4: 14 - 18 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W5: 21 - 25 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T2W6: 28 Apr - 2 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W7: 5 - 9 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T2W8: 12 - 16 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2W9: 19 - 23 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T2W10: 26 - 30 May</p>
 </td>
 </tr>
 </tbody>
@@ -260,6 +268,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HUM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LS</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,10 +316,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PHE</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical Health</p>
+<p>Physical Education</p>
 </td>
 </tr>
 <tr>
