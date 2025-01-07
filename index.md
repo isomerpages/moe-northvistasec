@@ -4,7 +4,9 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Release Of The 2024 Singapore-Cambridge GCE O-Level Examination
+  Results On 10 January 2025 (Friday). Refer to Announcements & News page below
+  for more information.
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
