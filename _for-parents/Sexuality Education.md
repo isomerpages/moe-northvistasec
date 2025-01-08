@@ -272,7 +272,7 @@ b. Character and Citizenship Education (CCE)
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;
   
 
-### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2024:
+### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2025:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -304,7 +304,7 @@ b)	Managing relationships and risky situations in a healthy way.
   <tr>
     <td class="tg-0lax">Classroom-based Lesson</td>
     <td class="tg-0lax">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td>
-    <td class="tg-baqh">Term 2 Week 3</td>
+    <td class="tg-baqh">Term 2 Week 2</td>
   </tr>
 </tbody>
 </table>
