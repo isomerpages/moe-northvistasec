@@ -130,12 +130,12 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">Online Safety Challenge <br>Lesson 2A</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">•	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline </td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 3</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 2</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">Do I or Don't I <br>Lesson 2B</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">·    Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·  Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 5</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 4</span></td>
   </tr>
 </tbody>
 </table>
@@ -178,7 +178,7 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-baqh">When Respect Takes Centre Stage <br>Lesson 2<br>(60 mins)</td>
     <td class="tg-0lax">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-baqh">Term 2 Week 8</td>
+    <td class="tg-baqh">Term 3 Week 1</td>
   </tr>
 </tbody>
 </table>
@@ -216,18 +216,18 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-7yig">When Love Hurts <br>Lesson 2<br>(60 mins)</td>
     <td class="tg-ktyi">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
-    <td class="tg-7yig">Term 2 Week 1</td>
+    <td class="tg-7yig">Term 1 Week 9</td>
   </tr>
   <tr>
     <td class="tg-7yig">For Better or For Worse <br>Lesson 3<br>(60 mins)</td>
     <td class="tg-ktyi">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
-    <td class="tg-7yig">Term 2 Week 3</td>
+    <td class="tg-7yig">Term 1 Week 10</td>
   </tr>
   <tr>
     <td class="tg-7yig"> </td>
     <td class="tg-7yig">There's Always More to a Story <br>Lesson 4<br>(60 mins)</td>
     <td class="tg-ktyi">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-7yig">Term 2 Week 4</td>
+    <td class="tg-7yig">Term 2 Week 1</td>
   </tr>
 </tbody>
 </table>
