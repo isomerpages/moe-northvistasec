@@ -32,7 +32,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
   
 
-### Overview of North Vista Secondary School's Sexuality Education Programme for 2024
+### Overview of North Vista Secondary School's Sexuality Education Programme for 2025
 
   
 
@@ -53,7 +53,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2024: &nbsp;
+### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2025: &nbsp;
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -83,17 +83,17 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-baqh" rowspan="3"><span style="font-weight:normal">Respectful Relationships &amp; Safety</span><br><span style="font-weight:normal"> </span><br><span style="font-weight:normal"> </span></td>
     <td class="tg-baqh"><span style="font-weight:normal">Steady or Not <br>Lesson 1</span><br>(60 mins)</td>
     <td class="tg-0lax">·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 1</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 7</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">Being Aware, Being Safe <br>Lesson 2</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">·         Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 6</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 8</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">More than Meets the Eye <br>Lesson 3</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
-    <td class="tg-7yig"><span style="font-weight:normal;background-color:#FFF">Term 3 Week 8</span></td>
+    <td class="tg-7yig"><span style="font-weight:normal;background-color:#FFF">Term 3 Week 9</span></td>
   </tr>
 </tbody>
 </table>
