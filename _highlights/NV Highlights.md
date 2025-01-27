@@ -69,7 +69,7 @@ variant: tiptap
 </ul>
 <p><strong>National School Games 2023/2024</strong>
 </p>
-<p><a href="https://www.northvistasec.moe.edu.sg/announcements-and-news/news/nsg2024fixtureresult/" rel="noopener noreferrer nofollow" target="_blank">NSG Fixtures and Results 2024</a>
+<p><a href="https://docs.google.com/presentation/d/15xEYcCmDVduiM_oFrB_Z1UJXoRkvD3vJ_zqaWuPBdtA/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2025 Fixtures and Results</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
