@@ -8,15 +8,16 @@ variant: markdown
 
 #### **B Division Basketball (Boys)** - 2025
 
-**A Gritty Comeback for 3rd Place**
+![](/images/NV%20Highlights/Basketball%20(Boys)/Basketball_Boys_2025_1.jpg)
 
+**A Gritty Comeback for 3rd Place**
 
 Our boys faced Yishun Town Secondary School (YTSS) once again in a thrilling battle for 3rd place. Having narrowly lost to YTSS in the quarter-finals (53-57 in overtime), they were eager for redemption. This time, the teams were evenly matched, ending regulation time in a draw. In a nail-biting overtime period, our boys fought hard and emerged victorious with an 86-82 win!
 
 
 #### **C Division Basketball (Boys)** - 2023
 
-![](/images/NV%20Highlights/nsg%20c%20boys%20basketball%201.JPG)
+![](/images/NV%20Highlights/Basketball%20(Boys)/nsg%20c%20boys%20basketball%201.JPG)
 
 NSG North Zone C Division Boys Basketball Championship 
 
