@@ -67,13 +67,17 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>National School Games 2023/2024</strong>
+<p><strong>National School Games '23/'24/'25</strong>
 </p>
 <p><a href="https://docs.google.com/presentation/d/15xEYcCmDVduiM_oFrB_Z1UJXoRkvD3vJ_zqaWuPBdtA/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2025 Fixtures and Results</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="nsgbasketballgirls" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls) - 2024</a>
+<p><a href="nsgbasketballgirls" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls) - 2025</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsgbasketballboys/" rel="noopener nofollow" target="_blank">Basketball (Boys) - 2025</a>
 </p>
 </li>
 <li>
@@ -86,10 +90,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="crosscountry" rel="noopener noreferrer nofollow" target="_blank">Cross Country Championships - 2023</a>
-</p>
-</li>
-<li>
-<p><a href="nsgbasketballboys" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys) - 2023</a>
 </p>
 </li>
 <li>
