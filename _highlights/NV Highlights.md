@@ -81,6 +81,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball - 2025</a>
+</p>
+</li>
+<li>
 <p><a href="nsgfootball" rel="noopener noreferrer nofollow" target="_blank">Football - 2024</a>
 </p>
 </li>
@@ -99,10 +103,7 @@ variant: tiptap
 <li>
 <p><a href="nsgsailingswimmingshooting" rel="noopener noreferrer nofollow" target="_blank">Sailing, Swimming and Shooting - 2023</a>
 </p>
-</li>
-<li>
-<p><a href="nsg2023netball" rel="noopener noreferrer nofollow" target="_blank">Netball - 2023</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
