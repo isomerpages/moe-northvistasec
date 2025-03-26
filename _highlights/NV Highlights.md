@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>Singapore Youth Festival 2023/2024</strong>
+<p><strong>Singapore Youth Festival '23/'24</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
