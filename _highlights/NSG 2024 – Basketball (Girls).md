@@ -5,7 +5,36 @@ description: ""
 variant: tiptap
 ---
 <h3>NSG Basketball Championship (Girls)</h3>
-<h5><strong>B Division Basketball Championship (Girls)</strong></h5>
+<p></p>
+<h5><strong>B Division Basketball Championship - 2025</strong></h5>
+<p>We are proud to announce that our B Division Basketball Boys and Girls
+teams delivered outstanding performances at the North Zone Basketball Championship!
+Both teams made it to the finals on Monday, 10 March 2025, at the Singapore
+Basketball Centre, showcasing their talent, resilience, and determination.</p>
+<p><strong>Boys' Team – A Gritty Comeback for 3rd Place</strong>
+</p>
+<p><strong>&lt;photo&gt;</strong>
+</p>
+<p>Our boys faced Yishun Town Secondary School (YTSS) once again in a thrilling
+battle for 3rd place. Having narrowly lost to YTSS in the quarter-finals
+(53-57 in overtime), they were eager for redemption. This time, the teams
+were evenly matched, ending regulation time in a draw. In a nail-biting
+overtime period, our boys fought hard and emerged victorious with an 86-82
+win!</p>
+<p></p>
+<p><strong>Girls' Team – North Zone Champions</strong>
+</p>
+<p><strong>&lt;photo&gt;</strong>
+</p>
+<p>Our girls took on YTSS in the championship final and faced a tough start,
+trailing by double digits in the first quarter. Undeterred, they displayed
+incredible perseverance, tightening their defense and steadily closing
+the gap. Spurred on by our enthusiastic supporters, they surged ahead to
+secure a dominant 63-49 victory, claiming the North Zone Championship title!</p>
+<p></p>
+<p></p>
+<p></p>
+<h5><strong>B Division Basketball Championship (Girls) - 2024</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Basketball (Girls)/Basketball_Girls_1.jpg">
 </div>
