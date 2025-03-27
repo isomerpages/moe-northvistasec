@@ -1,11 +1,27 @@
 ---
-title: NSG 2024 – Basketball (Girls)
+title: NSG 2025 – Basketball (Girls)
 permalink: /highlights/nsgbasketballgirls/
 description: ""
 variant: tiptap
 ---
 <h3>NSG Basketball Championship (Girls)</h3>
-<h5><strong>B Division Basketball Championship (Girls)</strong></h5>
+<p></p>
+<h5><strong>B Division Basketball Championship (Girls) - 2025</strong></h5>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Basketball (Girls)/Basketball_Girls_1_2025.jpg">
+</div>
+<p>Our girls took on YTSS in the championship final and faced a tough start,
+trailing by double digits in the first quarter. Undeterred, they displayed
+incredible perseverance, tightening their defense and steadily closing
+the gap. Spurred on by our enthusiastic supporters, they surged ahead to
+secure a dominant 63-49 victory, claiming the North Zone Championship title!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Basketball (Girls)/Basketball_Girls_2_2025.jpg">
+</div>
+<p></p>
+<h5><strong>B Division Basketball Championship (Girls) - 2024</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Basketball (Girls)/Basketball_Girls_1.jpg">
 </div>
