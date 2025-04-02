@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Netball/Netball_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Netball/Netball_3.jpg">
 </div>
 <p>We are delighted to announce that our Netball B Girls have made history
 by winning their first-ever North Zone Netball Championship title! Their
