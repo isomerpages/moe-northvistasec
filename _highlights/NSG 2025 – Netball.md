@@ -7,7 +7,7 @@ variant: tiptap
 <h3><strong>B Division Netball Championship - 2025</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Netball/Netball_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Netball/Netball_3.jpg">
 </div>
 <p><strong>Netball B Girls Make History as North Zone Champions!</strong>
 </p>
