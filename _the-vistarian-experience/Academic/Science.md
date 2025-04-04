@@ -139,23 +139,3 @@ out of their comfort zone and stretch their potential.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/SCIB1.jpg">
-</div>
-<p><strong>Science Buskers’ Festival 2024</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/SCIB2.jpg">
-</div>
-<p><strong>Science Buskers’ Festival 2024</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/SCITP1.jpg">
-</div>
-<p><strong>Participants of the Temasek Polytechnic Engineering Olympiad 2024</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/SCISO1.jpg">
-</div>
-<p><strong>Participants of the Science Olympiad 2024</strong>
-</p>
