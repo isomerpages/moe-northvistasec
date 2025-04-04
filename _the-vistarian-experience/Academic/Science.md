@@ -139,3 +139,7 @@ out of their comfort zone and stretch their potential.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Sci_Comp_2025.jpg">
+</div>
+<p></p>
