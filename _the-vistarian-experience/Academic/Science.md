@@ -27,8 +27,9 @@ Science laboratories. Various teaching strategies are used to cater to
 the varying needs of students. Student learning is carefully monitored
 by our team of dedicated teachers, and gaps in learning are closed in a
 timely manner so that students can advance in their learning.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Vistarian%20Experience/Academic/Sci01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_Classroom_2025.jpg">
 </div>
 <h3>Highlights of Programmes</h3>
 <p><strong>Support School’s Farm to Table Applied Learning Programme</strong>
@@ -141,5 +142,11 @@ out of their comfort zone and stretch their potential.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Sci_Comp_2025.jpg">
+</div>
+<p><strong>National STEM Championship 2025</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_NSTEMC.jpg">
 </div>
 <p></p>
