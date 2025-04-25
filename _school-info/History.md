@@ -28,7 +28,9 @@ As a strong believer in holistic learning experience for all his students, Thoms
 </figure>
 
 
-Thomson Secondary School saw the flourishing of a myriad of after school activities in the 1970’s. Thomson Secondary had a variety of after school activities for its students of which uniformed groups played a vital role. In 1970, a year after the transformation of Thomson Vocational School into Thomson Secondary School, the Swimming Club was formed.
+Thomson Secondary School saw the flourishing of a myriad of after school activities in the 1970’s. Thomson Secondary had a variety of after school activities for its students of which uniformed groups played a vital role. 
+
+In 1970, a year after the transformation of Thomson Vocational School into Thomson Secondary School, the Swimming Club was formed.
 
 1971 was a pivotal year for Thomson Secondary School which saw the introduction of several new afterschool activities. The School Military Band was first formed in 1972. It comprised 26 members.
 
