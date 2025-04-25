@@ -206,7 +206,7 @@ out of their comfort zone and stretch their potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Palcongan Shaniel Castillo</p>
+<p>PALCONGAN SHANIEL CASTILLO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4E1</p>
@@ -250,7 +250,7 @@ out of their comfort zone and stretch their potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aloysius Ng Qi YUAN</p>
+<p>ALOYSIUS Ng Qi YUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4E1</p>
