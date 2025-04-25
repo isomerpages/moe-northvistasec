@@ -145,8 +145,124 @@ out of their comfort zone and stretch their potential.</p>
 </div>
 <p><strong>National STEM Championship 2025</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_NSTEMC.jpg">
+</div>
+<p><strong>45th C.B. Paul Science Quiz 2025</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHUA ZEE XUAN, EVANGELINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YAN LING JOEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRYAN TAN JUN RUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Palcongan Shaniel Castillo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEO JIA XUAN VALERIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARIEL LEE JIA EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIA HUI TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aloysius Ng Qi YUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_CB_Paul_Comp_2025.jpg">
 </div>
 <p></p>
