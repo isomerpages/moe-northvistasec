@@ -17,5 +17,5 @@ will be shortlisted/given an offer.</p>
 DSA coordinator via phone or email.</p>
 <p>• Mr Javier Yon (HOD PE/CCA)</p>
 <p>Telephone: 6879 3930 Email: northvistass@moe.edu.sg (Subject: DSA Enquiries)</p>
-<p>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> 
+<p>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
