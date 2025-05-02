@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Direct School Admission (DSA)
 ---
 <h3><strong>Selection (Trial/Audition requirements)</strong></h3>
-<p>The selection period is from 24 June 2024 – 30 August 2024.</p>
+<p>The selection period is from 30 June 2025 – 4 September 2025.</p>
 <p>Shortlisted applicants will be informed via telephone or email to attend
 a trial/audition for sports or performing arts. <strong>An informal interview will be conducted with shortlisted applicants after the trial/audition.</strong>
 </p>
@@ -22,8 +22,9 @@ a trial/audition for sports or performing arts. <strong>An informal interview wi
 <p>held leadership positions in school</p>
 </li>
 </ul>
-<p>Applicants with non-school based activities and achievements will also
-be considered.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
 <p>The requirements for the talent areas are as follow:</p>
 <table style="minWidth: 50px">
 <colgroup>
