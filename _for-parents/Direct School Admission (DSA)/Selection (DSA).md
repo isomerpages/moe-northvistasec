@@ -177,7 +177,7 @@ of freestyling to the music
 <br>
 <br>
 </p>
-<p><em>*hip hop, jazz, contemporary or modern<br><br></em>
+<p><em>*hip hop or street dance<br><br></em>
 </p>
 <p></p>
 </td>
