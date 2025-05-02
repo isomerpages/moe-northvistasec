@@ -5,11 +5,16 @@ description: ""
 variant: tiptap
 third_nav_title: Direct School Admission (DSA)
 ---
-<p>All applicants will apply for DSA-Sec through a centralized DSA-Sec Portal.
-The DSA-Sec website is as follows: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge.</p>
+<p>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>The details are as follow:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -17,7 +22,7 @@ The DSA-Sec website is as follows: <a href="www.moe.gov.sg/dsa-sec" rel="noopene
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2024, 11am – 3 June 2024, 3pm</p>
+<p>7 May 2025, 11am – 3 June 2025, 3pm</p>
 </td>
 </tr>
 <tr>
@@ -29,9 +34,7 @@ The DSA-Sec website is as follows: <a href="www.moe.gov.sg/dsa-sec" rel="noopene
 <p><strong>Applicants from MOE mainstream primary schools:</strong>
 <br>
 <br>• Parent may log in directly to DSA-Sec Portal
-<br>
 <br>• Only one parent’s SingPass is needed to log in
-<br>
 <br>• If parent/guardian is unable to apply online, please approach the child’s
 primary school for assistance.
 <br>
@@ -41,12 +44,9 @@ primary school for assistance.
 <br>
 <br>• Please apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
 Portal
-<br>
 <br>• Please refer to MOE website: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -66,11 +66,9 @@ Portal
 </td>
 <td rowspan="1" colspan="1">
 <p>• Valid email address and local mobile number
-<br>
-<br>• Applicants studying in mainstream primary schools will have their primary
-school information shared directly with DSA-Sec schools that they apply
-to
-<br>&nbsp;
+<br>• Applicants studying in MOE mainstream primary schools will have their
+primary school information shared directly with DSA-Sec schools that they
+apply to
 <br>• Optional to indicate non-school-based activities and achievements</p>
 </td>
 </tr>
