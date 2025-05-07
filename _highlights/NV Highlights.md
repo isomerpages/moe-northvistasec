@@ -47,15 +47,15 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/syfsymphonicband/" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band [2025]</a>
+</p>
+</li>
+<li>
 <p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
 </p>
 </li>
 <li>
 <p><a href="chinesedancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
-</p>
-</li>
-<li>
-<p><a href="syf2023symphonicband" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band</a>
 </p>
 </li>
 <li>
