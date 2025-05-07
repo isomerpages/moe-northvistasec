@@ -51,15 +51,15 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/syfchoir/" rel="noopener noreferrer nofollow" target="_blank">Choir [2025]</a>
+</p>
+</li>
+<li>
 <p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
 </p>
 </li>
 <li>
 <p><a href="chinesedancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
-</p>
-</li>
-<li>
-<p><a href="syf2023choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </li>
 <li>
