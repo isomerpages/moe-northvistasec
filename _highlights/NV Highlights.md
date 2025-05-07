@@ -43,11 +43,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://northvistasec.moe.edu.sg/highlights/syfstrings/" rel="noopener noreferrer nofollow" target="_blank">String Ensemble (2025)</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/syfstrings/" rel="noopener noreferrer nofollow" target="_blank">String Ensemble [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance </a>
+<p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
 </p>
 </li>
 <li>
@@ -55,15 +55,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="syf2023symphonicband" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band </a>
+<p><a href="syf2023symphonicband" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band</a>
 </p>
 </li>
 <li>
-<p><a href="syf2023choir" rel="noopener noreferrer nofollow" target="_blank">Choir </a>
+<p><a href="syf2023choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </li>
 <li>
-<p><a href="syf2023drama" rel="noopener noreferrer nofollow" target="_blank">Drama </a>
+<p><a href="syf2023drama" rel="noopener noreferrer nofollow" target="_blank">Drama</a>
 </p>
 </li>
 </ul>
@@ -73,27 +73,27 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="nsgbasketballgirls" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls) - 2025</a>
+<p><a href="nsgbasketballgirls" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls) [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsgbasketballboys/" rel="noopener nofollow" target="_blank">Basketball (Boys) - 2025</a>
+<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsgbasketballboys/" rel="noopener nofollow" target="_blank">Basketball (Boys) [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball - 2025</a>
+<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="nsgfootball" rel="noopener noreferrer nofollow" target="_blank">Football </a>
+<p><a href="nsgfootball" rel="noopener noreferrer nofollow" target="_blank">Football</a>
 </p>
 </li>
 <li>
-<p><a href="https://northvistasec.moe.edu.sg/highlights/nsggolf2024/" rel="noopener noreferrer nofollow" target="_blank">Golf </a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/nsggolf2024/" rel="noopener noreferrer nofollow" target="_blank">Golf</a>
 </p>
 </li>
 <li>
-<p><a href="crosscountry" rel="noopener noreferrer nofollow" target="_blank">Cross Country Championships </a>
+<p><a href="crosscountry" rel="noopener noreferrer nofollow" target="_blank">Cross Country Championships</a>
 </p>
 </li>
 <li>
@@ -103,7 +103,6 @@ variant: tiptap
 <li>
 <p><a href="nsgsailingswimmingshooting" rel="noopener noreferrer nofollow" target="_blank">Sailing, Swimming and Shooting</a>
 </p>
-<p></p>
 </li>
 </ul>
 <p></p>
