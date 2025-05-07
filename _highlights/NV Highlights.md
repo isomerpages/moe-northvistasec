@@ -39,71 +39,70 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>Singapore Youth Festival '23/'24</strong>
+<p><strong>Singapore Youth Festival</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="syf2023strings" rel="noopener noreferrer nofollow" target="_blank">String Ensemble - 2023</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/syfstrings/" rel="noopener noreferrer nofollow" target="_blank">String Ensemble [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance - 2023</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/syfsymphonicband/" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="chinesedancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance - 2023</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/syfchoir/" rel="noopener noreferrer nofollow" target="_blank">Choir [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="syf2023symphonicband" rel="noopener noreferrer nofollow" target="_blank">Symphonic Band - 2023</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/syfdrama/" rel="noopener noreferrer nofollow" target="_blank">Drama [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="syf2023choir" rel="noopener noreferrer nofollow" target="_blank">Choir - 2023</a>
+<p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
 </p>
 </li>
 <li>
-<p><a href="syf2023drama" rel="noopener noreferrer nofollow" target="_blank">Drama - 2023</a>
+<p><a href="chinesedancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
 </p>
 </li>
 </ul>
-<p><strong>National School Games '23/'24/'25</strong>
+<p><strong>National School Games</strong>
 </p>
 <p><a href="https://docs.google.com/presentation/d/15xEYcCmDVduiM_oFrB_Z1UJXoRkvD3vJ_zqaWuPBdtA/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2025 Fixtures and Results</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="nsgbasketballgirls" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls) - 2025</a>
+<p><a href="nsgbasketballgirls" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls) [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsgbasketballboys/" rel="noopener nofollow" target="_blank">Basketball (Boys) - 2025</a>
+<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsgbasketballboys/" rel="noopener nofollow" target="_blank">Basketball (Boys) [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball - 2025</a>
+<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="nsgfootball" rel="noopener noreferrer nofollow" target="_blank">Football - 2024</a>
+<p><a href="nsgfootball" rel="noopener noreferrer nofollow" target="_blank">Football</a>
 </p>
 </li>
 <li>
-<p><a href="https://northvistasec.moe.edu.sg/highlights/nsggolf2024/" rel="noopener noreferrer nofollow" target="_blank">Golf - 2024</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/nsggolf2024/" rel="noopener noreferrer nofollow" target="_blank">Golf</a>
 </p>
 </li>
 <li>
-<p><a href="crosscountry" rel="noopener noreferrer nofollow" target="_blank">Cross Country Championships - 2023</a>
+<p><a href="crosscountry" rel="noopener noreferrer nofollow" target="_blank">Cross Country Championships</a>
 </p>
 </li>
 <li>
-<p><a href="nsg2023taekwondo" rel="noopener noreferrer nofollow" target="_blank">Taekwondo 2023</a>
+<p><a href="nsg2023taekwondo" rel="noopener noreferrer nofollow" target="_blank">Taekwondo</a>
 </p>
 </li>
 <li>
-<p><a href="nsgsailingswimmingshooting" rel="noopener noreferrer nofollow" target="_blank">Sailing, Swimming and Shooting - 2023</a>
+<p><a href="nsgsailingswimmingshooting" rel="noopener noreferrer nofollow" target="_blank">Sailing, Swimming and Shooting</a>
 </p>
-<p></p>
 </li>
 </ul>
 <p></p>
