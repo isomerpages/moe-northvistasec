@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>Singapore Youth Festival '23/'24</strong>
+<p><strong>Singapore Youth Festival</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -67,7 +67,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>National School Games '23/'24/'25</strong>
+<p><strong>National School Games </strong>
 </p>
 <p><a href="https://docs.google.com/presentation/d/15xEYcCmDVduiM_oFrB_Z1UJXoRkvD3vJ_zqaWuPBdtA/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2025 Fixtures and Results</a>
 </p>
