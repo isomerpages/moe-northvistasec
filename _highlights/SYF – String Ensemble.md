@@ -4,7 +4,7 @@ permalink: /highlights/syfstrings/
 description: ""
 variant: tiptap
 ---
-<h4><strong>SYF 2025 Arts Presentation for Instrumental Ensemble </strong></h4>
+<h4><strong>SYF 2025 Arts Presentation for Instrumental Ensemble</strong></h4>
 <p></p>
 <p>Our String Ensemble CCA members participated in the SYF Arts Presentation
 for Instrumental Ensemble on Wednesday, 2 April, at School of the Arts
@@ -15,7 +15,7 @@ by NORMAN LEYDON]</p>
 <p>We are proud to announce that our Ensemble achieved a Certificate of Accomplishment.</p>
 <p></p>
 <p></p>
-<h4><strong>SYF 2023 Arts Presentation for Instrumental Ensemble </strong></h4>
+<h4><strong>SYF 2023 Arts Presentation for Instrumental Ensemble</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/stringcollage.JPG">
 </div>
