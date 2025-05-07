@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="syf2023strings" rel="noopener noreferrer nofollow" target="_blank">String Ensemble - 2023</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/syfstrings/" rel="noopener noreferrer nofollow" target="_blank">String Ensemble - 2025</a>
 </p>
 </li>
 <li>
@@ -67,7 +67,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>National School Games </strong>
+<p><strong>National School Games</strong>
 </p>
 <p><a href="https://docs.google.com/presentation/d/15xEYcCmDVduiM_oFrB_Z1UJXoRkvD3vJ_zqaWuPBdtA/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2025 Fixtures and Results</a>
 </p>
