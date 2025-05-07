@@ -12,9 +12,31 @@ variant: tiptap
 <p>Our String Ensemble CCA members participated in the SYF Arts Presentation
 for Instrumental Ensemble on Wednesday, 2 April, at School of the Arts
 Singapore (SOTA). Our ensemble performed the following pieces:</p>
-<p><strong>Title:</strong> FUGUE (SERENADE FOR STRING ORCHESTRA) [Composed
-by NORMAN LEYDON]</p>
-<p><strong>Title:</strong> ANDANTE FESTIVO [Composed by JEAN SIBELIUS]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Title: </strong>FUGUE (SERENADE FOR STRING ORCHESTRA)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Title:</strong> ANDANTE FESTIVO</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Composed by NORMAN LEYDON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Composed by JEAN SIBELIUS</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>We are proud to announce that our Ensemble achieved a Certificate of Accomplishment.</p>
 <p></p>
 <p></p>
