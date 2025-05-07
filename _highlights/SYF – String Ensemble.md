@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h4><strong>SYF 2025 Arts Presentation for Instrumental Ensemble</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Strings/String_Ensemble_SYF_2025.png">
+</div>
 <p>Our String Ensemble CCA members participated in the SYF Arts Presentation
 for Instrumental Ensemble on Wednesday, 2 April, at School of the Arts
 Singapore (SOTA). Our ensemble performed the following pieces:</p>
