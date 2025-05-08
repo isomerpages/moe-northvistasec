@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://northvistasec.moe.edu.sg/highlights/chinesedancesyf/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/chinesedancesyf/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance [2025]</a>
 </p>
 </li>
 <li>
