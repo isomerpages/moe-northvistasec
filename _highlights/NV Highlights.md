@@ -7,38 +7,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/highlightscollage.JPG">
 </div>
-<p><strong>Highlights</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://northvistasec.moe.edu.sg/performance-at-the-world-down-syndrome-day/" rel="noopener noreferrer nofollow" target="_blank">Performance at the World Down Syndrome Day 2024</a>
-</p>
-</li>
-<li>
-<p><a href="https://northvistasec.moe.edu.sg/highlights/sjbfirstaid2024/" rel="noopener noreferrer nofollow" target="_blank">St John Brigade (SJB) – District First Aid Competition 2024</a>
-</p>
-</li>
-<li>
-<p><a href="safmc2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Amazing Flying Machine Competition 2023</a>
-</p>
-</li>
-<li>
-<p><a href="tcpaf" rel="noopener noreferrer nofollow" target="_blank">NV Band - Tampines Central Passion Arts Festival</a>
-</p>
-</li>
-<li>
-<p><a href="nsgmediafeature" rel="noopener noreferrer nofollow" target="_blank">NSG Media Feature - Ashley Wee</a>
-</p>
-</li>
-<li>
-<p><a href="npccatc" rel="noopener noreferrer nofollow" target="_blank">NPCC – Adventure Training Camp (ATC)</a>
-</p>
-</li>
-<li>
-<p><a href="super24dancecomp" rel="noopener noreferrer nofollow" target="_blank">Modern Dance - Super 24 Dance Competition</a>
-</p>
-</li>
-</ul>
 <p><strong>Singapore Youth Festival</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -59,17 +27,16 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/chinesedancesyf/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance [2025]</a>
 </p>
 </li>
 <li>
-<p><a href="chinesedancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
+<p><a href="moderndancesyf2023" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
 </p>
 </li>
 </ul>
 <p><strong>National School Games</strong>
-</p>
-<p><a href="https://docs.google.com/presentation/d/15xEYcCmDVduiM_oFrB_Z1UJXoRkvD3vJ_zqaWuPBdtA/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2025 Fixtures and Results</a>
+<br><a href="https://docs.google.com/presentation/d/15xEYcCmDVduiM_oFrB_Z1UJXoRkvD3vJ_zqaWuPBdtA/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2025 Fixtures and Results</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -102,6 +69,39 @@ variant: tiptap
 </li>
 <li>
 <p><a href="nsgsailingswimmingshooting" rel="noopener noreferrer nofollow" target="_blank">Sailing, Swimming and Shooting</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Highlights</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://northvistasec.moe.edu.sg/performance-at-the-world-down-syndrome-day/" rel="noopener noreferrer nofollow" target="_blank">Performance at the World Down Syndrome Day 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/sjbfirstaid2024/" rel="noopener noreferrer nofollow" target="_blank">St John Brigade (SJB) – District First Aid Competition 2024</a>
+</p>
+</li>
+<li>
+<p><a href="safmc2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Amazing Flying Machine Competition 2023</a>
+</p>
+</li>
+<li>
+<p><a href="tcpaf" rel="noopener noreferrer nofollow" target="_blank">NV Band - Tampines Central Passion Arts Festival</a>
+</p>
+</li>
+<li>
+<p><a href="nsgmediafeature" rel="noopener noreferrer nofollow" target="_blank">NSG Media Feature - Ashley Wee</a>
+</p>
+</li>
+<li>
+<p><a href="npccatc" rel="noopener noreferrer nofollow" target="_blank">NPCC – Adventure Training Camp (ATC)</a>
+</p>
+</li>
+<li>
+<p><a href="super24dancecomp" rel="noopener noreferrer nofollow" target="_blank">Modern Dance - Super 24 Dance Competition</a>
 </p>
 </li>
 </ul>
