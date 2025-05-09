@@ -31,6 +31,9 @@ timely manner so that students can advance in their learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_Classroom_2025.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Sci_EEE1.png">
+</div>
 <h3>Highlights of Programmes</h3>
 <p><strong>Support School’s Farm to Table Applied Learning Programme</strong>
 </p>
