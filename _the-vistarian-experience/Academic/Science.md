@@ -52,8 +52,17 @@ to witness the Science learned in their classrooms come alive in the real
 world. This allows students deepen their Science knowledge and build connections
 between their knowledge with the world around them.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Sci_ELLJ_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Sci_ELLJ_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Vistarian%20Experience/Academic/SCILJ1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Vistarian%20Experience/Academic/SCILJ2.jpg">
 </div>
