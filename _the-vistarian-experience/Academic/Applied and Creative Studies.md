@@ -58,9 +58,49 @@ for themselves.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/creative%20studies3.png">
 </div>
 <h3>The NV Design &amp; Technology Experience</h3>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CkY9N-ggskY"></iframe>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/D_T_3d_printing_workshop_02.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p>DT students attended a 3D printing workshop to learn new technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/D_T_Drone_1_Student_trying_out_Drone_Simulator.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student trying out drone simulator to prepare for drone competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/D_T_Visit_to_Enabling_Village.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students visited the Enabling Village to deepen their understanding of
+user empathy in design thinking</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Design and technology is the study of the production of man-made objects
 to solve real human needs. The production of these objects is carried out
 through the creative disciplined strategy called the design thinking process
