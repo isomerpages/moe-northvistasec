@@ -4,8 +4,7 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: Find out more about the upcoming Vistarian Road Run 2025 under
-  'Announcements & News'
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
