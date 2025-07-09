@@ -278,3 +278,10 @@ out of their comfort zone and stretch their potential.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_CB_Paul_Comp_2025.jpg">
 </div>
 <p></p>
+<p><strong>Singapore Science Buskers 2025</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_Buskers_Collage_2025.png">
+</div>
+<p></p>
