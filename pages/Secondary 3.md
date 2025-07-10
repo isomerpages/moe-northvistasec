@@ -3,7 +3,6 @@ title: Secondary 3
 permalink: /for-students/exam-matters/secondary3/
 description: ""
 variant: tiptap
-third_nav_title: Exam Matters
 ---
 <h3>Secondary 3 Examination Details</h3>
 <ul data-tight="true" class="tight">
