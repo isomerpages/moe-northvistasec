@@ -63,7 +63,7 @@ students.</p>
 <p>Nomination Period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;14/7/25-15/8/25</p>
+<p>&nbsp;14 July 2025 to 15 August 2025</p>
 </td>
 </tr>
 <tr>
