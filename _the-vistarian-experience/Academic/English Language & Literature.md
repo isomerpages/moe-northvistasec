@@ -6,7 +6,7 @@ third_nav_title: Academic
 variant: markdown
 ---
 <figure>
-<img src="/images/English%20Language%20%20Literature%20Department.jpg">
+<img src="/images/The%20Vistarian%20Experience/Academic/4__EL___Lit.jpg">
 <figcaption> <strong>English Language &amp; Literature Department </strong> </figcaption>
 </figure>
 
