@@ -6,7 +6,7 @@ third_nav_title: Academic
 variant: markdown
 ---
 <figure>
-<img src="/images/Mathematics%20Department.jpg">
+<img src="/images/The%20Vistarian%20Experience/Academic/5__Math.jpg">
 <figcaption> <strong> Mathematics Department</strong> </figcaption>
 </figure>
 

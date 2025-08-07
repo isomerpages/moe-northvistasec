@@ -6,7 +6,7 @@ third_nav_title: Academic
 variant: markdown
 ---
 <figure>
-<img src="/images/Humanities%20Department.jpg">
+<img src="/images/The%20Vistarian%20Experience/Academic/8__Humanities.jpg">
 <figcaption> <strong> Humanities Department </strong> </figcaption>
 </figure>
 

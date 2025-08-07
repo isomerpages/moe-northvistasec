@@ -4,9 +4,10 @@ permalink: /school-info/school-leaders/
 description: ""
 variant: markdown
 ---
+![](/images/School%20Info/School%20Leaders/1__School_Leaders.jpg)
 
 
-
-| Mr Yap Thiam Chuan | Mr Pillay P Krishnan | Ms Wu Xiaoyuan  |Mr Kwek Chin Leong |
+| Mr Kwek Chin Leong | Mr Yap Thiam Chuan | Mr Pillay P Krishnan |Ms Wu Xiaoyuan |
 | -------- | -------- | -------- |-------- |
-| Principal   | Vice-Principal    | Vice-Principal     |Vice-Principal   |
+| Vice-Principal    | Principal    | Vice-Principal    |Vice-Principal     |
+

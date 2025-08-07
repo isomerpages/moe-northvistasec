@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Applied%20Creative%20Studies%20Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/9__Applied___Creative_Studies.jpg">
 </div>
 <p><strong>Applied &amp; Creative Studies Department</strong>
 </p>
