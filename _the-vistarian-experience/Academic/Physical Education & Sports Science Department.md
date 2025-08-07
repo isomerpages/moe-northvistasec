@@ -6,7 +6,7 @@ third_nav_title: Academic
 variant: markdown
 ---
 <figure>
-<img src="/images/Physical%20Education%20Department.jpg">
+<img src="/images/The%20Vistarian%20Experience/Academic/10__PE.jpg">
 <figcaption> <strong>Physical Education Department </strong> </figcaption>
 </figure>
 
