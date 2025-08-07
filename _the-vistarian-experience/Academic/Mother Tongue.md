@@ -6,7 +6,7 @@ third_nav_title: Academic
 variant: markdown
 ---
 <figure>
-<img src="/images/Mother%20Tongue%20Department.jpg">
+<img src="/images/The%20Vistarian%20Experience/Academic/6__MTL.jpg">
 <figcaption> <strong> Mother Tongue Department</strong> </figcaption>
 </figure>
 
