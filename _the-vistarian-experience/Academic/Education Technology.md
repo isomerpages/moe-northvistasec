@@ -6,7 +6,7 @@ third_nav_title: Academic
 variant: markdown
 ---
 <figure>
-<img src="/images/ICT%20Department.jpg">
+<img src="/images/The%20Vistarian%20Experience/Academic/11__EdTech.jpg">
 <figcaption> <strong>ICT Department</strong> </figcaption>
 </figure>
 
