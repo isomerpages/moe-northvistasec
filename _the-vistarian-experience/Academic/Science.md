@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Science%20Dept%202021.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/7__Science.jpg">
 </div>
 <p><strong>Science Department</strong>
 </p>
