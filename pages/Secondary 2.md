@@ -11,14 +11,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
-<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Normal_Academic_EYE_Exam_Format_and_Topics_2024.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (NA) End of Year Examination Format and Topics 2024</a>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2__G1__End_of_Year_Examination_Topics_and_Format_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (G1) End of Year Examination Format and Topics 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2_Express_EYE__Exam_Format_and_Topics_2024.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (EXP) End of Year Examination Format and Topics 2024</a>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2__G2__End_of_Year_Examination_Topics_and_Format_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (G2) End of Year Examination Format and Topics 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Students/Exam Matters/Sec 2/Sec_2__G3__End_of_Year_Examination_Topics_and_Format_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (G3) End of Year Examination Format and Topics 2025</a>
 </p>
 <p></p>
 </li>
