@@ -4,7 +4,7 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Come and join us to find out more about life as a Vistarian! - Open House 2025!
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
@@ -27,7 +27,7 @@ sections:
       title: NV Highlights
       button: Find out more!
       url: /highlights/
-      image: /images/Homepage/bannervrr.JPG
+      image: /images/Homepage/Open_House_2025_Poster.jpg
       description: Check out our students' latest news and updates! (Competitions, SYF
         & NSG)
       alt: Image alt text
