@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/For Students/2025_Script_Checking_Timetable_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Script Checking Timetable by class (13 Oct - 17 Oct)</a>
+<p><a href="/files/For Students/2025_Script_Checking_Timetable_Class.pdf" rel="noopener nofollow" target="_blank">Script Checking Timetable by class (13 Oct - 17 Oct)</a>
 </p>
 </li>
 </ul>
