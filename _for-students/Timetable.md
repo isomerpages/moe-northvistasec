@@ -10,7 +10,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Script Checking Timetable (13 Oct - 17 Oct)</p>
+<p><a href="/files/For Students/2025_Script_Checking_Timetable_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Script Checking Timetable by class (13 Oct - 17 Oct)</a>
+</p>
 </li>
 </ul>
 <h3>Semester 2, 2025</h3>
