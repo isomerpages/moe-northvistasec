@@ -2,7 +2,6 @@ collections:
   school-info:
     output: true
     order:
-      - School Management Committee & Teacher Leaders’.md
       - History.md
       - Our Vision, Mission & Values.md
       - Our Crest & Anthem.md
