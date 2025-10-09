@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - SMC & Teacher Leaders/.keep
       - History.md
       - Our Vision, Mission & Values.md
       - Our Crest & Anthem.md
