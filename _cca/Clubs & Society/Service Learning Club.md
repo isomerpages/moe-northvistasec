@@ -95,6 +95,14 @@ can transform communities, inspire change, and build a better tomorrow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023 - 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friends of Singa, Most Heartfelt Appreciation Initiative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
