@@ -9,6 +9,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/drive/folders/12d6uWQgtGn9yTnUgPPDnstdxthmV8F3O" rel="noopener nofollow" target="_blank">Timetable by class</a>
 </p>
 </li>
+<li>
+<p><a href="/files/For Students/2025_Script_Checking_Timetable_Class.pdf" rel="noopener nofollow" target="_blank">Script Checking Timetable by class (13 Oct - 17 Oct)</a>
+</p>
+</li>
 </ul>
 <h3>Semester 2, 2025</h3>
 <table style="minWidth: 50px">
