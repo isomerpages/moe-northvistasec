@@ -52,7 +52,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>Mrs Junie Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language</p>
+<p>HOD/ English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chang_xueni_junie@moe.edu.sg</a>
