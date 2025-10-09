@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Clubs & Society
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Service Learning Club/SLC_2025_1.jpg">
+</div>
 <p>At North Vista Secondary, the Service Learning Club is more than just
 a CCA, it’s a movement of students who believe in making the world a kinder,
 brighter, and greener place.</p>
@@ -171,6 +175,14 @@ Participation)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Service Learning Club/SLC_2025_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Service Learning Club/SLC_2025_2.png">
+</div>
 <p>
 <br>
 </p>
