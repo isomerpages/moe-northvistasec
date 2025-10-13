@@ -28,7 +28,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>Ms Teng Siew Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher</p>
+<p>Master Teacher/ Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">teng_siew_lee@moe.edu.sg</a>
