@@ -76,7 +76,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>Wendy Tan (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Information &amp; Communication Technology</p>
+<p>HOD/ Information &amp; Communication Technology (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_lee_hiang_wendy@moe.edu.sg</a>
