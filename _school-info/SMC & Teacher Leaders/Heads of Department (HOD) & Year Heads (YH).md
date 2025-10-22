@@ -133,7 +133,7 @@ third_nav_title: SMC & Teacher Leaders
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Keng Wee</p>
+<p>Mr Tan Keng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Special Projects</p>
