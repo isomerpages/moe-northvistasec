@@ -1,7 +1,8 @@
 ---
 title: School Uniform & PE Attire
 permalink: /for-students/schooluniformpeattire/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-**For more information, click on this link:** *(Link Update in Progress)*
+<p><strong>For School Uniform &amp; PE Attire , click </strong><a href="https://docs.google.com/spreadsheets/d/1_6JJC9z6F2iEXvf1ufYBuYRxN0-00k42/edit?gid=1647929572#gid=1647929572" rel="noopener nofollow" target="_blank">here</a>
+</p>
