@@ -9,8 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/7__Science.jpg">
 </div>
-<p><strong>Science Department</strong>
-</p>
+<h2><strong>Science Department</strong></h2>
 <p>The Science department aims to nurture our students to have a lifelong
 passion for Science through student-centred activities that promote scientific
 thought and academic excellence. Guided by MOE’s Revised Science Curriculum
@@ -46,8 +45,7 @@ Vistarians who are inquisitive and innovative individuals.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/SCIALP1.jpg">
 </div>
-<p><strong>Experiential Learning at Learning Journeys</strong>
-</p>
+<h3><strong>Experiential Learning at Learning Journeys</strong></h3>
 <p>Students are provided opportunities to embark on Science Learning Journeys
 to witness the Science learned in their classrooms come alive in the real
 world. This allows students deepen their Science knowledge and build connections
@@ -67,13 +65,11 @@ between their knowledge with the world around them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Vistarian%20Experience/Academic/SCILJ2.jpg">
 </div>
-<p><strong>Students at various Science Competitions</strong>
-</p>
+<h3><strong>Students at various Science Competitions</strong></h3>
 <p>Through Science Competitions, students get the opportunity to pursue and
 deepen their interest in Science, while challenging themselves to step
 out of their comfort zone and stretch their potential.</p>
-<p><strong>Temasek Engineering Olympiad 2025</strong>
-</p>
+<h4><strong>Temasek Engineering Olympiad 2025</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -156,13 +152,11 @@ out of their comfort zone and stretch their potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Sci_Comp_2025.jpg">
 </div>
-<p><strong>National STEM Championship 2025</strong>
-</p>
+<h4><strong>National STEM Championship 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_NSTEMC.jpg">
 </div>
-<p><strong>45th C.B. Paul Science Quiz 2025</strong>
-</p>
+<h4><strong>45th C.B. Paul Science Quiz 2025</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -279,14 +273,12 @@ out of their comfort zone and stretch their potential.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_CB_Paul_Comp_2025.jpg">
 </div>
 <p></p>
-<p><strong>Singapore Science Buskers 2025</strong>
-</p>
+<h4><strong>Singapore Science Buskers 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_Buskers_Collage_2025.png">
 </div>
-<p><strong>iIllustratum 2025 (organised by NUS Dept of Physics)</strong>
-</p>
+<h4><strong>iIllustratum 2025 (organised by NUS Dept of Physics)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -448,5 +440,187 @@ out of their comfort zone and stretch their potential.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_Illustratum_2025.jpg">
+</div>
+<p></p>
+<h4><strong>Singapore Junior Science Olympiad</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Student (Class)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Singapore Junior Physics Olympiad 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ariel Lee Jia En (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pham Hoang Long Arthur (4E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Singapore Junior Chemistry Olympiad 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ariel Lee Jia En (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Palcongan Shaniel Castillo (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pham Hoang Long Arthur (4E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Certificate of Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eric Chua Chuan Chye (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12" colspan="1">
+<p>Singapore Junior Biology Olympiad 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lukas Wang De An (4E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jing Xun Jovan (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Jolynn (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phua Zee Xuan, Evangeline (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raynon Goh Mao Yuan (4E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amy Chu Xin Hui (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kaitlyn Venice Ong David (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Garry Veronica Grace Pascual (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Deng Nang (Lin Dingren) (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Xiu Qi, Debbie (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gabriel Masangkay Wenceslao (4E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noel Too Li Hao (4E2)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Science_Olympiad_Group_2025.jpg">
 </div>
 <p></p>
