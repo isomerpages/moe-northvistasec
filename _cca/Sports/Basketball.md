@@ -136,12 +136,22 @@ wins Games. Defence wins Championships.”</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/basketball_boys &amp; girls_2_2025.jpg">
+</div>
 <p><strong>Boys' Team</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_Boys_2025_1.jpg">
+</div>
 <p><strong>Girls' Team</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_Girls_1_2025.jpg">
+</div>
 <h3>News:</h3>
 <h3><strong>School sports: Injured Nigel Ong helps North Vista claim basketball North Zone B Div title</strong></h3>
 <p><a href="https://www.straitstimes.com/sport/schools/school-sports-injured-nigel-ong-helps-north-vista-claim-basketball-north-zone-b-div-title" rel="noopener noreferrer nofollow" target="_blank">www.straitstimes.com/sport/schools/school-sports-injured-nigel-ong-helps-north-vista-claim-basketball-north-zone-b-div-title</a>
