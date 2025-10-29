@@ -19,8 +19,7 @@ wins Games. Defence wins Championships.”</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mr Hee Yuen Bao
 <br>Mr Liew Boon Kui
-<br>Ms Alvina Koh
-<br>Ms Trishta Kaur</p>
+<br>Ms Alvina Koh</p>
 <p><strong>Training Day/Time/Venue</strong>
 </p>
 <p>‘C’ and ‘B’ Div Boys – Tuesdays (3pm to 6.30pm) and Fridays (1pm to 5.30pm)
@@ -49,6 +48,39 @@ wins Games. Defence wins Championships.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘B’ Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘B’ Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone 2<sup>nd</sup> Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘B’ Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone 1<sup>st</sup> Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,6 +88,28 @@ wins Games. Defence wins Championships.”</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>North Zone 3<sup>rd</sup> Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘C’ Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone 1<sup>st</sup> Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘C’ Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone 2<sup>nd</sup> Runner Up</p>
 </td>
 </tr>
 <tr>
@@ -80,73 +134,14 @@ wins Games. Defence wins Championships.”</p>
 <p>North Zone 1<sup>st</sup> Runner Up</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>‘C’ Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Zone 3<sup>rd</sup> Runner Up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>‘B’ Boy<strong>s</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Zone Champion; National Inter-School Games Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>‘B’ Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Zone Top 8; ActiveSG BAS Basketball Development League Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>‘C’ Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Zone 1<sup>st</sup> Runner Up</p>
-</td>
-</tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA/Sports/b%20boys%20nsg.jpg">
-</div>
-<p><strong>NSG B Boys</strong>
+<p><strong>Boys' Team</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA/Sports/b%20boys.JPG">
-</div>
-<p><strong>B Boys</strong>
+<p></p>
+<p><strong>Girls' Team</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA/Sports/b%20girls.jpg">
-</div>
-<p><strong>B Girls</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA/Sports/c%20boys%20and%20girls.JPG">
-</div>
-<p><strong>C Boys and Girls</strong>
-</p>
+<p></p>
 <h3>News:</h3>
 <h3><strong>School sports: Injured Nigel Ong helps North Vista claim basketball North Zone B Div title</strong></h3>
 <p><a href="https://www.straitstimes.com/sport/schools/school-sports-injured-nigel-ong-helps-north-vista-claim-basketball-north-zone-b-div-title" rel="noopener noreferrer nofollow" target="_blank">www.straitstimes.com/sport/schools/school-sports-injured-nigel-ong-helps-north-vista-claim-basketball-north-zone-b-div-title</a>
