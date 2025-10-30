@@ -2,17 +2,13 @@
 title: School Advisory Committee
 permalink: /school-info/school-advisory-committee/
 description: ""
+variant: tiptap
 ---
-<figure>
-    <img src="/images/School%20Info/SAC/Dr%20Leong%20Choon%20Kit.jpg" 
-     style="width:40%" align="left" />
-	<img src="/images/School%20Info/SAC/Mr%20Yap%20Thiam%20Chuan.jpg" 
-     style="width:40%" align="right" />
-</figure> 
-
-
-
-<figure>
-    <img src="/images/School%20Info/SAC/All_Members.jpg" 
-     style="width:120%" align="center" />
-</figure>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/SAC/Chairman___Honorary.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/SAC/SAC_Members_2025.png">
+</div>
+<p></p>
