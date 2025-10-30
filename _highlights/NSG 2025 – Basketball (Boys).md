@@ -17,6 +17,7 @@ Our boys faced Yishun Town Secondary School (YTSS) once again in a thrilling bat
 
 #### **C Division Basketball (Boys)** - 2023
 
+![](/images/NV%20Highlights/Basketball/NSG_C_Boys_Basketball_1.jpg)
 
 NSG North Zone C Division Boys Basketball Championship 
 
