@@ -2,7 +2,6 @@
 title: Hosting Our Overseas Partners 2015 Archive
 permalink: /the-vistarian-experience/hosting-our-overseas-partners/hosting-our-overseas-partners-2015-archive/
 description: ""
-third_nav_title: Hosting Our Overseas Partners
 ---
 # North Vista Secondary Visitors 2015
 
@@ -41,5 +40,3 @@ On 3 Jul 2015, the school hosted the Principal, three educators and thirty-one s
 ![](/images/Confederation%20of%20Indian%20Industry.png)
 
 On 27 August 2015, the school hosted 19 participants from the Confederation of Indian Industry. They wanted to learn more about the school and its Distinctive Programme.  A school tour was conducted by our student leaders for our guests.
-
-
