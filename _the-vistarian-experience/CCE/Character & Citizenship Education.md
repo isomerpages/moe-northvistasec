@@ -6,8 +6,7 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <p></p>
-<p><strong>Character and Citizenship Education (CCE) at North Vista Secondary School</strong>
-</p>
+<h4><strong>Character and Citizenship Education (CCE) at North Vista Secondary School</strong></h4>
 <p>At North Vista Secondary, our Character and Citizenship Education (CCE)
 programme aims to nurture <strong>Vistarians of Character</strong> through
 holistic and values-driven learning experiences. Guided by the CCE Curriculum
@@ -38,8 +37,10 @@ display school values in their daily actions.</p>
 </li>
 </ul>
 <p></p>
+<blockquote>
 <p><strong>Education and Career Guidance (ECG)</strong>
 </p>
+</blockquote>
 <p>Education and Career Guidance (ECG) is an integral part of student development
 at North Vista, equipping students to make informed decisions about their
 future.</p>
@@ -64,8 +65,10 @@ future.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
+<blockquote>
 <p><strong>Programmes</strong>
 </p>
+</blockquote>
 <p><strong>Career Seminar</strong>
 <br>The annual Career Seminar provides insights into the world of work through
 engagement with professionals from diverse industries. Students gain valuable
@@ -96,8 +99,10 @@ applications for Direct School Admission (JC) and Early Admission Exercises
 of our students’ daily lives. The Cyber Wellness programme at North Vista
 aims to nurture students with a <strong>strong, positive, and resilient online identity</strong> that
 mirrors their real-world character.</p>
+<blockquote>
 <p><strong>Programme Goals</strong>
 </p>
+</blockquote>
 <p>Students are guided to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -113,8 +118,10 @@ mirrors their real-world character.</p>
 <p>Through discussions and activities, students learn to build meaningful
 relationships and exercise sound judgment in their online interactions.</p>
 <p></p>
+<blockquote>
 <p><strong>National Education (NE)</strong>
 </p>
+</blockquote>
 <p>As a key component of CCE, <strong>National Education</strong> helps students
 understand Singapore’s history, challenges, and shared identity. It aims
 to nurture informed, confident, and engaged citizens who care deeply about
@@ -157,8 +164,11 @@ issues.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/CCE/CCE_Image_6_to_10_2025.png">
 </div>
+<p></p>
+<blockquote>
 <p><strong>Values in Action (VIA)</strong>
 </p>
+</blockquote>
 <p><strong>Values in Action (VIA)</strong> aims to nurture socially responsible
 citizens who contribute meaningfully to the community through active engagement
 and reflection. Each level undertakes age-appropriate projects that promote
