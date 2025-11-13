@@ -121,3 +121,7 @@ Training will be organised for a selected group of Secondary Two students.
 This programme aims to develop in our students’ higher-order problem solving
 skills which include non-routine, open-ended and real-world problems.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/Math_2025.jpg">
+</div>
+<p></p>
