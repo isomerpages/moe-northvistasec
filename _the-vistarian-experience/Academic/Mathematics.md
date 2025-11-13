@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/5__Math.jpg">
 </div>
-<h4><strong> Mathematics Department</strong></h4>
+<h4><strong>Mathematics Department</strong></h4>
 <p>In NV, we want our students to be excited about learning Mathematics.</p>
 <p>The NV mathematics curriculum recognises the diverse learning needs of
 our students and&nbsp;we have a fundamental&nbsp;belief that all students
