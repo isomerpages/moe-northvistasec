@@ -4,7 +4,7 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: Come and join us to find out more about life as a Vistarian! - Open House 2025!
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
