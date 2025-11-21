@@ -3,102 +3,171 @@ title: String Ensemble
 permalink: /cca/performing-arts/string-ensemble/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-Since its inception in 2005, the String Ensemble has grown from strength to strength. With a greater appreciation for music, more students are now keen on learning to play a musical instrument. Some of the members have even continued pursuing their music interests in higher institutions of learning, using their CCA experience and performance repertoire to apply for DSA and EAE. 
-
-North Vista String Ensemble is established for individuals with an interest in playing a stringed musical instrument. One of our goals is to give all members a chance to take part in ensemble performances, within or outside the school. Our ensemble takes great pride in developing students into confident musicians.
-
-We welcome any student, experienced or inexperienced, who has a passion for music and is willing to invest effort and time to learn to play an instrument to join our big family.
-
-  
-**Teachers-in-Charge:**
-
-Ms Shirley Lim  <br>
-Mdm Dorothy Tan <br>
-
-
-  
-
-### Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Day</th>
-    <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Venue</th>
-  </tr>
-</thead>
+<p>Since its inception in 2005, the String Ensemble has grown from strength
+to strength. With a greater appreciation for music, more students are now
+keen on learning to play a musical instrument. Some of the members have
+even continued pursuing their music interests in higher institutions of
+learning, using their CCA experience and performance repertoire to apply
+for DSA and EAE.</p>
+<p>North Vista String Ensemble is established for individuals with an interest
+in playing a stringed musical instrument. One of our goals is to give all
+members a chance to take part in ensemble performances, within or outside
+the school. Our ensemble takes great pride in developing students into
+confident musicians.</p>
+<p>We welcome any student, experienced or inexperienced, who has a passion
+for music and is willing to invest effort and time to learn to play an
+instrument to join our big family.</p>
+<p><strong>Teachers-in-Charge:</strong>
+</p>
+<p>Ms Shirley Lim
+<br>Mr Xia Shuang
+<br>
+</p>
+<h3>Training Schedule</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-baqh"> Wednesday</td>
-    <td class="tg-baqh"> 3.30 pm – 6.00 pm</td>
-    <td class="tg-baqh" rowspan="2">Shaw Melodies, Chinese Room &amp; A4-03</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Friday</td>
-    <td class="tg-baqh"> 1 pm – 3.30 pm</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30 pm – 6.00 pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Shaw Melodies, Chinese Room &amp; A4-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 pm – 3.30 pm</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Achievements
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lqka{background-color:#FFF;color:#02225B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-lqka">Year</th>
-    <th class="tg-lqka">Competition/Performance</th>
-    <th class="tg-lqka">Achievements</th>
-  </tr>
-</thead>
+<h3>Achievements</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-	  <tr>
-    <td class="tg-7yig"> 2023</td>
-    <td class="tg-7yig"> Singapore Youth Festival Arts Presentation</td>
-    <td class="tg-7yig"> Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"> 2021</td>
-    <td class="tg-7yig"> Singapore Youth Festival Arts Presentation</td>
-    <td class="tg-7yig"> Certificate of Accomplishment</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"> 2019</td>
-    <td class="tg-7yig"> Singapore Youth Festival Arts Presentation</td>
-    <td class="tg-7yig"> Certificate of Accomplishment</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition/Performance</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<img src="/images/CCA/String%20Ensemble/STRINGS1.png" style="width:100%">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/String Ensemble/String_Ensemble_2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/String Ensemble/String_Ensemble_2025_2.jpg">
+</div>
+<p>
 <br>
-<img src="/images/CCA/String%20Ensemble/STRINGS2.png" style="width:100%">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/String Ensemble/String_Ensemble_2025_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/String Ensemble/String_Ensemble_2025_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/String Ensemble/String_Ensemble_2025_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/String Ensemble/String_Ensemble_2025_6.jpg">
+</div>
+<p>
 <br>
-<img src="/images/CCA/String%20Ensemble/STRINGS3.png" style="width:100%">
+</p>
+<p>
 <br>
-<img src="/images/CCA/String%20Ensemble/STRINGS4.png" style="width:100%">
+</p>
+<p>
 <br>
-<img src="/images/CCA/String%20Ensemble/STRINGS5.png" style="width:100%">
+</p>
+<p>
 <br>
-<img src="/images/CCA/String%20Ensemble/STRINGS6.png" style="width:100%">
+</p>
+<p>
 <br>
+</p>
