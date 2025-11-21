@@ -98,7 +98,7 @@ solving skills which include non-routine, open-ended and real-world problems.</p
 </td>
 <td rowspan="1" colspan="1">
 <p>Honourable Mention</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; 1.Muhammad Darwisy Bin Zulkipli&nbsp; 2E1</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 1.Muhd Darwisy Bin Zulkipli&nbsp; 2E1</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 2.Giselle Chan Si Ji 2E2</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 3.Vernice Tan Kai Xin 2E2</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 4.Chah Ying Xuan 2E3</p>
