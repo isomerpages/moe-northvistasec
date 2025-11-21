@@ -7,3 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Resources Page/News/MAFW_instagram_story.jpg">
+</div>
+<p></p>
