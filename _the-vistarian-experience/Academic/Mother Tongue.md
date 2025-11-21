@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/6__MTL.jpg">
 </div>
-<p><strong> Mother Tongue Department</strong>
+<p><strong>Mother Tongue Department</strong>
 </p>
 <h3>Chinese Language</h3>
 <p>The Chinese Language Unit aims to develop students’ passion and interests
@@ -25,29 +25,30 @@ Chinese and Malay(CCM), School-wide Reading Programme and Language or Cultural
 Competitions. The Chinese Language Unit also seeks to preserve our traditions
 and core values and thus maintain our leading position in the competitive
 world.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Vistarian%20Experience/Academic/CL1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Vistarian%20Experience/Academic/CL2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_2___3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20Vistarian%20Experience/Academic/CL3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_4___5.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/Fan_Art_Painting.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_6___7.png">
 </div>
-<p>Fan Art Painting</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/Quiz_time_during_TCM_Workshop.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_8.jpg">
 </div>
-<p>Quiz Time During TCM Workshop</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/The%20Vistarian%20Experience/Academic/Sculpting_Activity.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_9__10___11.png">
 </div>
-<p>Sculpting Activity</p>
 <h3>Malay Language</h3>
 <p>The Malay Language Unit designs an engaging and meaningful curriculum
 that focuses on providing real world and authentic experience for students
