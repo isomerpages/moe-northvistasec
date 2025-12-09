@@ -25,7 +25,8 @@ Chinese and Malay(CCM), School-wide Reading Programme and Language or Cultural
 Competitions. The Chinese Language Unit also seeks to preserve our traditions
 and core values and thus maintain our leading position in the competitive
 world.</p>
-<p></p>
+<p><strong><em>Sec 1 Crosstalk (相声) Enrichment Programme</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_1.jpg">
 </div>
