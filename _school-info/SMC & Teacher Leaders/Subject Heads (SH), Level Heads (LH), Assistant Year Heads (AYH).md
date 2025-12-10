@@ -133,6 +133,18 @@ third_nav_title: SMC & Teacher Leaders
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Phil Lin Xiangrong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Social Studies (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_xiangrong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_xiangrong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Melinda Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,49 +157,50 @@ third_nav_title: SMC & Teacher Leaders
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hee Yuen Bo</p>
+<p>Ms Zoeraine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH/ Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hee_yuen_bao@moe.edu.sg</a>
+<p><a href="mailto:zoeraine_lim_sze_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zoeraine_lim_sze_wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hui Yu</p>
+<p>Mr Hee Yuen Bo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH/ Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hui_yu@moe.edu.sg</a>
+<p><a href="mailto:hee_yuen_bao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hee_yuen_bao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chng-Lee Lu Xian&nbsp;</p>
+<p>Ms Tan Hui Yu&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH/ Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_lu_xian@moe.edu.sg</a>
+<p><a href="mailto:tan_hui_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_yu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zoeraine Lim</p>
+<p>Ms Nadia Mohamad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH/ Secondary 4/5</p>
+<p>AYH/ Secondary 4/5
+<br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zoeraine_lim_sze_wee@moe.edu.sg</a>
+<p><a href="mailto:nadia_mohamad_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_mohamad_ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
