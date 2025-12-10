@@ -25,30 +25,6 @@ third_nav_title: SMC & Teacher Leaders
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teng Siew Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Teacher/ Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teng_siew_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lily Theodore&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LT/ Food &amp; Consumer Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">paul_lily_jebamony@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Rashidin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,6 +68,30 @@ third_nav_title: SMC & Teacher Leaders
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chan_hui_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Atiqah Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/ Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_atiqah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atiqah_abdul_rahman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Fadhilah Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/ Food &amp; Consumer Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_fadhilah_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadhilah_rashid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
