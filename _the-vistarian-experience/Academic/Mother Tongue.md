@@ -25,11 +25,9 @@ Chinese and Malay(CCM), School-wide Reading Programme and Language or Cultural
 Competitions. The Chinese Language Unit also seeks to preserve our traditions
 and core values and thus maintain our leading position in the competitive
 world.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_2___3.png">
 </div>
@@ -42,8 +40,9 @@ world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_6___7.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_8.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/Academic/CL_2025_8.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

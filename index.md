@@ -4,7 +4,9 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Release of the 2025 Singapore-Cambridge GCE N(A) & N(T) Level
+  Examination Results On 18 December 2025 (Thur). More details under
+  Announcements & News.
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif

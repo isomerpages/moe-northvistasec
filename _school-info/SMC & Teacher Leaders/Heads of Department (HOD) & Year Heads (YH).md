@@ -73,10 +73,10 @@ third_nav_title: SMC & Teacher Leaders
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wendy Tan (Mrs)</p>
+<p>Mrs Wendy Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Information &amp; Communication Technology (Covering)</p>
+<p>HOD/ Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_lee_hiang_wendy@moe.edu.sg</a>
@@ -97,7 +97,7 @@ third_nav_title: SMC & Teacher Leaders
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chua Ai Wee</p>
+<p>Mrs Chua-Koh Ai Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Mother Tongue Languages</p>
@@ -121,13 +121,13 @@ third_nav_title: SMC & Teacher Leaders
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kong Su San</p>
+<p>Ms Chng-Lee Lu Xian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Science&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kong_su_san@moe.edu.sg</a>
+<p><a href="mailto:lee_lu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_xian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -145,13 +145,13 @@ third_nav_title: SMC & Teacher Leaders
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Debbie Wong</p>
+<p>Ms Kong Su San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_mei_ying_debbie@moe.edu.sg</a>
+<p><a href="mailto:kong_su_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_su_san@moe.edu.sg</a>
 </p>
 </td>
 </tr>
