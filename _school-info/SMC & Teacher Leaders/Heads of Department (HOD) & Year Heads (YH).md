@@ -160,7 +160,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>Mdm Suhana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Sec 2 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">suhana_ahmad@moe.edu.sg</a>
@@ -172,7 +172,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>Mdm Sri Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
+<p>Year Head (Sec 1 &amp; 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sri_devi_arunagiri@moe.edu.sg</a>
