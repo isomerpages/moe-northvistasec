@@ -79,8 +79,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>ST/ Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_atiqah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atiqah_abdul_rahman@</a>
-<a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:nur_atiqah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atiqah_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -92,8 +91,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>ST/ Food &amp; Consumer Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fadhilah_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadhilah_rashid@</a>
-<a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:nur_fadhilah_rashid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadhilah_rashid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
