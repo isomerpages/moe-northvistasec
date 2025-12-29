@@ -173,12 +173,12 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-baqh">Mending A Broken Heart <br>Lesson 1B<br>(60 mins)</td>
     <td class="tg-0lax"><br>          Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>          Know that a decision to end a relationship will have consequences on oneself and others.<br>          Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>          Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
-    <td class="tg-baqh">Term 2 Week 7</td>
+    <td class="tg-baqh">Term 2 Week 8</td>
   </tr>
   <tr>
     <td class="tg-baqh">When Respect Takes Centre Stage <br>Lesson 2<br>(60 mins)</td>
     <td class="tg-0lax">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-baqh">Term 3 Week 1</td>
+    <td class="tg-baqh">Term 2 Week 10</td>
   </tr>
 </tbody>
 </table>
@@ -221,13 +221,13 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-7yig">For Better or For Worse <br>Lesson 3<br>(60 mins)</td>
     <td class="tg-ktyi">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
-    <td class="tg-7yig">Term 1 Week 10</td>
+    <td class="tg-7yig">Term 2 Week 1</td>
   </tr>
   <tr>
     <td class="tg-7yig"> </td>
     <td class="tg-7yig">There's Always More to a Story <br>Lesson 4<br>(60 mins)</td>
     <td class="tg-ktyi">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-7yig">Term 2 Week 1</td>
+    <td class="tg-7yig">Term 2 Week 4</td>
   </tr>
 </tbody>
 </table>
@@ -267,12 +267,12 @@ b. Character and Citizenship Education (CCE)
 
 ### eTeens Programme:
 
-8. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+8. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;
   
 
-### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2025:
+### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2026:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -299,12 +299,12 @@ b. Character and Citizenship Education (CCE)
 a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use). <br>
 b)	Managing relationships and risky situations in a healthy way.
 <br> </td>
-    <td class="tg-baqh">Term 2 Week 1</td>
+    <td class="tg-baqh">Term 2 Week 3</td>
   </tr>
   <tr>
     <td class="tg-0lax">Classroom-based Lesson</td>
     <td class="tg-0lax">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td>
-    <td class="tg-baqh">Term 2 Week 2</td>
+    <td class="tg-baqh">Term 2 Week 5</td>
   </tr>
 </tbody>
 </table>
