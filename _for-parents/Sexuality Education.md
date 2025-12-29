@@ -32,7 +32,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
   
 
-### Overview of North Vista Secondary School's Sexuality Education Programme for 2025
+### Overview of North Vista Secondary School's Sexuality Education Programme for 2026
 
   
 
@@ -53,7 +53,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2025: &nbsp;
+### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2026: &nbsp;
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -125,12 +125,12 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-baqh" rowspan="3"><span style="font-weight:normal">Respectful Relationships &amp; Safety</span></td>
     <td class="tg-baqh"><span style="font-weight:normal">A Role fro Everyone <br> Lesson 1</span><br>(60 mins)</td>
     <td class="tg-0lax">·       Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·        Understand what sexual orientation entails</td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 1</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 2</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">Online Safety Challenge <br>Lesson 2A</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">•	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline </td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 2</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 3</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">Do I or Don't I <br>Lesson 2B</span><br><span style="font-weight:normal">(60 mins)</span></td>
