@@ -317,9 +317,9 @@ b)	Managing relationships and risky situations in a healthy way.
 
   
 
-11. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/For%20parents/2025_Info_on_SEd_for_schs_website__Secondary_Schools__Annex_A.pdf). The completed form is to be submitted by 27/01/2025.
+11. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](https://go.gov.sg/nvsed). The completed form is to be submitted by 16/01/2026.
 
-12. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/For%20parents/2025_Info_on_SEd_for_schs_website__Secondary_Schools__Annex_B.pdf). The completed form is to be submitted by 27/01/2025.
+12. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](https://go.gov.sg/nvsed) The completed form is to be submitted by 16/01/2026.
 
 13. Parents can contact the school at +65 6879 3930
 northvistass@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
