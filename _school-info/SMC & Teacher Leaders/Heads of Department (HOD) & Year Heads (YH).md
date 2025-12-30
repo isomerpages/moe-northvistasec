@@ -127,8 +127,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Science&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_xian@</a>
-<a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:lee_lu_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_xian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -152,8 +151,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kong_su_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_su_san@</a>
-<a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:kong_su_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kong_su_san@schools.gov.sg</a>
 </p>
 </td>
 </tr>
