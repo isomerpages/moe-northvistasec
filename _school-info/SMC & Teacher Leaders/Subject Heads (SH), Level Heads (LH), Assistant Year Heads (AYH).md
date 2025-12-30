@@ -31,7 +31,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_asali@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_asali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yap_lian_li_elvina@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yap_lian_li_elvina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">christine_bernadette_shalini_ravi@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">christine_bernadette_shalini_ravi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zulkifli_khalil@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">zulkifli_khalil@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seow_weiqiang_jerome@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">seow_weiqiang_jerome@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>LH/ English Language&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">anita_tiwari@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">anita_tiwari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">annaliza_bakri@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">annaliza_bakri@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yow_sok_fun@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yow_sok_fun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>LH/ Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_pei_yu@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chen_pei_yu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -139,7 +139,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Social Studies (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_xiangrong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_xiangrong@moe.edu.sg</a>
+<p><a href="mailto:lin_xiangrong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_xiangrong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -151,7 +151,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>SH/ Student Leadership&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chia_jin_jun_melinda@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chia_jin_jun_melinda@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -163,7 +163,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>AYH/ Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zoeraine_lim_sze_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zoeraine_lim_sze_wee@moe.edu.sg</a>
+<p><a href="mailto:zoeraine_lim_sze_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zoeraine_lim_sze_wee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>AYH/ Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hee_yuen_bao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hee_yuen_bao@moe.edu.sg</a>
+<p><a href="mailto:hee_yuen_bao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hee_yuen_bao@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -187,7 +187,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>AYH/ Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_yu@moe.edu.sg</a>
+<p><a href="mailto:tan_hui_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_yu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -200,7 +200,7 @@ third_nav_title: SMC & Teacher Leaders
 <br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadia_mohamad_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_mohamad_ali@moe.edu.sg</a>
+<p><a href="mailto:nadia_mohamad_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_mohamad_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>

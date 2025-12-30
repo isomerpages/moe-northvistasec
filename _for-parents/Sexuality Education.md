@@ -32,7 +32,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
   
 
-### Overview of North Vista Secondary School's Sexuality Education Programme for 2025
+### Overview of North Vista Secondary School's Sexuality Education Programme for 2026
 
   
 
@@ -53,7 +53,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2025: &nbsp;
+### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2026: &nbsp;
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -125,12 +125,12 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-baqh" rowspan="3"><span style="font-weight:normal">Respectful Relationships &amp; Safety</span></td>
     <td class="tg-baqh"><span style="font-weight:normal">A Role fro Everyone <br> Lesson 1</span><br>(60 mins)</td>
     <td class="tg-0lax">·       Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·        Understand what sexual orientation entails</td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 1</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 2</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">Online Safety Challenge <br>Lesson 2A</span><br><span style="font-weight:normal">(60 mins)</span></td>
     <td class="tg-0lax">•	recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline </td>
-    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 2</span></td>
+    <td class="tg-baqh"><span style="font-weight:normal">Term 3 Week 3</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:normal">Do I or Don't I <br>Lesson 2B</span><br><span style="font-weight:normal">(60 mins)</span></td>
@@ -173,12 +173,12 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-baqh">Mending A Broken Heart <br>Lesson 1B<br>(60 mins)</td>
     <td class="tg-0lax"><br>          Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>          Know that a decision to end a relationship will have consequences on oneself and others.<br>          Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>          Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br></td>
-    <td class="tg-baqh">Term 2 Week 7</td>
+    <td class="tg-baqh">Term 2 Week 8</td>
   </tr>
   <tr>
     <td class="tg-baqh">When Respect Takes Centre Stage <br>Lesson 2<br>(60 mins)</td>
     <td class="tg-0lax">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-baqh">Term 3 Week 1</td>
+    <td class="tg-baqh">Term 2 Week 10</td>
   </tr>
 </tbody>
 </table>
@@ -221,13 +221,13 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-7yig">For Better or For Worse <br>Lesson 3<br>(60 mins)</td>
     <td class="tg-ktyi">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
-    <td class="tg-7yig">Term 1 Week 10</td>
+    <td class="tg-7yig">Term 2 Week 1</td>
   </tr>
   <tr>
     <td class="tg-7yig"> </td>
     <td class="tg-7yig">There's Always More to a Story <br>Lesson 4<br>(60 mins)</td>
     <td class="tg-ktyi">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-7yig">Term 2 Week 1</td>
+    <td class="tg-7yig">Term 2 Week 4</td>
   </tr>
 </tbody>
 </table>
@@ -267,12 +267,12 @@ b. Character and Citizenship Education (CCE)
 
 ### eTeens Programme:
 
-8. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+8. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;
   
 
-### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2025:
+### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2026:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -299,12 +299,12 @@ b. Character and Citizenship Education (CCE)
 a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use). <br>
 b)	Managing relationships and risky situations in a healthy way.
 <br> </td>
-    <td class="tg-baqh">Term 2 Week 1</td>
+    <td class="tg-baqh">Term 2 Week 3</td>
   </tr>
   <tr>
     <td class="tg-0lax">Classroom-based Lesson</td>
     <td class="tg-0lax">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td>
-    <td class="tg-baqh">Term 2 Week 2</td>
+    <td class="tg-baqh">Term 2 Week 5</td>
   </tr>
 </tbody>
 </table>
@@ -317,9 +317,9 @@ b)	Managing relationships and risky situations in a healthy way.
 
   
 
-11. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/For%20parents/2025_Info_on_SEd_for_schs_website__Secondary_Schools__Annex_A.pdf). The completed form is to be submitted by 27/01/2025.
+11. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](https://go.gov.sg/nvsed). The completed form is to be submitted by 16/01/2026.
 
-12. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/For%20parents/2025_Info_on_SEd_for_schs_website__Secondary_Schools__Annex_B.pdf). The completed form is to be submitted by 27/01/2025.
+12. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](https://go.gov.sg/nvsed) The completed form is to be submitted by 16/01/2026.
 
 13. Parents can contact the school at +65 6879 3930
 northvistass@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.

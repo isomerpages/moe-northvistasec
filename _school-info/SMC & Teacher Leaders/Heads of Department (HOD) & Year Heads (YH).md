@@ -31,7 +31,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Applied &amp; Creative Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_shiew_fong_lucia@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_shiew_fong_lucia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_wei_chew_william@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">goh_wei_chew_william@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chang_xueni_junie@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chang_xueni_junie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">maggie_tan@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">maggie_tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_lee_hiang_wendy@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_lee_hiang_wendy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tai_yan@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tai_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_ai_wee@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">koh_ai_wee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Physical Education &amp; Co-curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yon_see_kian@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yon_see_kian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -127,7 +127,8 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Science&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_xian@moe.edu.sg</a>
+<p><a href="mailto:lee_lu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_xian@</a>
+<a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -139,7 +140,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>HOD/ Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_keng_wee@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_keng_wee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -151,7 +152,8 @@ third_nav_title: SMC & Teacher Leaders
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kong_su_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_su_san@moe.edu.sg</a>
+<p><a href="mailto:kong_su_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_su_san@</a>
+<a rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -160,10 +162,10 @@ third_nav_title: SMC & Teacher Leaders
 <p>Mdm Suhana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Sec 2 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">suhana_ahmad@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">suhana_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -172,10 +174,10 @@ third_nav_title: SMC & Teacher Leaders
 <p>Mdm Sri Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
+<p>Year Head (Sec 1 &amp; 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sri_devi_arunagiri@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sri_devi_arunagiri@schools.gov.sg</a>
 </p>
 </td>
 </tr>
