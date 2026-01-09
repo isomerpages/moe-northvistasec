@@ -4,7 +4,9 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Release Of The 2025 Singapore Cambridge GCE O Level Examination
+  Results On 14 Jan 2026 (Wed) 2pm. Refer to 'Announcements & News' for more
+  information.
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
@@ -18,9 +20,6 @@ sections:
         - title: NV Cares
           description: VIA Highlights
           url: https://sites.google.com/view/nvcares
-        - title: Direct School Admission (DSA)
-          description: How to apply
-          url: https://www.northvistasec.moe.edu.sg/howtoapply/
       title: Testing
       variant: image
   - infopic:
