@@ -24,6 +24,10 @@ comprehensive CCA programmes customized by the school.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/CCA/CCA_Experience__Trial_and_Audition__2026.pdf" rel="noopener nofollow" target="_blank">CCA Experience Trial and Audition 2026</a>
+</p>
+</li>
+<li>
 <p><a href="/files/LEAPS%202(for%20Parents).pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0 (Briefing Slides)</a>
 </p>
 </li>
