@@ -124,7 +124,7 @@ third_nav_title: SMC & Teacher Leaders
 <p>Ms Chng-Lee Lu Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Science&nbsp;</p>
+<p>HOD/ Science&nbsp;(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_lu_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_xian@schools.gov.sg</a>
