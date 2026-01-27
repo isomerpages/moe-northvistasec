@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: SMC & Teacher Leaders
 ---
-| Mr Tan Eng Hong Jonathan | Mr Kwek Chin Leong | Mr Pillay P Krishnan |Ms Wu Xiaoyuan |
+
+![](/images/School%20Info/School%20Leaders/SLs_photo_for_website1.jpg)
+| Mr Kwek Chin Leong | Mr Tan Eng Hong Jonathan | Mr Pillay P Krishnan |Ms Wu Xiaoyuan |
 | -------- | -------- | -------- |-------- |
-| Principal    | Vice-Principal   | Vice-Principal    |Vice-Principal     |
+| Vice-Principal    | Principal   | Vice-Principal    |Vice-Principal     |
