@@ -24,7 +24,7 @@ sections:
       title: NV Highlights
       button: Find out more!
       url: /highlights/
-      image: /images/Homepage/bannervrr.JPG
+      image: /images/Homepage/DSC_9447.jpg
       description: Check out our students' latest news and updates! (Competitions, SYF
         & NSG)
       alt: Image alt text
