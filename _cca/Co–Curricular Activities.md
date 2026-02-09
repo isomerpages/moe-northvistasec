@@ -20,10 +20,6 @@ comprehensive CCA programmes customized by the school.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/CCA/Sec_1_CCA_Online_Selection__Instructions_.pdf" rel="noopener nofollow" target="_blank">CCA Selection 2026</a>
-</p>
-</li>
-<li>
 <p><a href="/files/CCA/CCA_Training_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">CCA Training Schedule 2026</a>
 </p>
 </li>
