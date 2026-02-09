@@ -36,7 +36,7 @@ variant: tiptap
 </li>
 </ul>
 <p><strong>National School Games</strong>
-<br><a href="https://docs.google.com/presentation/d/15xEYcCmDVduiM_oFrB_Z1UJXoRkvD3vJ_zqaWuPBdtA/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2025 Fixtures and Results</a>
+<br><a href="https://docs.google.com/presentation/d/1kic4PzbvK2v2lg807ZMaMJr4avGsFng1JfWe0kZsJ1o/edit?usp=sharing" rel="noopener nofollow" target="_blank">NSG 2026 Fixtures and Results</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
