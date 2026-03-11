@@ -2,158 +2,207 @@
 title: Applied Learning Programme
 permalink: /the-vistarian-experience/applied-learning-programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**Applied Learning Programme (ALP) 2023**  <br>
-**Contextual Theme: Cities and Urban Landscapes**  <br>
-**From Farm to Table Programme**
-
-Under the Singapore Green Plan 2030, there is renewed emphasis on safeguarding food security in order to build a resilient future for Singapore. North Vista’s ALP focus on sustainable farming allows students to make connections between classroom learning and authentic problems and opportunities that they encounter in everyday life. It also introduces students to STEM-related areas and provides opportunities for students to learn beyond their textbooks, identify their aptitudes and interests, and make informed decisions about their education and career choices in the future.
-
-All Secondary 1 students have the opportunity to learn about growing edibles using traditional farming methods. They also learn skills of collaboration and knowledge application as they take charge of the farm plot allocated to their class. Students are able to cook and learn about dishes using the harvested crops. 
-
-All Secondary 2 students engage in high-tech farming and participate in workshops on indoor farming and hands-on sessions to grow edibles using a hydroponics system. Students who have passion and interest in the area may also deepen their learning through learning experiences with other organisations and higher institutions of learning.    
-
-  
-
-The ALP Farm-to-Table Programme 2023 consists of 2 tiers:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yst8{background-color:#FFF;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5">Tier</th>
-    <th class="tg-dgl5">Level</th>
-    <th class="tg-dgl5">Focus</th>
-  </tr>
-</thead>
+<p><strong>Applied Learning Programme (ALP) 2026</strong> 
+<br><strong>Contextual Theme: Cities and Urban Landscapes</strong> 
+<br><strong>From Farm to Table Programme</strong>
+</p>
+<p>Under the Singapore Green Plan 2030, there is renewed emphasis on safeguarding
+food security in order to build a resilient future for Singapore. North
+Vista’s ALP focus on sustainable farming allows students to make connections
+between classroom learning and authentic problems and opportunities that
+they encounter in everyday life. It also introduces students to STEM-related
+areas and provides opportunities for students to learn beyond their textbooks,
+identify their aptitudes and interests, and make informed decisions about
+their education and career choices in the future.</p>
+<p></p>
+<p>The ALP Farm-to-Table Programme 2026 consists of 2 tiers:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-dgl5">1</td>
-    <td class="tg-ktyi"><span style="font-weight:400">Lower Secondary</span></td>
-    <td class="tg-yst8">- Secondary 1: Growing edibles using traditional methods<br>- Secondary 2: Growing edibles using high tech farming methods (hydroponics)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">2</td>
-    <td class="tg-ktyi">Upper Secondary</td>
-    <td class="tg-yst8">- Plots on Bloom Programme for Biology students and Nutrition and Food Science Students</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Tier</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Focus</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Secondary 1 students engage in high-tech farming and participate in
+workshops on indoor farming and hands-on sessions to grow edibles using
+a hydroponics system. Students who have passion and interest in the area
+may also deepen their learning through learning experiences with other
+organisations and higher institutions of learning.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <strong>BioBloom Project</strong> is a programme for selected members
+of the Infocomm Club. Through this programme, students gain a deeper understanding
+of how food waste can be repurposed to create optimal conditions for worm
+growth. The compost produced through this process is harvested and used
+as fertiliser for the school’s edible gardens.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<strong><center>Secondary 1 – From Farm-To-Table Programme (Using traditional farming methods - soil)</center></strong>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP1.jpg" style="width:80%">
-    <figcaption><strong>Preparation of plot for seed sowing </strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/Pest_Prevention.jpg" style="width:80%">
-    <figcaption><strong>Pest prevention and control </strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP4.jpg" style="width:80%">
-    <figcaption><strong></strong></figcaption>Weeding – a test of resilience
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP5.jpg" style="width:80%">
-    <figcaption><strong>Learning about nutrient conservation during preparation and cooking of vegetables </strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Harvesting_In_Progress.jpg" style="width:50%">
-    <figcaption><strong>Harvesting in Progress </strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Harvesting_Complete.png" style="width:80%">
-    <figcaption><strong>Harvesting completed</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP8.jpg" style="width:80%">
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP9.jpg" style="width:80%">
-    <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
-</figure>
-
-
-
-
-<strong><center>Secondary 2 – From Farm-To-Table Programme (Using High Tech Farming Methods - Hydroponics)</center></strong>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Assembling_the_system.png" style="width:50%">
-    <figcaption><strong>Assembling the class’s hydroponics system</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP2.jpg" style="width:80%">
-    <figcaption><strong>Topping up nutrient solution</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP3.jpg" style="width:80%">
-    <figcaption><strong>Measuring the EC value</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP4.jpg" style="width:80%">
-    <figcaption><strong>Harvesting in Progress</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP5.jpg" style="width:50%">
-    <figcaption><strong>Preparing for the donation of vegetables to the community</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP6.jpg" style="width:80%">
-    <figcaption><strong>Aeroponics in NV</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/S2ALP7.jpg" style="width:80%">
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Minister_Chan_Chun_Sing.jpg" style="width:80%">
-    <figcaption><strong>A conversation on NV’s Applied Learning Programme with Minister Chan Chun Sing</strong></figcaption>
-</figure>
-
-<strong><center>Secondary 3 (Tier 2 Programme)</center></strong>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Introducing.png" style="width:50%">
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Introducing2.png" style="width:50%">
-    <figcaption><strong>Introducing the right mix of greens and browns to provide optimal conditions for worm growth</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Calibration.png" style="width:80%">
-    <figcaption><strong>Using water and sensor probes to calibrate the ideal moisture level for the tanks</strong></figcaption>
-</figure>
-
-<figure>
-    <img src="/images/The%20Vistarian%20Experience/ALP/ALP_Sec_3_Fertilising.png" style="width:60%">
-    <figcaption><strong>Students and overseas youth leaders from Singapore International Foundation fertilising the spice garden with harvest compost	</strong></figcaption>
-</figure>
-
+<p></p>
+<blockquote>
+<p>Tier 1 – From Farm-To-Table Programme (Using High Tech Farming Methods
+- Hydroponics)</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Photos</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assembling the class’s hydroponics systemax</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thinning the seedlings</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Measuring the EC value</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harvesting in Progress</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preparing for the donation of vegetables to the community</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_6.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aeroponics in NV</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p>Tier 2 Programme – BioBloom Composting Project</p>
+</blockquote>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Photos</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_3_1_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_3_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introducing the right mix of greens and browns to provide optimal conditions
+for worm growth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_3_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Using water and sensor probes to calibrate the ideal moisture level for
+the tanks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_3_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students and overseas youth leaders from Singapore International Foundation
+fertilising the spice garden with harvest compost</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
