@@ -150,4 +150,59 @@ as fertiliser for the school’s edible gardens.</p>
 <p>Tier 2 Programme – BioBloom Composting Project</p>
 </blockquote>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Photos</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_3_1_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_3_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introducing the right mix of greens and browns to provide optimal conditions
+for worm growth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_3_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Using water and sensor probes to calibrate the ideal moisture level for
+the tanks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_3_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students and overseas youth leaders from Singapore International Foundation
+fertilising the spice garden with harvest compost</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
