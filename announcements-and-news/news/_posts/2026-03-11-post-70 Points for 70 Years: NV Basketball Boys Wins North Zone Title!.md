@@ -35,6 +35,9 @@ leaders, teachers, and students, our boys stayed calm. They executed two
 critical shots from beyond the perimeter and remained clinical at the free-throw
 line to widen the gap.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources Page/News/NV_Basketball_NZ_5.jpg">
+</div>
 <p><strong>A Season of Significance</strong>
 </p>
 <p>The final score of 70–64 was more than just a win; it was a poetic tribute
@@ -56,6 +59,13 @@ and coaching staff.</p>
 entire school. The energy from the stands provided the "extra gear" needed
 in the closing minutes of the game. We are incredibly grateful to the teachers
 and staff who have supported these student athletes throughout their journey.</p>
-<p></p>
 <p>Our boys will continue to train hard and strive for excellence at the
 upcoming Nationals!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Resources Page/News/NV_Basketball_NZ_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Resources Page/News/NV_Basketball_NZ_1.jpg">
+</div>
+<p></p>
