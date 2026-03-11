@@ -4,7 +4,7 @@ permalink: /the-vistarian-experience/applied-learning-programme/
 description: ""
 variant: tiptap
 ---
-<p><strong>Applied Learning Programme (ALP) 2023</strong> 
+<p><strong>Applied Learning Programme (ALP) 2026</strong> 
 <br><strong>Contextual Theme: Cities and Urban Landscapes</strong> 
 <br><strong>From Farm to Table Programme</strong>
 </p>
@@ -80,21 +80,74 @@ as fertiliser for the school’s edible gardens.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assembling the class’s hydroponics systemax</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_2.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p>Thinning the seedlings</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Measuring the EC value</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harvesting in Progress</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preparing for the donation of vegetables to the community</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_6.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aeroponics in NV</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<blockquote>
+<p>Tier 2 Programme – BioBloom Composting Project</p>
+</blockquote>
 <p></p>
 <p></p>
