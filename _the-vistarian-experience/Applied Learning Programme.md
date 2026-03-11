@@ -81,7 +81,7 @@ as fertiliser for the school’s edible gardens.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +92,7 @@ as fertiliser for the school’s edible gardens.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ as fertiliser for the school’s edible gardens.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ as fertiliser for the school’s edible gardens.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ as fertiliser for the school’s edible gardens.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_5.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +136,7 @@ as fertiliser for the school’s edible gardens.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_6.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/The Vistarian Experience/ALP/ALP_Sec_1_6.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
