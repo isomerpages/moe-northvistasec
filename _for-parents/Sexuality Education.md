@@ -267,10 +267,9 @@ b. Character and Citizenship Education (CCE)
 
 ### eTeens Programme:
 
-8. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
+8. eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
 
-9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;
-  
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 ### At North Vista Secondary School, the eTeens programme will be implemented as follows in 2026:
 
