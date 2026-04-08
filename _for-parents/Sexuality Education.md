@@ -53,7 +53,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### At North Vista Secondary School, the following lessons from the Growing Years Programme will be taught in 2026: &nbsp;
+### At North Vista Secondary School, the following lessons from the programme will be taught in 2026: &nbsp;
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -294,15 +294,15 @@ b. Character and Citizenship Education (CCE)
 <tbody>
   <tr>
     <td class="tg-0lax">Mass Talk delivered through a pre-recorded video</td>
-    <td class="tg-0lax">•	Raise awareness and provide knowledge on: <br>
-a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use). <br>
-b)	Managing relationships and risky situations in a healthy way.
+    <td class="tg-0lax">•	Raise awareness and provide knowledge on: <br><br>
+a)  Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact <br><br>b) Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure) <br><br>
+c)	Managing relationships and risky situations in a healthy way.
 <br> </td>
     <td class="tg-baqh">Term 2 Week 3</td>
   </tr>
   <tr>
     <td class="tg-0lax">Classroom-based Lesson</td>
-    <td class="tg-0lax">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td>
+    <td class="tg-0lax">•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td>
     <td class="tg-baqh">Term 2 Week 5</td>
   </tr>
 </tbody>
