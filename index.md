@@ -30,4 +30,13 @@ sections:
       alt: Image alt text
   - resources:
       title: Announcements & News
+  - infopic:
+      title: NV 70
+      subtitle: NV Celebrates
+      id: infopic
+      description: 70 Years Anniversary
+      button: More details
+      url: v
+      image: /images/NV70/NV70_.jpg
+      alt: Image alt text
 ---
