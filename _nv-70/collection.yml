@@ -1,5 +1,4 @@
 collections:
   nv-70:
     output: true
-    order:
-      - NV 70.md
+    order: []
