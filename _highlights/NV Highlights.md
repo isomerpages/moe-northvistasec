@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball [2026]</a>
+<p><a href="https://northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball [2026]</a>
 </p>
 </li>
 <li>
