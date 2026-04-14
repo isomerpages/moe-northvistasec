@@ -63,6 +63,25 @@ School</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>Objectives of 德新70 (NV70) Celebration:</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Unite our 德新 family - </strong>Reconnect and engage students,
+staff, alumni, and partners through meaningful activities that foster lasting
+relationships and community ties.</p>
+</li>
+<li>
+<p><strong>Strengthen our 德新 spirit</strong> - <em>Care, Respect, Responsibility, and Resilience</em> —
+across the school community to deepen identity, pride, and belonging.</p>
+</li>
+<li>
+<p><strong>Celebrate 德新 shared legacy -</strong> Honour 70 years of North
+Vista’s history, values, and milestones through events and stories that
+connect past and present generations.</p>
+</li>
+</ol>
+<h2><strong>70 Years, One 德新, One NV</strong></h2>
+<p>Focused on the unity of the school across the 70 years as part of its
+legacy and continuation of the school dynamism for the future.</p>
 <p></p>
 <p></p>
