@@ -40,15 +40,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball [2026]</a>
+</p>
+</li>
+<li>
 <p><a href="nsgbasketballgirls" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls) [2025]</a>
 </p>
 </li>
 <li>
 <p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsgbasketballboys/" rel="noopener nofollow" target="_blank">Basketball (Boys) [2025]</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.northvistasec.moe.edu.sg/highlights/nsg2023netball/" rel="noopener nofollow" target="_blank">Netball [2025]</a>
 </p>
 </li>
 <li>
