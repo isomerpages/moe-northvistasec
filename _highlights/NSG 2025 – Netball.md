@@ -30,6 +30,9 @@ National Rounds this year.</p>
 We would also like to extend a huge thank you to the Netball CCA members
 for cheering for the team at the games!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV Highlights/Netball/Netball_Picture_2.png">
+</div>
 <h3><strong>B Division Netball Championship - 2025</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
