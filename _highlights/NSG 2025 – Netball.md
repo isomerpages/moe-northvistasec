@@ -4,6 +4,9 @@ permalink: /highlights/nsg2023netball/
 description: ""
 variant: tiptap
 ---
+<h3><strong>B Division Netball Championship - 2026</strong></h3>
+<p></p>
+<p></p>
 <h3><strong>B Division Netball Championship - 2025</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -49,25 +52,5 @@ memorable end to Term 1!</p>
 <p><strong>Congratulations to our Netball B Girls for this historic achievement!</strong>
 </p>
 <p></p>
-<h3><strong>C Division Netball Championship - 2023</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV%20Highlights/nsg%20c%20netball%201.JPG">
-</div>
-<p><strong>NSG North Zone C Division Netball Championship</strong>
-</p>
-<p>Our girls faced Singapore Sports School (SSP) in the 3rd/4th placing match
-at the North Zone Netball Championship. The match took place on Friday,
-28 July, at 1.00pm at SUTD.</p>
-<p>Our girls played very well that day. They defended well and forced SSP
-into making a number of turnovers. They were also able to convert most
-of their shots. Our girls won the game 21 – 10.</p>
-<p>Congratulations to our girls for achieving 3rd placing at North Zone Netball
-Championship. We also thanked for the supporters from 2E3, 2N1 and Netball
-CCA members for cheering on the girls at the game.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV%20Highlights/nsg%20c%20netball%202.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV%20Highlights/nsg%20c%20netball%203.JPG">
-</div>
+<h3></h3>
 <p></p>
