@@ -80,8 +80,8 @@ Vista’s history, values, and milestones through events and stories that
 connect past and present generations.</p>
 </li>
 </ol>
-<h2><strong>70 Years, One 德新, One NV</strong></h2>
-<p>Focused on the unity of the school across the 70 years as part of its
-legacy and continuation of the school dynamism for the future.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NV70/70_Years___One_NV.png">
+</div>
 <p></p>
