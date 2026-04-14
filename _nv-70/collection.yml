@@ -2,4 +2,5 @@ collections:
   nv-70:
     output: true
     order:
+      - NV70 Tree Planting Initiative.md
       - NV Celebrates 70 Years.md
