@@ -22,7 +22,7 @@ The application is free-of-charge.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am – 3 June 2025, 3pm</p>
+<p>6 May 2026, 11am – 2 June 2026, 4.30pm</p>
 </td>
 </tr>
 <tr>
