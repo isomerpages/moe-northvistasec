@@ -27,7 +27,7 @@ sections:
       title: NV 70
       subtitle: NV Celebrates
       id: infopic
-      description: 70 Years One 德新 One NV
+      description: 70 Years, One 德新, One NV
       button: More details
       url: /nv-celebrates-70-years/
       image: /images/NV70/NV70_.jpg
