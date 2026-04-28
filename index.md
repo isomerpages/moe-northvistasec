@@ -18,13 +18,25 @@ sections:
         - title: NV Cares
           description: VIA Highlights
           url: https://sites.google.com/view/nvcares
+        - title: Direct School Admission (DSA)
+          description: How to apply
+          url: https://www.northvistasec.moe.edu.sg/howtoapply/
       title: Testing
       variant: image
+  - infopic:
+      title: NV 70
+      subtitle: NV Celebrates
+      id: infopic
+      description: 70 Years, One 德新, One NV
+      button: More details
+      url: /nv-celebrates-70-years/
+      image: /images/NV70/NV70_.jpg
+      alt: Image alt text
   - infopic:
       title: NV Highlights
       button: Find out more!
       url: /highlights/
-      image: /images/Homepage/DSC_9447.jpg
+      image: /images/Homepage/DSC_9447_v2.jpg
       description: Check out our students' latest news and updates! (Competitions, SYF
         & NSG)
       alt: Image alt text

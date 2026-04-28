@@ -6,10 +6,10 @@ variant: tiptap
 third_nav_title: Direct School Admission (DSA)
 ---
 <h3><strong>Selection Outcomes</strong></h3>
-<p>You will receive notification from the school by <strong>Monday, 14 July 2025</strong>,
+<p>You will receive notification from the school by <strong>Monday, 15 July 2026</strong>,
 if your child has been shortlisted to undergo Direct School Admission (DSA)
 selection.</p>
-<p>All applicants will receive their application outcomes <strong>between 25 August and 4 September 2025</strong>.</p>
+<p>All applicants will receive their application outcomes <strong>between 17 August and 28 August 2026</strong>.</p>
 <p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted/given an offer.</p>
 <h3><strong>Further information</strong></h3>
