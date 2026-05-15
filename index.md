@@ -30,7 +30,7 @@ sections:
       description: 70 Years, One 德新, One NV
       button: More details
       url: /nv-celebrates-70-years/
-      image: /images/NV70/10_04_outside_hall_banner_design6_mini.jpg
+      image: /images/NV70/NV_70_Banner.gif
       alt: Image alt text
   - infopic:
       title: NV Highlights
