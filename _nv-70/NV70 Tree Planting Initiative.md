@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>NV70 Tree Planting Initiative (30 – 31 March 2026)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/NV70/NV 70 Tree Planting/NV_70_Tree_planting.gif">
+</div>
 <p>The NV70 Tree Planting Initiative at Pulau Ubin is a signature anniversary
 activity that brings our 德新 family together in purposeful action. Across
 two sessions, we will plant 70 trees, one for each year of North Vista’s
