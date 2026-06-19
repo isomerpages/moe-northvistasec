@@ -11,9 +11,9 @@ The band holds to its motto&nbsp;**‘One Band, One Sound’**, as we believe th
 
 **Teachers-in-Charge:**&nbsp;
 
-Ms Lim Jia Hui <br>
-Mrs Tan Hui Yu <br>
-Mrs Jamna Anba <br>
+Mr Mohammed Asraf <br>
+Mrs Razinah <br>
+Mr Lim Teng Hong <br>
 
 
   
@@ -40,7 +40,7 @@ Mrs Jamna Anba <br>
 <tbody>
   <tr>
     <td class="tg-f4yw">Mondays &amp; Wednesdays</td>
-    <td class="tg-f4yw">3.15 pm - 6.30 pm</td>
+    <td class="tg-f4yw">3.15 pm - 6.00 pm</td>
     <td class="tg-f4yw">Band Room</td>
   </tr>
 </tbody>
