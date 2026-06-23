@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: SMC & Teacher Leaders
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/SMC &amp; Teacher Leaders/Teacher_Leaders_1.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
