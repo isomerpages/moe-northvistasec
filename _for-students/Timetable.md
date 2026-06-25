@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Semester 1, 2026</h3>
+<h3>Semester 2, 2026</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,82 +27,82 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1W1: Jan 5 – Jan 9</p>
+<p>T3W1: Jun 29 – Jul 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W2: Jan 12 - Jan 16</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T1W3: Jan 19 - Jan 23</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T1W4: Jan 26 - Jan 30</p>
+<p>T3W2: Jul 6 – Jul 10</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1W5: Feb 2 - Feb 6</p>
+<p>T3W3: Jul 13 – Jul 17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W6: Feb 9 - Feb 13</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T1W7: Feb 16 - Feb 20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T1W8: Feb 23 - Feb 27</p>
+<p>T3W4: Jul 20 – Jul 24</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1W9: Mar 2 - Mar 6</p>
+<p>T3W5: Jul 27 – Jul 31</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T1W10: Mar 9 - Mar 13</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T2W1: Mar 23 - Mar 27</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T2W2: Mar 30 - Apr 3</p>
+<p>T3W6: Aug 4 – Aug 8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T2W3: Apr 6 - Apr 10</p>
+<p>T3W7: Aug 11 – Aug 15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W4: Apr 13 - Apr 17</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T2W5: Apr 20 - Apr 24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>T2W6: Apr 27 - May 1</p>
+<p>T3W8: Aug 18 – Aug 22</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T2W7: May 4 - May 8</p>
+<p>T3W9: Aug 25 – Aug 29</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W8: May 11 - May 15</p>
+<p>T3W10: Sep 1 – Sep 5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T2W9: May 18 - May 22</p>
+<p>T4W1: Sep 14 – Sep 18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2W10: May 25 - May 29</p>
+<p>T4W2: Sep 21 – Sep 25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T4W3: Sep 28 – Oct 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T4W4: Oct 5 – Oct 9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T4W5: Oct 12 – Oct 16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T4W6: Oct 19 – Oct 23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T4W7: Oct 26 – Oct 30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T4W8: Nov 2 – Nov 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T4W9: Nov 9 – Nov 13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>T4W10: Nov 16 – Nov 20</p>
 </td>
 </tr>
 <tr>
