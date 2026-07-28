@@ -4,7 +4,9 @@ title: North Vista Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/NorthVis.png
 permalink: /
-notification: ""
+notification: Our school website will be undergoing scheduled maintenance on
+  Thursday, 30 July 2026, 8pm – 12am. You may experience difficulties accessing
+  the website during this period. We apologise for any inconvenience caused.
 sections:
   - hero:
       background: /images/Homepage/banner5secs.gif
